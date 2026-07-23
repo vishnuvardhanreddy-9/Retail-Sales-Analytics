@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contact_person,phone,email,city,state
+1,Samsung India,Rahul Sharma,9876543210,sales@samsung.com,Noida,Uttar Pradesh
+2,Apple India,Amit Verma,9876543211,sales@apple.com,Bangalore,Karnataka
+3,HP India,Priya Reddy,9876543212,sales@hp.com,Chennai,Tamil Nadu
+4,Nike India,Karan Singh,9876543213,sales@nike.com,Delhi,Delhi
+5,Adidas India,Sneha Rao,9876543214,sales@adidas.com,Mumbai,Maharashtra
+6,Puma India,Vikram Kumar,9876543215,sales@puma.com,Hyderabad,Telangana
+7,Levi's India,Anjali Gupta,9876543216,sales@levis.com,Bangalore,Karnataka
+8,Fortune Foods,Suresh Babu,9876543217,sales@fortune.com,Ahmedabad,Gujarat
+9,India Gate Foods,Rohit Jain,9876543218,sales@indiagate.com,Delhi,Delhi
+10,Nilkamal Ltd,Harish Patel,9876543219,sales@nilkamal.com,Mumbai,Maharashtra

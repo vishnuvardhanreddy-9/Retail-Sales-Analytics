@@ -1,0 +1,2501 @@
+product_id,product_name,brand,category_id,supplier_id,cost_price,selling_price,stock_unit
+1,Great Electronics,Apple,1,4,2945.58,3666.45,Box
+2,Computer Groceries,Fortune,3,9,3204.66,3325.58,Box
+3,Success Clothing,Adidas,2,8,4105.15,6427.34,Box
+4,Into Sports,Cosco,5,4,1227.66,6978.04,Litre
+5,Attention Furniture,Home Centre,4,6,2242.92,3061.6,Kg
+6,Support Furniture,IKEA,4,4,4111.52,1669.7,Packet
+7,Ahead Furniture,Home Centre,4,5,714.4,3350.95,Box
+8,General Clothing,Adidas,2,10,1340.96,3413.32,Box
+9,Her Electronics,Sony,1,10,509.89,1273.66,Packet
+10,Serve Electronics,Samsung,1,3,3004.48,3285.46,Litre
+11,Standard Electronics,Apple,1,8,1908.73,2901.68,Kg
+12,Really Furniture,Nilkamal,4,3,3289.47,3997.87,Piece
+13,Population Groceries,India Gate,3,7,1337.92,6589.77,Litre
+14,No Furniture,Home Centre,4,8,560.08,716.58,Box
+15,Water Clothing,Levis,2,4,493.5,1902.99,Piece
+16,Many Groceries,India Gate,3,6,2452.71,6208.79,Packet
+17,Century Sports,Cosco,5,2,1128.98,3972.01,Litre
+18,Development Clothing,Puma,2,8,4201.09,2460.45,Piece
+19,Give Groceries,India Gate,3,6,4827.16,6775.97,Kg
+20,Establish Electronics,Samsung,1,10,1314.25,5496.22,Kg
+21,Information Clothing,Adidas,2,4,4237.97,2777.45,Kg
+22,Book Sports,Nivia,5,3,3810.92,2826.08,Box
+23,Quite Groceries,Fortune,3,1,980.48,2981.19,Packet
+24,Rest Furniture,Nilkamal,4,4,356.02,6710.36,Litre
+25,Just Electronics,Apple,1,7,2980.62,6832.68,Kg
+26,Seat Sports,Yonex,5,5,3535.67,6780.34,Box
+27,Detail Clothing,Levis,2,10,1579.2,589.44,Packet
+28,Nothing Electronics,Apple,1,2,3976.73,6341.19,Kg
+29,Subject Groceries,Aashirvaad,3,3,3442.96,1608.59,Box
+30,Study Clothing,Adidas,2,6,2871.16,1541.94,Kg
+31,Season Sports,Yonex,5,8,3776.38,4270.2,Kg
+32,While Groceries,Fortune,3,9,2616.94,5611.0,Litre
+33,Wear Electronics,Apple,1,10,4996.86,6627.19,Piece
+34,Environment Sports,Yonex,5,8,4552.44,3555.61,Litre
+35,Country Groceries,Fortune,3,1,1045.28,6576.42,Kg
+36,Once Clothing,Levis,2,7,114.31,3441.89,Box
+37,At Sports,Yonex,5,8,4487.59,4842.07,Kg
+38,Maintain Groceries,India Gate,3,7,3806.89,5659.32,Piece
+39,Power Groceries,India Gate,3,3,3414.25,5244.19,Box
+40,Effort Electronics,Apple,1,7,2422.65,4338.21,Litre
+41,Strong Electronics,Sony,1,5,3685.29,4921.82,Piece
+42,Idea Electronics,Dell,1,3,1803.6,3905.77,Box
+43,Sense Clothing,Nike,2,2,2237.64,3720.38,Litre
+44,Difference Clothing,Adidas,2,5,300.33,6037.03,Piece
+45,Dinner Sports,Yonex,5,8,3322.58,1204.21,Kg
+46,Day Electronics,Samsung,1,8,4527.67,3044.24,Litre
+47,Action Furniture,IKEA,4,8,2701.98,6048.59,Kg
+48,Run Furniture,Home Centre,4,2,3203.81,614.26,Kg
+49,Do Electronics,Apple,1,2,4643.92,5141.65,Litre
+50,Realize Electronics,Samsung,1,4,4664.4,2281.97,Box
+51,Budget Electronics,Dell,1,7,3249.93,5600.45,Piece
+52,Answer Sports,Nivia,5,2,1897.85,562.81,Packet
+53,Use Electronics,Apple,1,1,4907.82,3672.86,Kg
+54,Fact Furniture,Home Centre,4,8,4983.32,5807.31,Box
+55,Nearly Groceries,Aashirvaad,3,3,3433.12,5397.48,Box
+56,Practice Sports,Nivia,5,6,3076.18,3580.67,Packet
+57,While Electronics,Apple,1,4,3537.23,4532.54,Box
+58,Huge Sports,Cosco,5,3,4165.81,1288.57,Box
+59,Important Groceries,India Gate,3,2,4926.49,6482.26,Piece
+60,Over Clothing,Puma,2,6,4296.54,6869.9,Piece
+61,Camera Electronics,Dell,1,7,1488.81,758.37,Kg
+62,Base Sports,Yonex,5,8,2509.75,3072.74,Litre
+63,Miss Furniture,Nilkamal,4,9,4658.27,805.65,Kg
+64,Unit Clothing,Nike,2,9,3006.16,3906.9,Box
+65,Smile Furniture,IKEA,4,1,3607.93,2902.41,Kg
+66,Past Electronics,Samsung,1,3,2415.17,3525.51,Box
+67,Benefit Electronics,Apple,1,10,3190.51,5548.93,Packet
+68,Human Clothing,Levis,2,4,1345.23,2139.22,Litre
+69,Economic Furniture,Nilkamal,4,10,3334.45,1462.53,Litre
+70,Than Sports,Yonex,5,5,2110.2,3636.42,Packet
+71,Personal Furniture,Home Centre,4,7,1579.17,4378.31,Box
+72,Stand Clothing,Puma,2,5,1958.9,2169.09,Piece
+73,Maybe Furniture,Home Centre,4,1,3396.96,5800.5,Box
+74,Resource Furniture,IKEA,4,7,4986.97,3792.67,Litre
+75,Decision Furniture,IKEA,4,4,993.53,4636.49,Litre
+76,Yes Clothing,Levis,2,7,3341.88,590.03,Litre
+77,End Furniture,IKEA,4,2,3180.68,6056.45,Box
+78,Manager Sports,Yonex,5,4,4891.19,2782.48,Packet
+79,Material Clothing,Puma,2,6,688.37,6710.86,Packet
+80,Determine Groceries,Fortune,3,6,3107.43,6970.7,Packet
+81,Possible Clothing,Nike,2,7,1106.53,2922.47,Box
+82,Become Groceries,India Gate,3,3,4975.04,6518.87,Packet
+83,Under Furniture,IKEA,4,6,2535.16,6822.63,Litre
+84,Place Electronics,HP,1,9,3099.13,4552.79,Piece
+85,Car Furniture,Nilkamal,4,8,1100.38,633.31,Litre
+86,Ahead Sports,Cosco,5,3,352.54,1747.92,Litre
+87,Business Sports,Nivia,5,7,4501.43,6221.51,Litre
+88,Former Groceries,Fortune,3,10,4369.28,680.35,Box
+89,Prevent Furniture,Nilkamal,4,8,1624.74,6572.9,Packet
+90,Very Furniture,Home Centre,4,2,4039.08,740.63,Kg
+91,Should Furniture,IKEA,4,3,4569.77,6625.89,Litre
+92,Give Clothing,Puma,2,7,2966.75,2685.32,Packet
+93,Ground Clothing,Levis,2,5,3941.42,2348.16,Packet
+94,Policy Groceries,India Gate,3,10,2553.82,1475.75,Piece
+95,Near Clothing,Nike,2,10,2314.25,5873.91,Piece
+96,Few Furniture,Nilkamal,4,5,2137.41,3170.77,Piece
+97,Project Furniture,Nilkamal,4,4,4021.79,2031.37,Kg
+98,Field Clothing,Adidas,2,5,3716.6,3399.66,Piece
+99,Information Furniture,IKEA,4,4,3634.25,5873.58,Piece
+100,Popular Groceries,Fortune,3,8,1695.66,1249.93,Piece
+101,Wrong Groceries,Aashirvaad,3,2,1158.46,3183.32,Packet
+102,Area Clothing,Adidas,2,1,114.38,3214.69,Piece
+103,May Clothing,Nike,2,3,3610.61,5645.03,Box
+104,From Sports,Cosco,5,7,4263.68,3230.68,Kg
+105,Meet Furniture,IKEA,4,9,3587.17,2613.38,Litre
+106,Economy Furniture,Nilkamal,4,8,4862.87,1996.38,Packet
+107,Do Groceries,Aashirvaad,3,1,4171.08,4108.3,Box
+108,There Groceries,Aashirvaad,3,5,3796.15,1314.6,Box
+109,Security Electronics,Samsung,1,3,3098.71,3443.52,Piece
+110,Safe Sports,Cosco,5,10,2738.49,3129.83,Piece
+111,Not Groceries,India Gate,3,10,722.6,5374.36,Kg
+112,Start Electronics,Apple,1,7,2856.82,3863.31,Kg
+113,Rock Furniture,Nilkamal,4,10,2850.8,3127.17,Litre
+114,Including Groceries,Fortune,3,8,4987.93,3424.14,Piece
+115,Step Sports,Cosco,5,4,3644.62,5546.22,Litre
+116,Adult Clothing,Nike,2,10,4022.64,5708.39,Packet
+117,Prove Groceries,India Gate,3,8,2508.19,4780.26,Piece
+118,Talk Clothing,Nike,2,9,3535.11,5672.28,Packet
+119,Debate Electronics,Sony,1,6,3749.48,729.81,Packet
+120,Large Clothing,Puma,2,10,1513.19,2348.59,Packet
+121,Together Sports,Cosco,5,5,2489.38,3907.82,Piece
+122,Bit Sports,Yonex,5,3,3478.52,5170.14,Box
+123,Month Furniture,Home Centre,4,4,2066.86,1198.2,Piece
+124,Few Groceries,Aashirvaad,3,5,2889.23,3866.77,Litre
+125,Property Electronics,Dell,1,1,3214.9,5482.85,Box
+126,Road Groceries,Fortune,3,10,3489.65,2022.75,Piece
+127,Figure Clothing,Nike,2,9,208.49,5060.01,Box
+128,Wife Furniture,IKEA,4,8,3772.48,4041.77,Box
+129,None Groceries,India Gate,3,5,971.49,4917.97,Box
+130,Might Groceries,India Gate,3,1,4511.88,2521.84,Packet
+131,Deal Clothing,Adidas,2,4,1416.53,6308.77,Kg
+132,Over Furniture,Home Centre,4,4,1312.64,4670.89,Kg
+133,Building Groceries,Aashirvaad,3,4,4002.32,6670.03,Litre
+134,Way Groceries,India Gate,3,2,2968.97,1059.72,Litre
+135,Design Clothing,Adidas,2,5,4801.62,1029.24,Piece
+136,Onto Furniture,IKEA,4,3,3865.23,1063.14,Litre
+137,Act Sports,Cosco,5,4,1484.3,4159.1,Litre
+138,At Clothing,Puma,2,4,3599.65,3034.66,Piece
+139,Early Clothing,Levis,2,6,1464.23,4288.33,Piece
+140,Wonder Groceries,Fortune,3,6,4466.96,1953.83,Litre
+141,Score Sports,Nivia,5,9,466.77,6949.32,Packet
+142,Concern Furniture,Home Centre,4,3,2676.27,2574.94,Packet
+143,With Furniture,IKEA,4,8,770.49,1327.23,Packet
+144,My Clothing,Nike,2,4,4789.25,6879.34,Kg
+145,Stuff Sports,Yonex,5,10,3476.4,3693.82,Kg
+146,Whatever Furniture,Home Centre,4,5,4614.19,4138.31,Litre
+147,Sign Groceries,Fortune,3,10,1798.75,930.47,Piece
+148,War Groceries,India Gate,3,9,2340.85,2279.54,Piece
+149,Offer Clothing,Adidas,2,6,3392.99,4868.9,Packet
+150,Speak Clothing,Levis,2,5,2810.26,2500.51,Packet
+151,Feel Electronics,Sony,1,6,2151.63,2720.82,Kg
+152,Source Furniture,Nilkamal,4,9,670.54,2658.63,Box
+153,Something Groceries,Aashirvaad,3,7,3193.65,3634.49,Box
+154,Treat Sports,Yonex,5,5,3352.17,4563.28,Packet
+155,None Groceries,Fortune,3,8,3974.86,658.57,Kg
+156,Dream Groceries,Aashirvaad,3,4,1697.02,5781.95,Piece
+157,World Electronics,Samsung,1,5,3078.52,2638.0,Packet
+158,Point Groceries,Fortune,3,2,2316.32,674.22,Kg
+159,Realize Furniture,IKEA,4,8,2793.1,4067.0,Kg
+160,Save Electronics,Apple,1,5,2576.87,4162.46,Piece
+161,Meeting Electronics,Dell,1,10,455.59,4231.19,Packet
+162,Kind Clothing,Adidas,2,1,2679.55,2882.57,Box
+163,Establish Groceries,Fortune,3,7,4492.12,1990.02,Piece
+164,Coach Sports,Yonex,5,8,2504.13,3001.73,Piece
+165,Control Furniture,Home Centre,4,5,4960.85,4049.21,Kg
+166,Force Electronics,Sony,1,8,4648.53,3679.36,Kg
+167,Himself Electronics,HP,1,9,4094.68,5352.65,Packet
+168,General Clothing,Puma,2,9,827.46,4066.88,Box
+169,Argue Electronics,Dell,1,7,2525.75,4463.01,Piece
+170,Member Clothing,Levis,2,10,3695.27,2460.9,Litre
+171,Bring Clothing,Levis,2,8,2975.43,4986.85,Box
+172,What Groceries,Aashirvaad,3,2,3820.68,1064.93,Packet
+173,College Sports,Nivia,5,6,1496.75,819.48,Kg
+174,Reality Clothing,Levis,2,4,679.47,1947.18,Box
+175,Anyone Furniture,IKEA,4,6,2494.0,3834.47,Kg
+176,Natural Electronics,Samsung,1,2,2949.03,1919.4,Kg
+177,Use Sports,Yonex,5,8,1081.56,5395.78,Litre
+178,Capital Clothing,Nike,2,7,2557.91,5837.17,Piece
+179,Despite Clothing,Levis,2,5,3740.45,2117.54,Litre
+180,Near Groceries,Fortune,3,10,2646.41,2099.25,Kg
+181,Time Furniture,Home Centre,4,2,1602.5,5147.51,Packet
+182,Court Electronics,Apple,1,3,4296.27,6563.8,Box
+183,Entire Groceries,Fortune,3,6,307.24,1131.57,Litre
+184,Would Sports,Cosco,5,8,3128.74,5646.23,Packet
+185,Evening Groceries,Fortune,3,9,3930.75,869.32,Packet
+186,Answer Electronics,Sony,1,8,1802.63,6644.8,Piece
+187,Two Furniture,Home Centre,4,9,4625.0,3484.65,Box
+188,Build Sports,Nivia,5,8,610.92,878.87,Piece
+189,Daughter Groceries,India Gate,3,4,2463.98,2735.51,Piece
+190,Adult Groceries,India Gate,3,7,1623.72,6914.0,Litre
+191,Ability Groceries,Fortune,3,4,1161.1,4732.83,Litre
+192,Their Sports,Yonex,5,3,3273.58,1054.6,Box
+193,Lose Groceries,India Gate,3,3,2911.72,2915.92,Litre
+194,Candidate Electronics,HP,1,2,2343.22,4463.54,Kg
+195,Order Sports,Cosco,5,3,881.85,2665.95,Litre
+196,Born Electronics,HP,1,1,778.43,2391.82,Packet
+197,Ahead Electronics,HP,1,3,3618.93,1880.76,Piece
+198,Shoulder Groceries,Fortune,3,6,3807.79,1130.92,Litre
+199,Huge Electronics,HP,1,8,3612.91,5227.02,Box
+200,Program Groceries,Fortune,3,9,3129.23,894.0,Box
+201,Look Sports,Yonex,5,2,313.4,1537.66,Piece
+202,All Groceries,Aashirvaad,3,8,239.02,2711.45,Box
+203,Clear Clothing,Adidas,2,1,1722.23,5980.13,Kg
+204,Cell Groceries,Aashirvaad,3,2,372.07,5245.2,Piece
+205,Stage Furniture,Home Centre,4,6,1001.28,3529.56,Kg
+206,Run Sports,Yonex,5,8,3803.7,5785.02,Kg
+207,Hope Clothing,Adidas,2,8,1898.53,6744.96,Packet
+208,Again Furniture,IKEA,4,1,445.68,2374.69,Box
+209,Development Electronics,Apple,1,10,3909.08,623.18,Litre
+210,Resource Sports,Yonex,5,6,2982.06,2804.29,Kg
+211,Low Furniture,Nilkamal,4,1,2394.41,2945.66,Kg
+212,Option Furniture,IKEA,4,5,2672.79,5383.76,Box
+213,Fact Sports,Nivia,5,10,2519.78,5767.1,Kg
+214,Campaign Electronics,HP,1,7,479.19,3182.92,Piece
+215,Watch Electronics,Sony,1,10,469.17,5873.64,Box
+216,Education Furniture,Nilkamal,4,8,2660.97,6779.86,Litre
+217,Type Furniture,Home Centre,4,9,2969.05,5133.62,Packet
+218,Letter Groceries,Fortune,3,7,4768.53,2665.39,Box
+219,Whom Furniture,IKEA,4,8,3568.02,4397.87,Litre
+220,Food Sports,Cosco,5,10,3336.04,3854.23,Piece
+221,School Groceries,Aashirvaad,3,9,1441.34,1096.96,Piece
+222,Current Clothing,Nike,2,7,886.59,2458.27,Piece
+223,Recently Sports,Cosco,5,2,2936.53,6123.77,Piece
+224,Me Sports,Nivia,5,4,2703.47,5412.31,Box
+225,Draw Furniture,IKEA,4,6,3791.19,4722.58,Box
+226,Cold Electronics,Dell,1,10,2856.94,3751.52,Piece
+227,Picture Electronics,Dell,1,7,545.8,1438.82,Piece
+228,He Furniture,Home Centre,4,2,2469.51,1477.18,Kg
+229,Explain Clothing,Adidas,2,8,1008.17,4540.94,Piece
+230,Eat Electronics,Dell,1,5,400.67,6183.06,Box
+231,Walk Furniture,Home Centre,4,10,1470.41,4253.86,Piece
+232,Wife Groceries,Aashirvaad,3,6,1447.77,3459.64,Packet
+233,Start Furniture,IKEA,4,10,2746.35,3692.98,Litre
+234,Second Sports,Yonex,5,5,2719.42,5478.4,Piece
+235,Couple Electronics,HP,1,7,2930.57,831.09,Litre
+236,Vote Furniture,IKEA,4,7,2619.36,4128.84,Piece
+237,Indeed Furniture,Nilkamal,4,8,2068.28,6665.76,Kg
+238,Itself Electronics,Samsung,1,3,1916.33,2160.94,Packet
+239,Trial Groceries,Aashirvaad,3,5,2708.92,1036.35,Packet
+240,Age Sports,Nivia,5,4,1785.83,2202.47,Kg
+241,This Electronics,Apple,1,2,4676.36,5400.42,Packet
+242,Audience Groceries,India Gate,3,8,2722.31,3866.42,Packet
+243,Station Clothing,Levis,2,7,1223.18,6560.9,Kg
+244,Watch Sports,Cosco,5,10,2276.91,1374.85,Box
+245,Professor Clothing,Puma,2,9,1116.8,2686.3,Litre
+246,Difficult Furniture,IKEA,4,2,4392.98,2643.64,Box
+247,Similar Groceries,India Gate,3,7,1824.46,3451.19,Packet
+248,Poor Clothing,Nike,2,3,1115.24,4413.37,Piece
+249,Yet Furniture,Nilkamal,4,8,4270.14,6692.58,Packet
+250,Partner Electronics,Apple,1,1,873.45,4291.92,Packet
+251,Success Groceries,India Gate,3,2,1649.76,507.97,Litre
+252,Something Furniture,IKEA,4,3,536.15,5655.06,Box
+253,Side Groceries,India Gate,3,10,1373.91,1875.27,Litre
+254,Half Sports,Yonex,5,2,269.62,2446.72,Litre
+255,Republican Furniture,Nilkamal,4,9,2715.74,2737.63,Piece
+256,Discover Sports,Yonex,5,4,402.35,2300.25,Packet
+257,Simple Sports,Yonex,5,8,3376.67,4161.49,Box
+258,List Furniture,Home Centre,4,5,3490.41,5594.61,Kg
+259,Sport Furniture,Nilkamal,4,1,2219.86,6528.8,Packet
+260,Affect Electronics,HP,1,4,1520.25,6575.48,Kg
+261,Eye Electronics,Sony,1,5,4342.07,3225.7,Kg
+262,Difference Sports,Cosco,5,10,2783.52,2470.91,Piece
+263,Example Sports,Yonex,5,6,4752.9,3174.34,Kg
+264,North Groceries,Aashirvaad,3,1,1256.35,2982.79,Box
+265,Then Sports,Nivia,5,4,1699.35,6941.12,Piece
+266,Safe Electronics,Dell,1,4,323.71,887.04,Piece
+267,Box Electronics,Samsung,1,8,4501.14,625.97,Piece
+268,Music Furniture,Nilkamal,4,9,4240.37,6708.75,Piece
+269,Simple Furniture,IKEA,4,1,3966.67,4611.97,Packet
+270,Beat Sports,Yonex,5,3,995.56,4682.76,Kg
+271,Director Groceries,Fortune,3,1,1270.0,4764.19,Packet
+272,Best Electronics,Dell,1,4,1400.24,934.47,Packet
+273,Difference Electronics,HP,1,2,938.21,1579.55,Piece
+274,Economy Furniture,Nilkamal,4,5,3594.94,5911.28,Piece
+275,Wrong Sports,Cosco,5,6,2240.73,735.32,Packet
+276,Speech Clothing,Levis,2,9,2268.46,2647.44,Kg
+277,Yet Clothing,Levis,2,3,3111.31,5148.09,Packet
+278,Crime Furniture,IKEA,4,8,1672.07,2534.47,Packet
+279,Must Groceries,Fortune,3,10,3056.11,2394.74,Packet
+280,Five Electronics,Samsung,1,3,2194.12,1494.92,Piece
+281,Admit Clothing,Puma,2,1,4992.54,2436.36,Litre
+282,Economic Groceries,Fortune,3,2,3867.37,5939.59,Litre
+283,Miss Groceries,Aashirvaad,3,10,3634.5,3722.14,Kg
+284,To Clothing,Adidas,2,6,2511.36,2227.38,Packet
+285,Drop Clothing,Puma,2,8,2459.62,4169.15,Box
+286,Itself Sports,Nivia,5,10,4622.65,3181.22,Piece
+287,Former Furniture,Home Centre,4,10,3812.0,2400.17,Packet
+288,Debate Furniture,Nilkamal,4,4,2067.47,3101.4,Kg
+289,Player Furniture,IKEA,4,4,4508.82,3402.31,Packet
+290,Source Groceries,Aashirvaad,3,8,4600.37,713.88,Packet
+291,Catch Electronics,Sony,1,6,3462.1,2130.28,Kg
+292,Probably Furniture,Nilkamal,4,2,426.11,3641.74,Packet
+293,City Groceries,Aashirvaad,3,3,2644.62,6749.22,Kg
+294,Writer Furniture,Nilkamal,4,5,1918.25,3053.75,Piece
+295,Place Furniture,IKEA,4,10,2368.8,3992.95,Litre
+296,Well Groceries,Aashirvaad,3,9,1541.77,2656.67,Piece
+297,Fire Furniture,Nilkamal,4,8,104.62,4308.57,Litre
+298,Serious Sports,Cosco,5,5,4232.64,1559.62,Box
+299,Vote Electronics,HP,1,7,3003.44,5904.45,Packet
+300,Rise Groceries,India Gate,3,9,3650.84,2385.28,Packet
+301,Car Groceries,Fortune,3,2,2095.75,3928.98,Litre
+302,Dark Clothing,Nike,2,7,515.94,2844.74,Kg
+303,Team Sports,Yonex,5,5,3618.95,5249.65,Piece
+304,Class Electronics,Apple,1,3,3176.05,4321.03,Box
+305,Drop Sports,Cosco,5,2,4604.34,2692.11,Litre
+306,Quite Furniture,Home Centre,4,2,712.15,2402.59,Packet
+307,Walk Clothing,Puma,2,9,3466.52,3557.55,Litre
+308,Total Clothing,Levis,2,2,2595.48,5288.15,Packet
+309,Form Sports,Nivia,5,1,992.88,5839.54,Packet
+310,Century Sports,Yonex,5,3,4590.11,5541.81,Box
+311,You Sports,Nivia,5,6,2070.03,5833.49,Packet
+312,Protect Furniture,Home Centre,4,7,4558.36,3864.88,Litre
+313,Office Furniture,Home Centre,4,10,3722.32,4614.61,Litre
+314,Eat Electronics,Sony,1,6,4747.9,4616.15,Box
+315,System Clothing,Puma,2,2,1651.04,6502.33,Box
+316,Public Clothing,Levis,2,3,2298.03,5529.76,Packet
+317,Effect Groceries,India Gate,3,8,602.83,5979.82,Litre
+318,Education Furniture,Nilkamal,4,9,2030.76,5345.93,Box
+319,Bed Sports,Cosco,5,10,608.59,4610.48,Litre
+320,Memory Electronics,Sony,1,5,3226.73,2026.58,Litre
+321,Ever Clothing,Adidas,2,6,1562.3,3024.77,Kg
+322,Everyone Furniture,IKEA,4,1,883.05,4659.58,Packet
+323,Assume Groceries,India Gate,3,8,567.93,4296.13,Kg
+324,Enough Furniture,Nilkamal,4,2,4242.0,502.51,Litre
+325,Head Groceries,Aashirvaad,3,2,3592.97,1822.59,Packet
+326,Fact Clothing,Adidas,2,2,2021.22,1668.36,Kg
+327,Particular Electronics,Dell,1,4,3600.39,5559.55,Kg
+328,Wife Groceries,Fortune,3,9,1586.79,3384.41,Kg
+329,Sometimes Groceries,India Gate,3,7,3992.75,6218.65,Piece
+330,Listen Furniture,Home Centre,4,3,3729.51,3350.2,Box
+331,Window Electronics,Dell,1,7,3376.83,2565.35,Kg
+332,Participant Sports,Yonex,5,4,672.88,4042.23,Packet
+333,Doctor Electronics,Sony,1,2,1707.64,3818.98,Box
+334,Career Furniture,Nilkamal,4,7,3179.26,4930.85,Box
+335,Today Clothing,Nike,2,1,3850.7,4945.77,Piece
+336,Dog Sports,Yonex,5,7,356.51,1830.98,Litre
+337,Phone Sports,Nivia,5,3,3687.49,3018.7,Packet
+338,Recently Clothing,Puma,2,4,3360.3,3170.83,Packet
+339,Card Sports,Cosco,5,10,4447.83,1681.99,Box
+340,Relationship Electronics,HP,1,6,398.91,1617.86,Box
+341,Through Groceries,Fortune,3,9,509.75,4598.85,Box
+342,Top Sports,Nivia,5,3,1237.86,801.62,Box
+343,Their Electronics,Apple,1,9,1370.43,6090.74,Piece
+344,During Electronics,Apple,1,9,3558.21,4919.5,Piece
+345,Account Clothing,Nike,2,10,681.87,531.84,Piece
+346,Officer Sports,Cosco,5,9,2391.68,5813.65,Kg
+347,Black Groceries,India Gate,3,6,3470.68,2051.48,Box
+348,Quickly Groceries,Aashirvaad,3,7,1271.4,6307.77,Packet
+349,Before Electronics,HP,1,9,810.34,1747.23,Packet
+350,Sea Electronics,Samsung,1,1,261.04,6445.74,Packet
+351,Image Groceries,Fortune,3,6,3073.74,5180.49,Litre
+352,Very Clothing,Adidas,2,9,3201.65,1823.35,Litre
+353,Ten Electronics,Sony,1,4,3106.57,1221.2,Kg
+354,Matter Furniture,Nilkamal,4,4,2497.58,5082.8,Piece
+355,Than Sports,Cosco,5,8,4052.63,3157.28,Piece
+356,Movement Sports,Nivia,5,9,3316.41,1691.16,Packet
+357,Gas Sports,Cosco,5,10,2084.76,3235.81,Kg
+358,Election Sports,Nivia,5,7,970.0,6955.98,Packet
+359,Individual Electronics,HP,1,6,242.01,2901.03,Packet
+360,Blue Electronics,Samsung,1,2,2998.03,5553.12,Piece
+361,Decade Clothing,Adidas,2,9,2388.87,6510.71,Packet
+362,What Electronics,Samsung,1,5,2103.83,5929.71,Piece
+363,Toward Clothing,Levis,2,8,3348.11,3911.48,Kg
+364,Fish Sports,Nivia,5,6,3289.71,3159.26,Kg
+365,Hotel Electronics,Sony,1,6,2715.7,3967.83,Packet
+366,Parent Electronics,HP,1,8,1876.34,4421.1,Piece
+367,Wrong Clothing,Adidas,2,8,1823.38,6847.04,Kg
+368,Cold Clothing,Nike,2,5,3881.79,5307.74,Box
+369,Technology Furniture,Nilkamal,4,7,4813.32,3240.85,Piece
+370,Area Electronics,Samsung,1,9,1243.58,6899.94,Piece
+371,Off Groceries,India Gate,3,7,1924.41,4238.08,Piece
+372,Several Groceries,Fortune,3,9,3921.93,592.2,Packet
+373,Walk Groceries,Aashirvaad,3,3,428.11,5716.41,Kg
+374,Remember Groceries,India Gate,3,4,773.41,1190.79,Box
+375,Agency Sports,Cosco,5,4,4263.71,1365.22,Packet
+376,Deal Furniture,Nilkamal,4,10,400.01,1136.3,Kg
+377,Never Sports,Yonex,5,4,2091.14,1852.32,Piece
+378,Actually Electronics,Apple,1,5,302.7,6983.36,Packet
+379,Field Clothing,Puma,2,1,2291.88,2541.43,Box
+380,Final Sports,Nivia,5,3,2938.59,3912.22,Packet
+381,Low Electronics,HP,1,4,3312.71,6671.77,Piece
+382,Sing Clothing,Levis,2,7,3658.91,6165.65,Kg
+383,Ahead Furniture,Nilkamal,4,1,1658.72,5444.48,Litre
+384,Eat Sports,Cosco,5,8,4680.92,579.54,Piece
+385,Detail Clothing,Levis,2,3,2754.16,3631.13,Kg
+386,Great Furniture,Nilkamal,4,10,1935.45,2015.63,Litre
+387,Economic Groceries,Fortune,3,6,4956.02,5959.26,Kg
+388,Present Clothing,Puma,2,6,4582.93,523.74,Box
+389,North Electronics,Sony,1,10,3330.91,6488.75,Box
+390,Shake Groceries,Fortune,3,2,1242.95,6619.97,Packet
+391,Long Sports,Cosco,5,3,1479.87,2368.77,Piece
+392,Mission Clothing,Puma,2,8,766.19,3929.59,Box
+393,Best Groceries,Aashirvaad,3,5,4239.93,6892.47,Piece
+394,Shoulder Clothing,Levis,2,1,2743.71,3263.16,Piece
+395,Lead Groceries,Aashirvaad,3,5,698.36,3411.03,Litre
+396,Sure Groceries,Fortune,3,3,465.3,5456.29,Packet
+397,Add Furniture,IKEA,4,3,1536.78,2328.21,Packet
+398,Point Sports,Nivia,5,6,2743.12,2030.23,Box
+399,About Furniture,Home Centre,4,7,3137.71,3548.5,Kg
+400,Good Groceries,India Gate,3,5,3257.02,5908.68,Piece
+401,Skill Groceries,India Gate,3,4,1370.9,2774.15,Packet
+402,Vote Furniture,Home Centre,4,3,3469.38,6604.02,Packet
+403,Though Groceries,India Gate,3,7,922.29,6934.09,Box
+404,Country Clothing,Adidas,2,9,4978.82,3058.93,Packet
+405,Return Electronics,Samsung,1,6,1309.26,1604.94,Litre
+406,Loss Clothing,Puma,2,7,1377.32,3191.56,Kg
+407,Activity Groceries,Aashirvaad,3,1,1009.87,6807.2,Packet
+408,Indeed Furniture,Nilkamal,4,6,2101.53,1437.18,Packet
+409,Kid Sports,Yonex,5,2,4110.07,1466.17,Piece
+410,Argue Electronics,Apple,1,10,2103.37,3613.36,Litre
+411,Two Furniture,Nilkamal,4,2,793.49,1584.75,Box
+412,Order Furniture,IKEA,4,3,3350.71,4546.86,Piece
+413,He Groceries,Aashirvaad,3,3,4448.23,6471.45,Kg
+414,Science Clothing,Nike,2,6,4156.18,923.49,Box
+415,Their Clothing,Levis,2,8,1616.97,2074.7,Piece
+416,Issue Clothing,Nike,2,7,2400.19,1194.18,Box
+417,Debate Clothing,Puma,2,3,3990.81,1490.67,Box
+418,Once Clothing,Levis,2,3,3257.01,5821.91,Piece
+419,Get Groceries,Aashirvaad,3,10,1962.19,4142.86,Litre
+420,Suffer Furniture,Nilkamal,4,6,3319.15,4097.19,Box
+421,Senior Furniture,Nilkamal,4,5,1594.8,6725.01,Piece
+422,Throughout Furniture,IKEA,4,3,1682.75,3936.95,Packet
+423,Course Electronics,Sony,1,9,1862.58,1270.86,Piece
+424,American Clothing,Levis,2,8,2436.07,3440.64,Piece
+425,Argue Sports,Nivia,5,9,335.17,2335.3,Litre
+426,Care Electronics,Apple,1,6,2293.94,1792.85,Kg
+427,Fight Furniture,IKEA,4,10,1333.8,4586.13,Box
+428,Theory Electronics,Dell,1,9,1356.47,6459.8,Kg
+429,Sport Electronics,HP,1,10,338.59,1537.07,Litre
+430,Price Groceries,Aashirvaad,3,6,643.89,2146.6,Litre
+431,Unit Clothing,Puma,2,3,3885.44,3840.78,Litre
+432,Some Clothing,Puma,2,7,3421.77,2127.52,Piece
+433,Foot Groceries,India Gate,3,3,4786.56,1639.87,Kg
+434,Night Clothing,Levis,2,8,3514.29,2561.82,Kg
+435,Lose Furniture,IKEA,4,4,933.09,6582.0,Packet
+436,Force Furniture,Home Centre,4,3,3034.8,2777.54,Piece
+437,She Groceries,India Gate,3,5,2643.03,5881.89,Piece
+438,Produce Electronics,Samsung,1,7,1151.23,1636.67,Litre
+439,Each Electronics,Sony,1,9,2435.78,1125.23,Litre
+440,Among Furniture,Home Centre,4,7,932.39,5695.09,Piece
+441,Happen Clothing,Adidas,2,7,1460.98,2686.46,Piece
+442,Senior Electronics,Samsung,1,9,2266.15,3350.08,Packet
+443,Unit Sports,Nivia,5,2,4192.03,3009.07,Packet
+444,Boy Furniture,Home Centre,4,10,4736.16,4120.21,Packet
+445,Have Clothing,Adidas,2,1,1052.95,1349.37,Packet
+446,Probably Sports,Cosco,5,7,146.54,5555.68,Packet
+447,Strong Groceries,Fortune,3,7,210.75,6505.61,Litre
+448,Ever Clothing,Nike,2,9,4535.34,6548.14,Piece
+449,Suffer Furniture,IKEA,4,8,3148.1,4352.31,Litre
+450,Wide Clothing,Nike,2,8,1244.12,3846.09,Kg
+451,Fine Sports,Nivia,5,8,4535.6,2453.68,Packet
+452,Low Electronics,Samsung,1,8,4523.14,2394.16,Litre
+453,Edge Electronics,HP,1,5,2931.8,2106.8,Litre
+454,Effect Clothing,Adidas,2,10,3299.67,3354.38,Box
+455,About Clothing,Puma,2,2,497.63,5599.88,Litre
+456,Bed Electronics,Apple,1,9,533.14,2751.67,Piece
+457,Candidate Electronics,Dell,1,4,4488.29,3005.01,Litre
+458,Reason Electronics,Sony,1,2,4582.46,6547.25,Litre
+459,Tv Sports,Nivia,5,4,226.68,4965.67,Box
+460,Season Groceries,Fortune,3,10,2582.41,1063.91,Litre
+461,Teach Groceries,India Gate,3,6,3228.92,6567.91,Piece
+462,Cut Sports,Cosco,5,5,4622.51,2935.38,Piece
+463,Near Groceries,Fortune,3,4,4938.36,1264.73,Box
+464,Professional Furniture,Home Centre,4,6,4521.49,6594.83,Box
+465,Later Groceries,Fortune,3,4,937.85,5816.42,Packet
+466,Sort Groceries,Fortune,3,9,1408.83,3237.85,Box
+467,Charge Electronics,Sony,1,10,1576.06,6073.33,Kg
+468,No Groceries,India Gate,3,8,2932.84,6896.7,Piece
+469,Only Electronics,HP,1,5,2429.15,3386.63,Box
+470,Material Electronics,Dell,1,7,3028.12,4412.83,Kg
+471,Material Furniture,Home Centre,4,1,1119.01,5695.13,Packet
+472,Consider Clothing,Adidas,2,8,606.27,1913.55,Piece
+473,Until Sports,Yonex,5,3,2427.86,3833.1,Litre
+474,Answer Furniture,IKEA,4,10,3292.99,6660.76,Packet
+475,Must Groceries,Aashirvaad,3,4,981.54,1383.65,Kg
+476,Seek Electronics,Apple,1,9,1432.87,2692.76,Box
+477,Company Electronics,Apple,1,1,4505.52,5794.53,Box
+478,Will Groceries,Fortune,3,10,3276.8,5486.72,Piece
+479,Answer Groceries,India Gate,3,10,2868.31,1845.83,Kg
+480,Understand Groceries,Aashirvaad,3,9,1720.0,4974.22,Litre
+481,Talk Groceries,Fortune,3,5,3717.37,2327.7,Litre
+482,Style Clothing,Nike,2,3,1361.22,3044.29,Kg
+483,Any Electronics,HP,1,5,1903.86,955.56,Kg
+484,Consider Groceries,Fortune,3,4,634.05,3607.02,Litre
+485,Number Furniture,Nilkamal,4,2,4903.72,5067.52,Packet
+486,That Furniture,Nilkamal,4,7,1293.08,4507.38,Packet
+487,Herself Furniture,Home Centre,4,8,320.62,6559.62,Box
+488,Audience Sports,Cosco,5,8,3518.48,1269.43,Packet
+489,Special Groceries,Aashirvaad,3,1,1515.98,5543.19,Kg
+490,Produce Electronics,HP,1,1,269.22,3879.42,Packet
+491,Of Sports,Nivia,5,1,3445.09,6071.27,Kg
+492,Behavior Groceries,Fortune,3,6,2760.66,698.13,Piece
+493,Much Sports,Nivia,5,4,2750.37,3683.0,Piece
+494,Pull Electronics,Sony,1,3,4699.78,1796.56,Piece
+495,More Sports,Cosco,5,5,358.13,582.59,Kg
+496,This Electronics,Dell,1,10,4402.55,5284.42,Litre
+497,Method Furniture,IKEA,4,1,1299.33,4012.86,Box
+498,Knowledge Sports,Nivia,5,10,547.71,5416.98,Litre
+499,Work Groceries,India Gate,3,4,3522.28,1019.88,Packet
+500,Environment Furniture,IKEA,4,9,151.35,3158.62,Piece
+501,Part Electronics,Sony,1,4,3590.72,3771.77,Litre
+502,Behind Sports,Nivia,5,6,1928.27,3446.8,Box
+503,Choice Groceries,Fortune,3,8,1562.63,3908.19,Litre
+504,Anything Groceries,Fortune,3,7,409.65,3027.31,Packet
+505,Company Furniture,Nilkamal,4,10,2155.78,2602.49,Piece
+506,Prove Furniture,IKEA,4,6,4948.92,2872.34,Piece
+507,Join Groceries,India Gate,3,3,2367.57,6045.57,Piece
+508,Material Sports,Cosco,5,3,1097.02,1315.92,Box
+509,Prepare Sports,Nivia,5,9,2173.98,2918.02,Packet
+510,Word Furniture,Nilkamal,4,8,3973.13,3801.53,Packet
+511,Firm Clothing,Adidas,2,3,4600.3,5425.19,Piece
+512,Nor Furniture,Home Centre,4,1,1242.61,3553.3,Packet
+513,Wide Sports,Yonex,5,8,3685.94,5098.47,Kg
+514,New Sports,Yonex,5,2,1865.39,1001.68,Piece
+515,Tv Sports,Cosco,5,6,3062.96,6222.48,Packet
+516,True Clothing,Adidas,2,7,633.89,2999.78,Piece
+517,Trial Sports,Cosco,5,5,537.5,500.26,Piece
+518,Call Electronics,Sony,1,7,2602.68,4420.57,Litre
+519,Operation Electronics,Sony,1,6,4260.3,4770.71,Box
+520,Very Clothing,Levis,2,10,1840.42,4441.02,Box
+521,Prepare Furniture,Home Centre,4,10,1282.02,6497.92,Litre
+522,Simple Furniture,IKEA,4,7,4419.57,6411.93,Litre
+523,Agree Electronics,HP,1,2,2400.68,4547.71,Packet
+524,Down Furniture,IKEA,4,7,3910.24,555.51,Box
+525,Indicate Furniture,Nilkamal,4,7,2904.74,5574.05,Litre
+526,Various Groceries,Fortune,3,3,4298.47,2262.86,Packet
+527,Small Clothing,Adidas,2,3,1078.65,4847.91,Box
+528,Surface Electronics,Samsung,1,1,3884.76,920.37,Box
+529,After Groceries,Fortune,3,6,3311.5,3310.61,Box
+530,Will Clothing,Nike,2,8,907.09,3223.88,Kg
+531,Relate Sports,Cosco,5,1,3303.23,6971.59,Litre
+532,And Groceries,India Gate,3,1,1560.24,4358.99,Piece
+533,So Sports,Cosco,5,6,2635.54,4330.55,Kg
+534,Close Clothing,Nike,2,5,3791.34,1683.12,Kg
+535,Case Furniture,Nilkamal,4,1,116.01,4314.73,Box
+536,Watch Furniture,IKEA,4,1,2327.55,4603.32,Piece
+537,What Electronics,Samsung,1,4,4721.55,4288.0,Box
+538,Body Sports,Nivia,5,9,4803.98,5637.78,Litre
+539,Mean Groceries,Fortune,3,2,2553.3,6247.03,Kg
+540,Value Clothing,Levis,2,8,2226.27,4421.48,Packet
+541,Congress Furniture,Nilkamal,4,1,1116.71,1527.71,Kg
+542,Rock Groceries,Aashirvaad,3,7,4794.14,4004.28,Packet
+543,Bad Groceries,Aashirvaad,3,10,1347.37,6586.31,Packet
+544,Deal Sports,Cosco,5,9,123.6,700.26,Box
+545,Call Furniture,Nilkamal,4,7,486.58,6878.9,Box
+546,Industry Groceries,Fortune,3,2,4894.7,5275.07,Packet
+547,Matter Clothing,Levis,2,6,3357.42,4417.28,Packet
+548,Ask Clothing,Nike,2,10,4038.23,2637.92,Box
+549,Western Furniture,Home Centre,4,3,3657.01,3097.55,Litre
+550,Series Clothing,Adidas,2,7,338.2,1059.06,Litre
+551,Rise Electronics,Apple,1,4,2388.47,4711.67,Piece
+552,Price Sports,Yonex,5,1,3598.22,1645.58,Piece
+553,Brother Clothing,Adidas,2,10,1173.61,3032.34,Box
+554,Message Clothing,Nike,2,6,661.44,6157.67,Piece
+555,Whether Furniture,IKEA,4,3,3397.38,5760.82,Piece
+556,Miss Groceries,Fortune,3,5,1446.54,3455.12,Litre
+557,Outside Sports,Yonex,5,2,1572.93,4633.27,Packet
+558,Unit Clothing,Puma,2,3,4791.16,1573.16,Piece
+559,Easy Sports,Yonex,5,4,3798.24,5929.23,Packet
+560,Discuss Furniture,Nilkamal,4,1,4172.54,5387.58,Litre
+561,Bank Clothing,Levis,2,8,711.72,5763.21,Piece
+562,Under Clothing,Puma,2,1,4225.01,3901.38,Kg
+563,Tv Electronics,Dell,1,3,335.07,5280.83,Box
+564,This Clothing,Levis,2,1,1277.97,2820.1,Packet
+565,Instead Groceries,Aashirvaad,3,9,1745.7,1022.75,Packet
+566,Order Groceries,India Gate,3,5,236.74,2581.62,Box
+567,Both Electronics,Dell,1,6,1687.25,1464.57,Box
+568,Player Furniture,Nilkamal,4,1,3090.27,1521.09,Piece
+569,Son Groceries,Fortune,3,2,1094.59,5974.34,Litre
+570,Base Furniture,Home Centre,4,4,833.44,3583.74,Packet
+571,Realize Electronics,Apple,1,7,2464.92,5186.14,Litre
+572,Student Sports,Nivia,5,5,3099.1,5052.63,Packet
+573,Similar Groceries,India Gate,3,6,4750.56,4032.27,Packet
+574,General Sports,Nivia,5,1,2953.2,6930.51,Piece
+575,Probably Groceries,India Gate,3,1,4726.36,4003.98,Litre
+576,Respond Sports,Yonex,5,2,3063.15,5828.87,Box
+577,Catch Furniture,Home Centre,4,6,967.79,4993.24,Packet
+578,Long Electronics,HP,1,8,2883.85,2445.74,Kg
+579,History Clothing,Levis,2,10,876.49,1307.37,Kg
+580,Truth Clothing,Puma,2,7,3083.74,4840.47,Kg
+581,Perhaps Clothing,Puma,2,10,164.06,2661.51,Box
+582,Most Electronics,Sony,1,5,1062.28,832.25,Box
+583,Same Groceries,Fortune,3,6,2562.36,3635.96,Packet
+584,Space Electronics,Dell,1,8,3061.71,1006.39,Kg
+585,Skill Clothing,Puma,2,1,349.39,5989.7,Litre
+586,Quality Sports,Cosco,5,10,4208.77,5347.67,Piece
+587,Hold Groceries,Fortune,3,1,948.29,5671.67,Piece
+588,Record Clothing,Nike,2,9,2470.96,5113.08,Piece
+589,Attack Sports,Yonex,5,8,1137.33,4647.91,Piece
+590,Policy Groceries,Fortune,3,6,1491.36,2206.95,Box
+591,Military Sports,Nivia,5,2,4036.3,1736.74,Packet
+592,Thus Furniture,IKEA,4,6,965.38,5485.03,Box
+593,Significant Electronics,HP,1,8,3624.36,2919.07,Packet
+594,Foot Sports,Yonex,5,5,825.36,5663.11,Piece
+595,Fear Clothing,Puma,2,5,3724.26,5342.81,Packet
+596,That Sports,Yonex,5,4,1940.16,2130.05,Kg
+597,Various Electronics,Apple,1,3,4991.31,3703.85,Piece
+598,Possible Sports,Nivia,5,3,1359.63,6167.85,Litre
+599,Section Groceries,Fortune,3,8,1068.38,5187.11,Litre
+600,Season Electronics,Samsung,1,2,220.29,3652.56,Piece
+601,Ability Electronics,Sony,1,9,2508.12,4447.66,Box
+602,Old Sports,Nivia,5,9,1968.03,6003.33,Packet
+603,Tend Furniture,Home Centre,4,8,170.41,3317.2,Packet
+604,North Clothing,Nike,2,9,3081.57,3430.24,Piece
+605,Finally Groceries,Aashirvaad,3,10,3058.66,6220.06,Box
+606,Time Sports,Nivia,5,3,769.78,2570.6,Litre
+607,Practice Clothing,Nike,2,6,1248.79,1266.71,Kg
+608,Young Furniture,Nilkamal,4,6,1875.89,6342.82,Packet
+609,Catch Sports,Yonex,5,4,2191.37,6327.45,Packet
+610,Moment Clothing,Puma,2,5,1258.1,2275.17,Packet
+611,Help Sports,Yonex,5,5,2430.28,5283.06,Kg
+612,Particularly Clothing,Levis,2,3,4905.18,4881.11,Packet
+613,Morning Clothing,Adidas,2,9,247.24,6993.03,Piece
+614,Chair Furniture,Nilkamal,4,8,1228.31,1300.67,Piece
+615,Instead Electronics,Sony,1,1,1937.36,5278.69,Piece
+616,Land Clothing,Puma,2,8,1854.3,4952.51,Litre
+617,Plant Electronics,Sony,1,2,2218.49,3952.16,Kg
+618,Take Electronics,Dell,1,10,3537.92,4441.48,Kg
+619,Action Electronics,Dell,1,6,2747.32,1167.87,Kg
+620,Station Furniture,Nilkamal,4,9,4149.12,4456.33,Box
+621,Ever Furniture,Home Centre,4,8,2375.41,4710.61,Box
+622,Amount Electronics,HP,1,4,1662.5,534.03,Litre
+623,Effort Clothing,Nike,2,9,4645.6,3567.51,Box
+624,Election Groceries,India Gate,3,2,294.91,6170.8,Litre
+625,Build Clothing,Levis,2,5,4514.0,5079.27,Kg
+626,Development Groceries,Fortune,3,8,3435.5,2253.92,Piece
+627,Drug Groceries,Fortune,3,3,1276.32,4308.42,Piece
+628,Sea Furniture,Nilkamal,4,10,2617.21,2914.04,Packet
+629,Think Groceries,Fortune,3,2,4501.93,1295.44,Litre
+630,Support Sports,Cosco,5,2,4809.71,3865.81,Packet
+631,Myself Furniture,Nilkamal,4,8,1131.2,6975.97,Piece
+632,Provide Electronics,Sony,1,5,4490.78,4921.17,Litre
+633,Night Groceries,Fortune,3,2,512.61,5049.26,Kg
+634,Girl Furniture,IKEA,4,10,4606.92,6574.86,Piece
+635,Over Groceries,India Gate,3,1,416.05,1192.01,Packet
+636,Door Sports,Yonex,5,5,335.64,1654.57,Kg
+637,Specific Electronics,Apple,1,10,2207.54,2577.18,Packet
+638,Participant Clothing,Puma,2,1,3804.29,1310.86,Litre
+639,Rock Electronics,HP,1,9,1153.98,2631.79,Piece
+640,Perhaps Electronics,Samsung,1,6,3049.12,2261.9,Litre
+641,Soldier Electronics,Dell,1,6,2464.61,5955.19,Packet
+642,Available Electronics,Apple,1,3,1737.68,661.97,Packet
+643,Early Groceries,India Gate,3,10,1782.38,4103.03,Packet
+644,General Groceries,India Gate,3,3,3424.61,3544.7,Packet
+645,Light Sports,Cosco,5,1,4812.76,5374.17,Kg
+646,Former Clothing,Nike,2,9,1726.57,2889.38,Box
+647,Guess Sports,Nivia,5,7,2547.7,2229.74,Box
+648,Probably Groceries,Aashirvaad,3,1,186.37,1657.11,Piece
+649,Executive Furniture,Home Centre,4,5,4486.55,6489.64,Packet
+650,You Electronics,Samsung,1,9,194.59,629.06,Kg
+651,Chance Groceries,Fortune,3,1,1024.75,6633.99,Piece
+652,Voice Furniture,IKEA,4,8,1217.48,6694.7,Litre
+653,Suddenly Clothing,Nike,2,3,3240.83,557.51,Kg
+654,How Groceries,Fortune,3,5,3154.87,2443.83,Litre
+655,Take Furniture,IKEA,4,1,2677.49,3973.37,Litre
+656,Factor Clothing,Nike,2,10,1448.61,4038.25,Box
+657,Enter Sports,Yonex,5,5,2127.16,4636.39,Box
+658,Beyond Furniture,IKEA,4,9,4776.65,5225.86,Litre
+659,Leave Groceries,India Gate,3,8,1383.68,2529.88,Litre
+660,Nearly Groceries,Fortune,3,10,993.76,1330.8,Kg
+661,Without Groceries,Aashirvaad,3,2,2847.49,3263.45,Litre
+662,Cost Furniture,Home Centre,4,1,1610.01,5165.06,Piece
+663,Southern Clothing,Nike,2,6,4965.38,4320.08,Packet
+664,Hospital Groceries,Fortune,3,3,4710.54,6682.11,Piece
+665,East Furniture,Home Centre,4,4,4528.69,1136.97,Litre
+666,Stand Groceries,Fortune,3,3,699.98,4884.16,Piece
+667,Common Clothing,Nike,2,6,3129.66,4928.95,Kg
+668,Center Furniture,Home Centre,4,5,2126.37,5474.13,Piece
+669,Water Electronics,Dell,1,3,1487.36,3190.73,Kg
+670,Special Sports,Cosco,5,8,1349.74,1363.01,Piece
+671,Meeting Furniture,Nilkamal,4,9,425.6,5459.08,Litre
+672,North Clothing,Levis,2,5,2923.95,5645.9,Box
+673,Ready Furniture,Nilkamal,4,1,2837.59,3803.16,Packet
+674,Involve Electronics,Samsung,1,8,3046.32,3474.58,Packet
+675,Per Groceries,Fortune,3,3,1027.13,2524.82,Packet
+676,Computer Electronics,HP,1,4,1038.18,1789.34,Packet
+677,Compare Clothing,Levis,2,3,1605.1,2733.89,Kg
+678,Long Sports,Cosco,5,7,2714.25,959.57,Kg
+679,Fish Furniture,IKEA,4,9,2218.64,2076.66,Piece
+680,Them Groceries,Fortune,3,10,4907.31,5899.79,Piece
+681,Nothing Groceries,Aashirvaad,3,10,2494.54,3548.92,Kg
+682,Store Furniture,Home Centre,4,10,4324.4,3295.0,Piece
+683,Itself Furniture,IKEA,4,4,1858.13,1873.77,Kg
+684,Medical Furniture,IKEA,4,10,2581.14,4213.91,Box
+685,Factor Sports,Nivia,5,4,165.29,2587.07,Litre
+686,Drop Sports,Cosco,5,3,2369.35,3916.78,Piece
+687,Production Groceries,Aashirvaad,3,1,3148.38,6920.39,Box
+688,Month Sports,Cosco,5,7,2703.59,6009.18,Piece
+689,Religious Groceries,India Gate,3,5,1201.97,3200.53,Packet
+690,Buy Clothing,Nike,2,2,2839.92,1317.9,Box
+691,Enough Furniture,Home Centre,4,3,2148.76,715.14,Litre
+692,Represent Furniture,Nilkamal,4,7,1606.88,5633.66,Box
+693,Yes Groceries,India Gate,3,5,4537.08,5617.72,Kg
+694,Hold Groceries,Aashirvaad,3,9,3845.08,6822.81,Packet
+695,For Clothing,Puma,2,8,1908.96,4801.26,Litre
+696,There Furniture,Home Centre,4,3,3769.37,5539.16,Box
+697,Among Sports,Yonex,5,8,4992.52,2365.53,Piece
+698,Present Electronics,Sony,1,5,3928.65,3616.09,Piece
+699,Something Clothing,Puma,2,10,560.14,3141.01,Kg
+700,Be Sports,Nivia,5,3,2774.06,5554.0,Piece
+701,Reflect Electronics,Dell,1,8,4572.42,1534.36,Litre
+702,Small Furniture,IKEA,4,6,4867.07,2524.95,Kg
+703,Society Sports,Yonex,5,9,1066.16,1298.84,Packet
+704,They Sports,Cosco,5,1,3568.16,3468.73,Kg
+705,Task Groceries,Fortune,3,4,3899.77,6599.63,Litre
+706,Build Sports,Cosco,5,9,3001.53,6666.71,Piece
+707,Plan Furniture,IKEA,4,8,3358.17,4561.88,Piece
+708,Claim Groceries,Aashirvaad,3,1,280.86,3163.21,Piece
+709,Food Clothing,Adidas,2,6,4091.56,6061.27,Litre
+710,Meet Electronics,Apple,1,6,3060.39,567.8,Packet
+711,Serve Electronics,Dell,1,2,1002.96,2731.73,Packet
+712,Per Electronics,Samsung,1,3,4277.4,6432.52,Box
+713,Bed Sports,Cosco,5,7,4623.56,2850.31,Packet
+714,Hand Groceries,Aashirvaad,3,7,675.5,5772.22,Box
+715,Prevent Electronics,HP,1,3,4205.35,538.65,Box
+716,Money Furniture,Nilkamal,4,9,4180.72,2241.7,Packet
+717,Mother Electronics,Sony,1,5,1101.27,2186.53,Packet
+718,Morning Clothing,Levis,2,10,1452.73,1230.9,Litre
+719,Sport Sports,Cosco,5,4,3846.96,1822.73,Box
+720,Part Furniture,Nilkamal,4,9,1693.69,6615.03,Kg
+721,Total Furniture,IKEA,4,9,3071.74,5547.68,Packet
+722,Modern Furniture,IKEA,4,5,2488.0,2768.61,Piece
+723,Teacher Groceries,Fortune,3,8,4919.52,3528.14,Kg
+724,Growth Clothing,Levis,2,2,1910.96,3200.75,Packet
+725,Total Sports,Yonex,5,9,3647.41,4027.29,Litre
+726,Bring Electronics,Samsung,1,6,1928.08,671.05,Kg
+727,Class Groceries,Aashirvaad,3,1,1773.52,2765.72,Kg
+728,Include Clothing,Puma,2,4,4762.33,2441.74,Litre
+729,Step Electronics,Samsung,1,9,3018.51,4391.96,Packet
+730,Over Furniture,Home Centre,4,6,2828.67,6481.78,Box
+731,International Furniture,IKEA,4,1,1052.94,3328.96,Litre
+732,Sea Furniture,Home Centre,4,2,4391.45,2395.49,Litre
+733,Record Groceries,India Gate,3,8,343.84,6719.19,Kg
+734,Subject Furniture,IKEA,4,5,115.89,4986.27,Kg
+735,Security Sports,Nivia,5,10,1913.83,6821.5,Kg
+736,Next Groceries,India Gate,3,7,2656.3,4443.35,Packet
+737,Establish Clothing,Nike,2,2,4704.6,6573.92,Litre
+738,Bed Sports,Nivia,5,4,2355.34,4183.42,Kg
+739,Wall Groceries,India Gate,3,2,2915.23,3967.73,Packet
+740,Reason Clothing,Adidas,2,6,1049.18,590.18,Kg
+741,Lead Furniture,Nilkamal,4,6,278.74,3546.99,Packet
+742,Idea Sports,Cosco,5,3,2168.46,2599.68,Litre
+743,Art Furniture,IKEA,4,9,2649.12,1871.35,Piece
+744,Newspaper Sports,Cosco,5,3,4334.44,4474.6,Piece
+745,Member Sports,Nivia,5,8,1119.8,4818.97,Box
+746,Special Sports,Nivia,5,3,1350.32,2743.05,Piece
+747,Its Electronics,Sony,1,1,2844.43,2333.78,Box
+748,Son Clothing,Levis,2,3,3962.28,5151.97,Piece
+749,Today Sports,Cosco,5,9,179.69,1816.01,Litre
+750,Himself Clothing,Puma,2,5,1776.22,5793.99,Piece
+751,Officer Clothing,Levis,2,10,3559.38,2691.2,Piece
+752,Family Electronics,Apple,1,9,4087.52,5813.7,Litre
+753,Town Groceries,India Gate,3,2,2091.02,4430.56,Piece
+754,Camera Furniture,Nilkamal,4,2,387.34,6128.3,Box
+755,Plant Furniture,Nilkamal,4,6,4186.22,2498.39,Litre
+756,Send Clothing,Puma,2,9,328.2,3249.93,Litre
+757,Idea Furniture,Nilkamal,4,9,4474.69,6959.11,Kg
+758,Glass Clothing,Levis,2,8,4259.52,3766.85,Kg
+759,Huge Electronics,Apple,1,7,4223.13,4946.64,Litre
+760,Bad Electronics,Samsung,1,3,1417.43,6219.36,Piece
+761,Wear Clothing,Adidas,2,2,608.5,4280.29,Box
+762,Sound Furniture,Home Centre,4,8,948.5,2595.03,Kg
+763,Painting Clothing,Puma,2,3,1508.65,1142.25,Kg
+764,Agent Electronics,Samsung,1,4,3988.25,3537.59,Kg
+765,Already Clothing,Nike,2,1,2510.21,2793.29,Piece
+766,Century Groceries,India Gate,3,3,2020.96,844.65,Piece
+767,Alone Furniture,Home Centre,4,7,1809.14,3211.94,Box
+768,I Electronics,Samsung,1,9,274.32,1500.23,Litre
+769,This Groceries,Fortune,3,5,3095.75,6505.38,Packet
+770,Right Furniture,Home Centre,4,2,2212.16,917.74,Piece
+771,Over Furniture,Home Centre,4,7,689.38,3020.61,Litre
+772,Check Groceries,India Gate,3,6,2273.28,4222.14,Piece
+773,Statement Sports,Cosco,5,6,173.78,572.04,Box
+774,Design Sports,Yonex,5,1,4624.35,3897.59,Piece
+775,Exactly Furniture,Nilkamal,4,5,2126.97,6929.24,Litre
+776,Former Furniture,IKEA,4,3,4180.18,5264.01,Piece
+777,Total Sports,Nivia,5,6,2424.87,3608.49,Litre
+778,Ever Clothing,Nike,2,9,1388.53,866.59,Packet
+779,Could Groceries,India Gate,3,8,884.27,6010.17,Piece
+780,Laugh Clothing,Nike,2,2,3906.0,2434.05,Piece
+781,Institution Clothing,Adidas,2,10,4906.69,4484.93,Piece
+782,House Groceries,Aashirvaad,3,4,367.43,4468.67,Packet
+783,Strong Furniture,Home Centre,4,6,1050.36,6436.07,Kg
+784,Carry Groceries,Fortune,3,9,1122.4,3367.6,Box
+785,Whose Clothing,Adidas,2,10,3304.7,5206.66,Kg
+786,Three Sports,Nivia,5,2,2888.16,4262.94,Kg
+787,That Clothing,Adidas,2,1,1387.45,1177.81,Litre
+788,Chair Electronics,Samsung,1,1,550.21,5169.67,Litre
+789,Direction Groceries,Aashirvaad,3,5,3981.04,1644.28,Piece
+790,Gas Furniture,Nilkamal,4,9,2608.3,3916.22,Litre
+791,Way Electronics,Sony,1,9,3988.93,1531.01,Kg
+792,Religious Sports,Cosco,5,3,2517.1,6472.84,Piece
+793,Assume Clothing,Levis,2,7,3046.46,925.44,Litre
+794,Name Clothing,Puma,2,6,4604.41,5401.45,Piece
+795,Him Sports,Yonex,5,3,4150.62,4042.05,Box
+796,Suddenly Electronics,Dell,1,1,1562.87,2059.35,Kg
+797,Share Groceries,India Gate,3,7,1613.77,1677.13,Box
+798,Reveal Clothing,Levis,2,9,4190.83,6896.38,Box
+799,Create Sports,Yonex,5,10,2490.84,6406.92,Kg
+800,Democrat Furniture,IKEA,4,3,491.23,3671.73,Kg
+801,Again Furniture,Home Centre,4,6,351.72,6162.34,Packet
+802,Step Sports,Cosco,5,2,1570.09,3900.12,Box
+803,Apply Sports,Yonex,5,8,1169.53,3764.01,Packet
+804,Whom Clothing,Adidas,2,10,4606.78,3267.77,Kg
+805,House Electronics,Samsung,1,8,2458.16,4707.52,Packet
+806,And Clothing,Nike,2,8,965.13,4692.12,Piece
+807,They Electronics,Sony,1,3,4576.4,3892.34,Packet
+808,Citizen Clothing,Adidas,2,8,4217.33,3248.95,Litre
+809,Simple Sports,Yonex,5,2,394.65,4280.09,Litre
+810,Anything Clothing,Adidas,2,2,554.43,828.36,Kg
+811,Simply Clothing,Adidas,2,7,3394.08,6342.15,Litre
+812,See Clothing,Levis,2,9,2214.87,4291.22,Packet
+813,Growth Clothing,Puma,2,6,2833.36,3752.0,Piece
+814,Run Groceries,Fortune,3,6,1533.46,3313.28,Piece
+815,Plant Clothing,Levis,2,9,4305.71,6132.92,Packet
+816,Choose Furniture,Nilkamal,4,4,226.66,714.39,Box
+817,Recognize Furniture,Nilkamal,4,6,2205.68,3548.14,Piece
+818,Partner Electronics,Apple,1,7,3351.42,4213.35,Box
+819,Out Sports,Nivia,5,1,1744.61,6577.75,Litre
+820,Parent Sports,Yonex,5,9,4214.87,2327.33,Litre
+821,According Groceries,Aashirvaad,3,1,3849.65,5861.84,Kg
+822,Dinner Electronics,Sony,1,9,4500.45,2068.22,Litre
+823,Herself Groceries,Fortune,3,2,3232.0,4772.74,Box
+824,As Clothing,Adidas,2,10,1021.52,2529.32,Packet
+825,Radio Groceries,Aashirvaad,3,9,4910.9,6171.36,Litre
+826,Century Sports,Yonex,5,9,3173.21,6133.81,Packet
+827,Question Furniture,Home Centre,4,5,2281.42,6155.77,Kg
+828,Physical Clothing,Puma,2,2,3153.86,3456.38,Litre
+829,Ask Groceries,Aashirvaad,3,3,2262.37,519.91,Packet
+830,East Electronics,HP,1,6,470.15,4093.82,Box
+831,Federal Groceries,Fortune,3,6,2337.33,3676.07,Piece
+832,Beautiful Furniture,IKEA,4,1,1613.52,3624.62,Box
+833,Color Groceries,India Gate,3,7,1308.66,2157.61,Piece
+834,Dinner Groceries,Fortune,3,8,3373.15,4202.96,Piece
+835,Court Sports,Nivia,5,5,1224.88,6069.73,Piece
+836,Current Electronics,HP,1,7,4829.48,6300.1,Piece
+837,During Sports,Nivia,5,6,4406.05,6294.17,Kg
+838,Ever Electronics,Samsung,1,2,4032.51,3519.35,Kg
+839,Democrat Sports,Yonex,5,6,3277.55,2882.03,Packet
+840,Direction Clothing,Nike,2,6,4708.0,4114.12,Litre
+841,Your Clothing,Adidas,2,9,1983.02,1881.41,Kg
+842,Baby Sports,Cosco,5,1,833.26,3806.82,Packet
+843,Choice Groceries,Fortune,3,2,3986.64,2457.9,Box
+844,Choose Electronics,Apple,1,7,4342.05,2300.43,Piece
+845,Political Sports,Cosco,5,5,1334.64,4384.32,Kg
+846,Relate Electronics,Apple,1,1,376.88,5487.67,Box
+847,Catch Clothing,Puma,2,6,2585.63,6573.37,Kg
+848,Animal Furniture,IKEA,4,4,103.83,1473.61,Packet
+849,Voice Furniture,IKEA,4,4,3720.28,5159.37,Litre
+850,Whom Electronics,Sony,1,3,720.53,1699.36,Box
+851,Nearly Sports,Nivia,5,10,2363.13,6807.87,Kg
+852,Building Electronics,Apple,1,3,2005.43,5296.61,Kg
+853,Night Electronics,Samsung,1,6,4239.29,4967.96,Box
+854,Campaign Sports,Nivia,5,9,2025.09,1415.56,Packet
+855,Able Clothing,Adidas,2,10,2177.5,2128.17,Packet
+856,Stuff Electronics,HP,1,8,353.68,2207.97,Box
+857,Amount Furniture,IKEA,4,10,4629.39,5093.02,Box
+858,Example Electronics,Samsung,1,2,317.41,5112.78,Litre
+859,Lay Furniture,Home Centre,4,5,2450.39,6452.22,Piece
+860,Current Clothing,Nike,2,9,4968.34,4757.83,Kg
+861,Never Groceries,Fortune,3,9,1550.1,2781.83,Litre
+862,Specific Groceries,Aashirvaad,3,1,4172.55,3036.8,Packet
+863,Quite Groceries,India Gate,3,1,1201.64,5069.55,Litre
+864,Business Clothing,Levis,2,1,3061.92,6703.78,Kg
+865,Skin Sports,Nivia,5,7,2223.22,1936.79,Packet
+866,Everybody Groceries,Fortune,3,7,815.12,3824.63,Litre
+867,As Sports,Nivia,5,6,3873.19,4681.85,Packet
+868,Computer Clothing,Adidas,2,3,3003.74,5754.63,Box
+869,Movie Electronics,HP,1,6,2333.93,2597.01,Litre
+870,Subject Furniture,Home Centre,4,9,3189.56,2372.81,Piece
+871,Culture Sports,Cosco,5,4,1081.88,1683.61,Kg
+872,They Electronics,HP,1,8,3311.58,3390.11,Packet
+873,Choose Groceries,Aashirvaad,3,1,3698.71,549.59,Litre
+874,Edge Electronics,Apple,1,5,832.37,611.72,Packet
+875,Bill Groceries,India Gate,3,9,753.98,5073.21,Box
+876,Father Sports,Cosco,5,7,2953.34,2639.14,Packet
+877,Within Furniture,Home Centre,4,7,4321.97,1323.44,Packet
+878,Of Clothing,Puma,2,7,4887.16,5947.86,Litre
+879,Simple Clothing,Nike,2,7,4988.91,546.69,Packet
+880,Especially Electronics,Samsung,1,3,3695.8,4189.11,Litre
+881,Sense Groceries,Aashirvaad,3,3,2417.57,1110.06,Litre
+882,Voice Electronics,HP,1,5,3892.49,4573.62,Box
+883,Capital Groceries,Fortune,3,8,3546.69,4806.98,Piece
+884,Art Furniture,Nilkamal,4,8,1286.79,4120.07,Box
+885,Drop Furniture,IKEA,4,9,2075.49,6639.7,Piece
+886,Candidate Clothing,Levis,2,3,2740.03,4927.28,Litre
+887,Require Sports,Nivia,5,3,4926.66,2718.87,Piece
+888,Teach Electronics,Sony,1,4,2875.79,1966.54,Litre
+889,Trip Groceries,Aashirvaad,3,3,4429.2,4677.36,Packet
+890,Later Sports,Yonex,5,1,3476.73,4067.99,Litre
+891,Change Groceries,Aashirvaad,3,7,875.12,4942.29,Piece
+892,Scientist Groceries,Aashirvaad,3,4,1320.06,6233.85,Box
+893,Heart Groceries,Fortune,3,1,1041.6,5988.51,Kg
+894,Term Sports,Cosco,5,5,957.51,3883.43,Box
+895,Represent Sports,Yonex,5,6,2336.63,592.97,Piece
+896,Explain Groceries,Fortune,3,4,2900.3,6618.2,Packet
+897,Present Clothing,Nike,2,1,1614.07,5727.72,Kg
+898,Possible Sports,Nivia,5,1,2205.66,3334.52,Box
+899,Specific Furniture,Home Centre,4,5,4146.94,2955.37,Litre
+900,Benefit Clothing,Adidas,2,3,3453.46,6584.48,Box
+901,Lot Electronics,Samsung,1,4,4349.21,4612.8,Kg
+902,Few Furniture,IKEA,4,9,4979.27,4520.86,Piece
+903,These Sports,Cosco,5,2,838.49,5584.47,Packet
+904,South Furniture,IKEA,4,9,3066.41,1647.26,Box
+905,Billion Groceries,Fortune,3,3,2502.73,5058.57,Kg
+906,Answer Clothing,Levis,2,6,1813.98,1461.82,Box
+907,Go Groceries,Fortune,3,1,1502.92,5384.37,Packet
+908,Blue Furniture,Nilkamal,4,6,1352.0,766.75,Packet
+909,Industry Groceries,Fortune,3,8,2831.3,1028.83,Box
+910,Such Groceries,Aashirvaad,3,2,2372.34,6958.18,Kg
+911,Treat Electronics,Samsung,1,8,1071.68,1740.2,Piece
+912,Remember Sports,Yonex,5,10,3350.63,5735.59,Packet
+913,Economy Groceries,Aashirvaad,3,4,1745.0,6808.09,Litre
+914,Billion Electronics,Sony,1,4,4205.07,4068.52,Packet
+915,Marriage Groceries,Aashirvaad,3,2,2858.95,2854.67,Kg
+916,Friend Clothing,Levis,2,5,754.49,6570.51,Packet
+917,Market Sports,Yonex,5,4,2392.69,4583.4,Box
+918,Central Clothing,Puma,2,2,2360.08,3957.62,Box
+919,Always Sports,Yonex,5,3,432.83,5178.57,Litre
+920,Edge Sports,Nivia,5,10,3760.73,2514.36,Kg
+921,Determine Groceries,Fortune,3,8,4635.81,3254.76,Kg
+922,Seven Electronics,Samsung,1,5,2844.73,1112.2,Box
+923,Lay Furniture,Home Centre,4,9,2849.24,3620.5,Packet
+924,Scene Sports,Cosco,5,6,2216.66,4632.62,Piece
+925,Though Clothing,Adidas,2,4,303.03,2482.05,Litre
+926,Air Furniture,IKEA,4,2,1643.89,1346.44,Box
+927,Bed Furniture,Nilkamal,4,7,1018.19,6159.63,Box
+928,Exist Sports,Cosco,5,6,4946.34,1104.32,Piece
+929,Theory Electronics,Samsung,1,4,1906.94,2421.69,Piece
+930,Tree Sports,Nivia,5,8,1440.46,3193.86,Kg
+931,Still Groceries,Fortune,3,5,2758.86,5278.72,Kg
+932,Yourself Furniture,IKEA,4,7,990.34,3298.02,Kg
+933,Discussion Electronics,Apple,1,10,2451.98,6385.04,Kg
+934,Clearly Furniture,Nilkamal,4,9,1597.51,3429.12,Piece
+935,Degree Furniture,Nilkamal,4,4,3511.55,4168.33,Packet
+936,State Groceries,India Gate,3,7,3733.55,5613.67,Piece
+937,How Groceries,India Gate,3,2,878.67,3424.51,Box
+938,Situation Electronics,Dell,1,9,1123.14,1514.36,Box
+939,Share Groceries,India Gate,3,10,826.07,1496.54,Packet
+940,Almost Sports,Nivia,5,3,3549.5,5924.65,Box
+941,Laugh Sports,Nivia,5,5,1487.67,1787.47,Piece
+942,Wife Electronics,Sony,1,10,1601.07,2100.77,Packet
+943,May Groceries,Fortune,3,7,1489.12,4423.35,Piece
+944,Feel Sports,Nivia,5,6,1517.86,2473.51,Packet
+945,Sort Groceries,Fortune,3,1,1111.87,4571.55,Piece
+946,Long Groceries,Fortune,3,5,4291.66,593.95,Litre
+947,Trouble Clothing,Levis,2,3,2283.25,6239.29,Kg
+948,Front Furniture,Home Centre,4,1,699.01,5403.6,Litre
+949,Him Furniture,Nilkamal,4,1,3342.57,2200.58,Box
+950,Inside Sports,Nivia,5,7,4001.74,5350.09,Piece
+951,Mention Groceries,Fortune,3,9,3837.18,1891.54,Packet
+952,Guy Furniture,IKEA,4,3,3833.24,2650.4,Litre
+953,Raise Clothing,Puma,2,8,3281.38,6703.25,Litre
+954,Law Electronics,Apple,1,3,4319.79,5626.71,Litre
+955,Agree Groceries,India Gate,3,2,2874.85,5456.54,Box
+956,Thought Electronics,Sony,1,8,4592.1,1429.65,Packet
+957,Certain Sports,Nivia,5,1,956.75,2387.51,Piece
+958,Wear Clothing,Adidas,2,6,2685.74,6005.5,Litre
+959,May Groceries,Fortune,3,9,1324.65,6643.03,Piece
+960,Black Furniture,Nilkamal,4,3,1852.54,1918.14,Box
+961,Street Clothing,Nike,2,3,1742.98,3926.19,Litre
+962,Option Electronics,Samsung,1,9,1586.93,6965.34,Packet
+963,Purpose Furniture,Nilkamal,4,1,3347.67,4321.93,Box
+964,Charge Groceries,Fortune,3,10,1883.2,4825.81,Litre
+965,Start Clothing,Adidas,2,7,4305.81,5160.35,Packet
+966,Fill Electronics,Sony,1,9,4993.94,5707.01,Packet
+967,Cell Electronics,HP,1,7,2512.95,1307.86,Litre
+968,Entire Groceries,India Gate,3,3,3096.8,5437.88,Piece
+969,Certainly Groceries,Fortune,3,7,1374.3,5052.31,Litre
+970,Through Electronics,HP,1,3,2586.13,5682.8,Kg
+971,See Furniture,Nilkamal,4,3,2725.54,6174.83,Kg
+972,Record Furniture,Home Centre,4,4,2322.85,6336.93,Piece
+973,Picture Electronics,Samsung,1,9,308.05,5548.56,Litre
+974,Determine Sports,Yonex,5,3,4993.71,3561.89,Piece
+975,Beat Electronics,Samsung,1,5,2714.43,4161.63,Litre
+976,Interview Sports,Yonex,5,2,3239.99,4027.5,Litre
+977,Risk Sports,Cosco,5,3,1997.26,1522.98,Packet
+978,Song Clothing,Adidas,2,10,3217.32,4337.55,Piece
+979,Offer Furniture,Nilkamal,4,7,1687.49,3281.55,Litre
+980,View Groceries,Fortune,3,5,818.09,6814.21,Piece
+981,Thought Clothing,Nike,2,9,1291.96,2056.13,Litre
+982,North Sports,Yonex,5,1,1577.53,3259.59,Box
+983,Much Sports,Nivia,5,4,182.24,6003.38,Piece
+984,These Furniture,IKEA,4,9,983.5,1081.38,Kg
+985,Set Sports,Cosco,5,8,1098.66,1998.08,Box
+986,Admit Furniture,IKEA,4,3,1666.91,5615.65,Packet
+987,May Groceries,India Gate,3,6,732.78,5610.87,Box
+988,Bit Sports,Cosco,5,8,3111.74,3645.39,Kg
+989,Performance Clothing,Adidas,2,2,2501.43,5390.08,Piece
+990,Stage Electronics,Apple,1,4,2921.61,562.34,Kg
+991,Could Groceries,Fortune,3,2,113.67,2297.5,Piece
+992,One Furniture,Home Centre,4,6,4656.06,1616.15,Kg
+993,Suggest Furniture,Home Centre,4,10,1454.36,6323.72,Litre
+994,Hold Furniture,IKEA,4,3,3241.67,1987.29,Packet
+995,Deal Groceries,Fortune,3,1,4027.06,817.18,Packet
+996,Large Furniture,Nilkamal,4,9,1663.53,2344.47,Box
+997,According Groceries,Fortune,3,8,1259.45,926.54,Packet
+998,Lead Clothing,Levis,2,7,1095.38,6423.25,Piece
+999,Analysis Clothing,Levis,2,3,2347.58,4864.15,Piece
+1000,Even Furniture,Home Centre,4,8,1246.27,5924.28,Packet
+1001,Instead Furniture,IKEA,4,1,1624.33,1194.56,Litre
+1002,Go Clothing,Puma,2,8,2044.43,6813.36,Packet
+1003,Entire Furniture,Nilkamal,4,9,4039.91,1993.91,Piece
+1004,Behavior Furniture,IKEA,4,8,1210.26,3962.07,Piece
+1005,Cut Clothing,Puma,2,5,1691.64,3934.39,Kg
+1006,For Groceries,Fortune,3,9,4584.35,3891.64,Box
+1007,Everybody Clothing,Adidas,2,5,1838.11,1902.23,Packet
+1008,Safe Clothing,Nike,2,1,3452.96,6655.9,Piece
+1009,Fast Electronics,Sony,1,2,1610.84,3327.37,Box
+1010,With Clothing,Levis,2,3,193.88,3416.2,Packet
+1011,Usually Electronics,Samsung,1,6,1396.57,2817.9,Box
+1012,Leader Furniture,Home Centre,4,1,1094.74,3061.53,Packet
+1013,Decision Furniture,IKEA,4,4,1139.12,6996.24,Packet
+1014,Day Clothing,Nike,2,1,1524.48,6778.58,Litre
+1015,Practice Sports,Cosco,5,2,3666.06,4035.55,Kg
+1016,Discussion Sports,Cosco,5,7,946.98,1339.24,Kg
+1017,Media Furniture,Nilkamal,4,2,2136.54,1136.7,Packet
+1018,Big Sports,Cosco,5,9,3128.89,2066.93,Box
+1019,Sense Furniture,Home Centre,4,9,963.79,5995.35,Litre
+1020,Arm Groceries,Fortune,3,9,2450.31,4471.02,Kg
+1021,Especially Electronics,Samsung,1,7,3361.22,2693.25,Piece
+1022,Billion Groceries,Fortune,3,4,435.36,3921.32,Box
+1023,Good Clothing,Adidas,2,2,4129.22,2517.61,Box
+1024,Whose Furniture,Home Centre,4,9,285.73,1281.51,Litre
+1025,Economy Clothing,Adidas,2,6,340.83,6423.49,Piece
+1026,Always Furniture,Nilkamal,4,4,3699.23,5833.73,Piece
+1027,Behavior Groceries,India Gate,3,1,1496.7,3203.64,Packet
+1028,Fall Sports,Yonex,5,8,1958.0,2534.88,Kg
+1029,Nearly Furniture,Home Centre,4,10,2968.54,6466.41,Litre
+1030,Challenge Electronics,Dell,1,9,836.89,2413.07,Piece
+1031,Five Electronics,Sony,1,9,1954.98,958.93,Piece
+1032,Large Clothing,Levis,2,5,2455.36,5582.56,Piece
+1033,Particularly Groceries,India Gate,3,5,4393.85,1639.47,Piece
+1034,Official Sports,Yonex,5,3,529.18,3562.61,Box
+1035,Same Electronics,Sony,1,6,4432.29,2595.98,Packet
+1036,Listen Groceries,Fortune,3,7,4107.59,6407.11,Packet
+1037,Word Furniture,Nilkamal,4,1,736.35,6321.04,Box
+1038,Serve Furniture,IKEA,4,7,4421.34,1195.95,Piece
+1039,Meeting Furniture,Home Centre,4,3,2272.96,2407.68,Packet
+1040,Number Furniture,Nilkamal,4,8,1343.28,6183.44,Packet
+1041,Our Electronics,HP,1,4,4220.21,848.12,Packet
+1042,Rich Groceries,India Gate,3,8,1541.4,5785.15,Piece
+1043,Different Clothing,Levis,2,7,1702.57,4635.99,Box
+1044,Cause Clothing,Nike,2,10,2093.98,3365.42,Litre
+1045,List Furniture,Home Centre,4,1,1375.69,3295.62,Box
+1046,In Sports,Cosco,5,1,1914.0,5263.55,Packet
+1047,Foreign Sports,Nivia,5,2,4695.88,4826.9,Piece
+1048,Analysis Electronics,Samsung,1,7,4189.98,3347.58,Kg
+1049,Go Electronics,Sony,1,7,706.66,3926.38,Piece
+1050,Rate Clothing,Adidas,2,10,1503.42,786.57,Kg
+1051,Necessary Sports,Cosco,5,6,3614.34,1847.85,Litre
+1052,Although Electronics,Apple,1,5,3690.46,2945.07,Litre
+1053,Way Clothing,Puma,2,6,1721.35,2417.56,Packet
+1054,Play Furniture,Home Centre,4,10,3085.24,814.43,Kg
+1055,Case Sports,Nivia,5,4,3355.66,5010.92,Piece
+1056,Sure Furniture,Nilkamal,4,3,3773.77,1585.44,Box
+1057,Especially Sports,Nivia,5,1,1956.95,1608.97,Piece
+1058,Free Furniture,Home Centre,4,3,2474.96,6087.59,Piece
+1059,Behind Groceries,India Gate,3,1,1606.03,5949.8,Packet
+1060,Within Groceries,India Gate,3,4,2529.71,4955.38,Kg
+1061,Message Electronics,HP,1,7,3932.77,1097.22,Piece
+1062,Recently Sports,Nivia,5,7,4170.11,2772.36,Packet
+1063,Floor Electronics,Samsung,1,1,4258.8,4189.61,Packet
+1064,Star Furniture,Home Centre,4,6,2123.68,2925.32,Packet
+1065,Start Electronics,HP,1,10,1255.41,4616.08,Litre
+1066,Probably Clothing,Levis,2,2,569.43,1656.9,Box
+1067,Design Sports,Cosco,5,3,167.13,1690.76,Kg
+1068,Television Groceries,India Gate,3,2,2153.0,2662.83,Piece
+1069,Employee Groceries,Aashirvaad,3,4,204.97,5344.25,Piece
+1070,Pass Sports,Nivia,5,4,4629.14,1984.36,Packet
+1071,His Sports,Nivia,5,3,2313.35,2837.27,Box
+1072,Billion Sports,Cosco,5,9,3370.38,5286.08,Kg
+1073,Reveal Groceries,Aashirvaad,3,1,1156.55,6495.44,Litre
+1074,Yet Groceries,Fortune,3,4,2314.16,5235.25,Kg
+1075,Either Groceries,Fortune,3,7,2794.97,2808.87,Box
+1076,Themselves Groceries,Fortune,3,8,4180.66,3055.01,Box
+1077,Alone Sports,Yonex,5,7,167.05,5554.71,Kg
+1078,Value Furniture,IKEA,4,3,422.06,3228.38,Box
+1079,Training Sports,Yonex,5,5,748.25,5950.89,Box
+1080,Attention Sports,Nivia,5,5,2711.34,4227.87,Kg
+1081,Way Electronics,Sony,1,1,3570.68,6744.05,Packet
+1082,Not Sports,Cosco,5,7,749.26,5304.9,Box
+1083,Usually Furniture,Home Centre,4,5,2637.08,2052.11,Packet
+1084,Begin Groceries,India Gate,3,9,685.34,5357.67,Piece
+1085,Trouble Electronics,HP,1,6,1913.08,2677.86,Packet
+1086,Hard Furniture,Home Centre,4,4,1038.41,3171.14,Packet
+1087,Ok Sports,Yonex,5,3,621.68,5509.61,Box
+1088,Live Clothing,Levis,2,6,4758.61,1203.75,Packet
+1089,Stage Furniture,Home Centre,4,8,2225.16,6494.27,Packet
+1090,Notice Electronics,Samsung,1,8,262.2,2016.41,Piece
+1091,Nearly Clothing,Adidas,2,1,3914.58,3203.14,Piece
+1092,Least Groceries,India Gate,3,4,4426.23,1693.26,Packet
+1093,Service Clothing,Nike,2,2,2125.37,1719.63,Box
+1094,Teach Furniture,IKEA,4,4,2908.87,5041.38,Litre
+1095,All Sports,Cosco,5,6,3371.62,1254.61,Kg
+1096,Gun Groceries,Aashirvaad,3,7,3266.78,2965.08,Kg
+1097,Opportunity Electronics,Samsung,1,2,4689.99,843.75,Litre
+1098,Conference Electronics,HP,1,1,4297.86,3121.25,Packet
+1099,Sign Groceries,Fortune,3,4,2001.93,3268.27,Piece
+1100,Him Furniture,IKEA,4,10,1079.36,5922.94,Piece
+1101,Hot Electronics,Dell,1,1,2902.93,587.15,Litre
+1102,Model Sports,Yonex,5,2,2578.28,6401.56,Kg
+1103,Ready Clothing,Adidas,2,3,1913.87,4321.37,Packet
+1104,Deal Clothing,Levis,2,8,4186.96,6213.31,Box
+1105,Agreement Groceries,Aashirvaad,3,9,4996.66,2310.08,Litre
+1106,Market Sports,Cosco,5,4,3410.19,3443.54,Packet
+1107,Bed Clothing,Levis,2,5,1124.7,596.72,Kg
+1108,Somebody Clothing,Nike,2,10,3563.87,6836.0,Packet
+1109,Marriage Sports,Nivia,5,3,1557.96,6645.52,Packet
+1110,Real Sports,Yonex,5,5,426.06,6637.73,Packet
+1111,Cell Electronics,HP,1,3,2747.9,4760.15,Packet
+1112,Subject Furniture,Nilkamal,4,2,3801.39,6876.36,Kg
+1113,Easy Furniture,IKEA,4,5,3244.29,4256.39,Piece
+1114,Space Furniture,IKEA,4,7,3053.79,1576.67,Packet
+1115,Grow Groceries,Aashirvaad,3,9,742.45,6557.66,Litre
+1116,Have Electronics,Samsung,1,7,2072.63,1130.99,Packet
+1117,According Furniture,Home Centre,4,2,1124.29,4230.43,Kg
+1118,Meet Furniture,IKEA,4,8,2255.02,2907.68,Litre
+1119,His Clothing,Adidas,2,6,2925.87,6037.42,Packet
+1120,Suddenly Sports,Yonex,5,2,4789.17,1818.28,Packet
+1121,Section Sports,Nivia,5,1,2843.7,2707.56,Box
+1122,Ago Groceries,Fortune,3,5,2831.14,572.63,Litre
+1123,Near Furniture,IKEA,4,1,2099.73,6744.65,Kg
+1124,Doctor Furniture,Nilkamal,4,2,4913.09,3050.38,Piece
+1125,Record Sports,Nivia,5,5,381.14,3976.35,Box
+1126,Long Sports,Nivia,5,8,4830.21,1538.66,Box
+1127,Citizen Sports,Cosco,5,1,1348.37,5410.24,Litre
+1128,Degree Clothing,Adidas,2,7,2877.41,4229.43,Litre
+1129,Do Electronics,Sony,1,5,4883.36,607.75,Box
+1130,Evidence Electronics,HP,1,8,695.19,2659.02,Piece
+1131,Choice Furniture,Home Centre,4,7,4289.42,2585.74,Piece
+1132,How Sports,Nivia,5,8,4498.01,2208.49,Box
+1133,Me Groceries,India Gate,3,9,4441.06,3991.66,Box
+1134,Democrat Furniture,Home Centre,4,7,4735.88,1472.59,Kg
+1135,Get Clothing,Puma,2,7,1779.55,2077.88,Box
+1136,Certainly Electronics,Dell,1,10,2526.6,1981.28,Kg
+1137,Writer Clothing,Adidas,2,5,4743.56,4477.03,Packet
+1138,Shake Sports,Cosco,5,7,4055.04,2038.8,Box
+1139,Executive Furniture,IKEA,4,4,3158.02,1193.55,Box
+1140,Consumer Furniture,IKEA,4,7,2379.97,4310.95,Piece
+1141,Exactly Clothing,Adidas,2,9,2520.45,5741.44,Piece
+1142,Anyone Furniture,IKEA,4,7,215.1,6409.63,Litre
+1143,Wife Groceries,Aashirvaad,3,4,2355.03,3494.02,Packet
+1144,Hope Electronics,Dell,1,8,2542.78,6272.53,Litre
+1145,Gas Sports,Cosco,5,1,383.15,5355.0,Packet
+1146,Dark Clothing,Levis,2,9,4491.86,5732.3,Litre
+1147,Do Groceries,Fortune,3,9,3261.18,6223.05,Piece
+1148,Much Groceries,Aashirvaad,3,2,1045.69,6755.89,Packet
+1149,Drive Groceries,Fortune,3,10,1135.13,6412.47,Kg
+1150,Member Electronics,HP,1,1,4144.92,5419.96,Kg
+1151,Help Sports,Nivia,5,6,2738.37,1034.8,Kg
+1152,Mind Furniture,Home Centre,4,3,327.84,3632.38,Litre
+1153,Under Sports,Yonex,5,10,3748.83,2537.19,Kg
+1154,Both Electronics,Sony,1,7,4355.24,5658.93,Kg
+1155,Those Groceries,Fortune,3,9,4473.28,3431.11,Box
+1156,Sister Groceries,India Gate,3,8,4241.46,2569.65,Litre
+1157,Participant Clothing,Nike,2,8,2276.41,5389.15,Box
+1158,See Groceries,Aashirvaad,3,3,4519.97,4497.15,Box
+1159,Let Furniture,Nilkamal,4,2,1841.41,1365.55,Piece
+1160,Yard Groceries,Fortune,3,7,1324.79,5979.75,Kg
+1161,Difference Clothing,Nike,2,3,945.65,3583.8,Kg
+1162,Technology Electronics,HP,1,7,2721.65,5306.95,Kg
+1163,Their Groceries,India Gate,3,7,1227.36,4405.6,Litre
+1164,Culture Furniture,Nilkamal,4,10,156.3,4641.15,Packet
+1165,Morning Electronics,Samsung,1,3,1129.62,1933.53,Kg
+1166,Already Electronics,Samsung,1,5,2596.74,2055.26,Packet
+1167,Several Electronics,HP,1,1,2072.78,1030.77,Piece
+1168,Gun Electronics,Apple,1,5,1143.08,1864.76,Kg
+1169,Moment Electronics,Apple,1,4,381.45,5335.28,Box
+1170,Network Furniture,IKEA,4,2,1231.19,4169.26,Box
+1171,Same Sports,Cosco,5,7,1726.16,3680.57,Piece
+1172,Tonight Clothing,Adidas,2,5,3289.41,2069.48,Kg
+1173,Film Clothing,Levis,2,9,2048.93,5743.21,Packet
+1174,Body Furniture,IKEA,4,3,1054.69,4228.76,Piece
+1175,Return Electronics,Sony,1,8,1552.75,4302.43,Litre
+1176,Reflect Clothing,Puma,2,7,463.36,3547.51,Kg
+1177,Music Clothing,Levis,2,9,4591.31,3827.26,Kg
+1178,Alone Electronics,Apple,1,10,1964.65,1924.45,Packet
+1179,Provide Furniture,IKEA,4,8,3870.17,6305.23,Litre
+1180,Data Furniture,Home Centre,4,4,359.1,3035.26,Kg
+1181,Natural Clothing,Puma,2,4,3916.04,6100.9,Packet
+1182,Understand Sports,Yonex,5,9,1467.27,3647.55,Piece
+1183,Career Clothing,Adidas,2,8,1776.25,1765.39,Kg
+1184,Agency Sports,Yonex,5,9,910.5,1753.71,Packet
+1185,Begin Furniture,Home Centre,4,10,1757.32,5250.06,Kg
+1186,Health Clothing,Nike,2,10,2054.63,1131.36,Box
+1187,Firm Clothing,Levis,2,6,1258.26,5084.25,Kg
+1188,Carry Clothing,Adidas,2,3,1694.36,5160.33,Litre
+1189,Rather Furniture,IKEA,4,5,4110.56,944.4,Packet
+1190,Candidate Clothing,Puma,2,8,4096.21,4497.01,Kg
+1191,So Groceries,Aashirvaad,3,10,4407.49,3088.35,Box
+1192,Dinner Clothing,Levis,2,6,4849.27,1523.56,Packet
+1193,Pattern Clothing,Adidas,2,2,2393.97,2748.4,Litre
+1194,Consumer Groceries,Aashirvaad,3,10,3199.25,4340.63,Kg
+1195,Thought Clothing,Nike,2,6,540.5,1955.94,Kg
+1196,Color Groceries,Aashirvaad,3,5,4266.01,1487.13,Litre
+1197,Usually Sports,Cosco,5,4,1266.47,6432.03,Piece
+1198,Big Sports,Yonex,5,7,2787.49,3590.16,Piece
+1199,Personal Clothing,Puma,2,9,2094.87,1553.27,Kg
+1200,Situation Furniture,Nilkamal,4,8,3107.34,3961.03,Piece
+1201,Development Groceries,Fortune,3,7,847.63,6676.45,Kg
+1202,Like Sports,Cosco,5,8,443.71,4904.71,Box
+1203,During Furniture,Home Centre,4,10,2225.66,5731.7,Packet
+1204,Minute Clothing,Adidas,2,7,4467.17,6079.11,Box
+1205,View Sports,Cosco,5,7,1613.79,1672.64,Box
+1206,Son Sports,Yonex,5,7,4629.14,4266.49,Packet
+1207,Truth Clothing,Puma,2,7,2578.65,5392.6,Packet
+1208,Make Sports,Nivia,5,2,2129.52,1347.87,Piece
+1209,Ever Furniture,IKEA,4,8,2469.63,2573.3,Packet
+1210,Activity Groceries,Aashirvaad,3,8,3499.06,1842.62,Piece
+1211,Bag Electronics,Samsung,1,9,2276.6,4950.44,Box
+1212,Cut Clothing,Levis,2,7,816.23,1644.05,Box
+1213,Start Sports,Nivia,5,7,1126.49,3617.14,Kg
+1214,Congress Groceries,Fortune,3,10,1151.24,5713.83,Box
+1215,Would Groceries,Fortune,3,7,2915.47,1342.03,Kg
+1216,Movie Groceries,India Gate,3,1,2152.74,4056.29,Litre
+1217,Peace Groceries,Aashirvaad,3,8,1417.32,2350.55,Box
+1218,Today Electronics,Sony,1,6,289.84,2682.05,Box
+1219,Firm Groceries,Aashirvaad,3,2,2195.93,2306.89,Packet
+1220,But Groceries,Fortune,3,3,3117.53,4749.39,Packet
+1221,Act Clothing,Levis,2,7,1398.64,5040.51,Litre
+1222,Whole Electronics,Samsung,1,2,1976.27,1312.82,Litre
+1223,Apply Sports,Cosco,5,10,530.96,827.36,Box
+1224,Debate Clothing,Nike,2,6,4132.39,664.12,Piece
+1225,Kid Sports,Nivia,5,9,1012.08,6746.77,Box
+1226,Site Furniture,Home Centre,4,5,3014.23,2313.8,Box
+1227,Late Groceries,India Gate,3,10,1551.73,4185.45,Packet
+1228,Recent Groceries,Aashirvaad,3,1,3013.1,4207.12,Litre
+1229,Significant Sports,Yonex,5,8,934.62,5468.02,Box
+1230,Talk Groceries,Aashirvaad,3,3,1303.32,2689.4,Kg
+1231,Realize Furniture,Home Centre,4,10,2018.29,4040.71,Kg
+1232,Throughout Furniture,IKEA,4,2,941.38,6305.14,Kg
+1233,Tree Furniture,Nilkamal,4,7,4107.51,1365.69,Piece
+1234,Behavior Clothing,Nike,2,5,1860.96,4470.87,Piece
+1235,Something Clothing,Puma,2,10,3961.37,2188.68,Packet
+1236,Role Sports,Yonex,5,10,4098.95,4814.41,Box
+1237,Miss Electronics,Sony,1,10,3730.59,729.84,Piece
+1238,Its Electronics,Apple,1,2,3769.34,6125.32,Box
+1239,Anyone Sports,Cosco,5,3,4652.04,4599.54,Packet
+1240,Our Clothing,Nike,2,8,3385.08,3286.59,Piece
+1241,Position Clothing,Puma,2,3,3078.45,4822.16,Litre
+1242,Song Sports,Cosco,5,2,4162.81,2859.04,Piece
+1243,Moment Clothing,Puma,2,6,1086.64,6490.88,Box
+1244,Painting Groceries,Fortune,3,3,3496.94,2053.71,Box
+1245,Necessary Furniture,IKEA,4,5,3326.44,4070.56,Piece
+1246,Economic Furniture,IKEA,4,7,1920.12,2439.26,Piece
+1247,Increase Sports,Cosco,5,9,4608.59,4206.89,Packet
+1248,Card Sports,Nivia,5,2,1901.03,6417.96,Box
+1249,Able Electronics,Sony,1,8,740.74,4412.16,Piece
+1250,Ask Electronics,Sony,1,6,1498.05,3855.64,Litre
+1251,Near Electronics,Sony,1,7,955.01,2295.2,Piece
+1252,Yes Sports,Cosco,5,10,4371.41,4890.03,Kg
+1253,Drug Clothing,Levis,2,7,3609.17,2503.19,Litre
+1254,Record Clothing,Levis,2,4,4147.94,4815.25,Litre
+1255,Force Furniture,IKEA,4,4,168.4,6812.13,Packet
+1256,Model Clothing,Levis,2,8,4986.77,4957.25,Kg
+1257,Child Electronics,Apple,1,3,3880.4,3272.43,Packet
+1258,Report Sports,Cosco,5,2,4656.38,4553.01,Piece
+1259,Continue Groceries,India Gate,3,8,1069.1,6601.0,Kg
+1260,White Furniture,Nilkamal,4,5,2334.07,946.4,Piece
+1261,International Clothing,Adidas,2,9,3234.96,5058.95,Piece
+1262,Born Furniture,Nilkamal,4,1,226.64,861.21,Litre
+1263,Lose Electronics,Dell,1,9,3357.07,1866.29,Kg
+1264,Rather Furniture,IKEA,4,6,787.62,6034.47,Piece
+1265,Newspaper Electronics,Sony,1,1,2263.35,1683.19,Piece
+1266,On Furniture,IKEA,4,3,1263.24,4269.62,Litre
+1267,Go Electronics,Apple,1,7,3418.1,4993.26,Litre
+1268,Congress Clothing,Adidas,2,9,4928.76,3440.7,Piece
+1269,Add Sports,Cosco,5,9,580.89,1923.4,Kg
+1270,Modern Sports,Nivia,5,9,3965.87,4424.56,Piece
+1271,Inside Furniture,Nilkamal,4,2,3981.25,2281.37,Litre
+1272,Low Clothing,Levis,2,6,1789.03,3135.35,Litre
+1273,Tree Sports,Yonex,5,4,778.46,2948.48,Box
+1274,Wrong Electronics,Sony,1,4,3593.63,1097.76,Piece
+1275,Adult Groceries,Aashirvaad,3,6,4750.97,2103.8,Box
+1276,Well Clothing,Nike,2,2,938.13,6098.89,Box
+1277,Must Clothing,Nike,2,3,1556.5,719.3,Litre
+1278,True Groceries,Aashirvaad,3,7,4977.69,2374.86,Box
+1279,Process Sports,Yonex,5,3,4319.61,5046.74,Packet
+1280,Large Sports,Cosco,5,8,4670.08,6949.35,Box
+1281,Significant Groceries,India Gate,3,8,464.99,3238.52,Packet
+1282,Happen Clothing,Levis,2,3,2306.94,910.79,Packet
+1283,Various Clothing,Adidas,2,10,4118.09,4661.33,Box
+1284,Hundred Electronics,Sony,1,2,1904.68,1795.81,Litre
+1285,Minute Furniture,IKEA,4,5,712.52,1304.36,Litre
+1286,Behavior Clothing,Puma,2,3,2467.9,2314.71,Box
+1287,Summer Sports,Yonex,5,3,4587.3,1111.92,Packet
+1288,East Groceries,Fortune,3,7,476.55,2963.93,Piece
+1289,Agency Electronics,Apple,1,6,3172.01,2201.13,Packet
+1290,Deal Sports,Nivia,5,6,1208.73,6160.96,Packet
+1291,Lead Groceries,Fortune,3,6,1630.8,6124.28,Litre
+1292,Test Electronics,HP,1,9,513.42,4893.88,Litre
+1293,As Electronics,Sony,1,6,3727.95,2546.46,Litre
+1294,Produce Electronics,Apple,1,9,1931.17,1153.21,Piece
+1295,Shoulder Groceries,India Gate,3,5,1463.51,757.73,Box
+1296,Coach Groceries,Fortune,3,9,505.72,5843.78,Kg
+1297,Notice Clothing,Puma,2,2,2253.88,6505.42,Kg
+1298,Institution Electronics,Samsung,1,2,2114.23,5874.83,Box
+1299,Plan Clothing,Levis,2,7,2162.03,5886.41,Box
+1300,Quality Sports,Cosco,5,7,3355.3,5893.98,Box
+1301,Ask Electronics,Apple,1,10,4405.59,1713.55,Piece
+1302,To Electronics,Apple,1,4,3246.41,1524.06,Kg
+1303,Ready Furniture,Nilkamal,4,5,3361.05,1168.04,Litre
+1304,Hotel Groceries,Fortune,3,10,1554.65,4756.08,Kg
+1305,May Electronics,Sony,1,6,1767.28,6777.95,Litre
+1306,Market Furniture,Nilkamal,4,7,2191.91,4604.76,Piece
+1307,Fight Furniture,Home Centre,4,8,3351.59,4097.16,Packet
+1308,Measure Clothing,Nike,2,4,1616.74,6905.85,Box
+1309,Point Electronics,Dell,1,3,3094.25,4356.65,Piece
+1310,Human Clothing,Nike,2,2,1536.33,2855.12,Packet
+1311,Recognize Furniture,IKEA,4,1,4827.85,3579.15,Packet
+1312,Place Sports,Nivia,5,8,109.71,5289.91,Piece
+1313,About Clothing,Levis,2,8,1305.89,1593.71,Packet
+1314,Maintain Electronics,Sony,1,7,3788.87,4265.44,Piece
+1315,Religious Clothing,Puma,2,3,4258.82,909.92,Kg
+1316,Blood Furniture,Nilkamal,4,4,2699.05,1056.7,Litre
+1317,Ever Sports,Yonex,5,5,1417.25,6193.66,Box
+1318,Build Electronics,Samsung,1,10,1115.98,4107.23,Box
+1319,Knowledge Furniture,IKEA,4,8,4379.76,1807.6,Packet
+1320,Learn Groceries,Fortune,3,8,3725.59,2354.48,Box
+1321,Must Sports,Yonex,5,4,470.43,6749.27,Box
+1322,Common Clothing,Nike,2,9,2794.18,2184.16,Litre
+1323,Too Groceries,Aashirvaad,3,1,4696.69,3844.29,Litre
+1324,Develop Furniture,Home Centre,4,1,4763.41,5445.19,Litre
+1325,Involve Sports,Cosco,5,3,193.59,2397.23,Packet
+1326,Human Electronics,Dell,1,1,1152.5,2176.27,Box
+1327,Each Furniture,Nilkamal,4,1,3645.91,4791.96,Piece
+1328,Image Electronics,Sony,1,8,2625.34,3051.65,Litre
+1329,From Sports,Nivia,5,2,180.33,5447.68,Kg
+1330,Attention Clothing,Adidas,2,2,3038.23,2909.71,Kg
+1331,Alone Sports,Cosco,5,1,3738.06,6234.34,Box
+1332,Rather Groceries,India Gate,3,7,2665.82,1376.95,Piece
+1333,Per Groceries,India Gate,3,5,1271.98,4177.36,Packet
+1334,Late Groceries,Aashirvaad,3,2,3356.8,1653.18,Kg
+1335,Different Electronics,HP,1,2,1789.82,5307.2,Box
+1336,Question Electronics,Samsung,1,4,4939.55,1296.87,Litre
+1337,Civil Sports,Cosco,5,7,4512.52,2913.19,Packet
+1338,Strategy Electronics,Sony,1,10,2333.14,2829.55,Kg
+1339,Front Groceries,India Gate,3,6,1578.47,1709.04,Packet
+1340,Close Groceries,Aashirvaad,3,2,3264.3,1636.1,Packet
+1341,Story Groceries,Aashirvaad,3,4,3949.6,3196.27,Piece
+1342,Fine Furniture,Nilkamal,4,8,609.56,5452.76,Litre
+1343,Some Clothing,Puma,2,9,2907.28,2037.3,Kg
+1344,Which Furniture,IKEA,4,10,2603.19,4380.93,Kg
+1345,After Sports,Nivia,5,1,1140.11,1038.71,Piece
+1346,Into Electronics,Dell,1,7,4764.31,6402.12,Litre
+1347,Education Sports,Cosco,5,10,1007.06,1872.35,Box
+1348,Run Groceries,Fortune,3,2,3126.67,4985.46,Kg
+1349,Entire Sports,Cosco,5,2,2508.81,1868.71,Box
+1350,Whose Sports,Nivia,5,10,2034.35,6217.93,Packet
+1351,Apply Groceries,Fortune,3,5,806.07,6836.93,Box
+1352,Record Groceries,Fortune,3,10,971.99,3303.22,Litre
+1353,Fire Groceries,Fortune,3,3,834.24,5257.62,Litre
+1354,Decade Electronics,Apple,1,5,1666.53,6527.09,Box
+1355,Fast Furniture,Home Centre,4,6,4011.26,6980.58,Packet
+1356,Hard Sports,Yonex,5,6,3959.37,763.06,Kg
+1357,Operation Groceries,Fortune,3,5,529.32,1873.69,Piece
+1358,Some Sports,Yonex,5,2,3280.32,2317.3,Piece
+1359,Onto Sports,Cosco,5,7,351.26,626.66,Litre
+1360,Both Furniture,Nilkamal,4,2,2155.22,4833.9,Box
+1361,Whom Groceries,Fortune,3,8,801.96,1739.75,Kg
+1362,Lose Furniture,IKEA,4,3,4494.29,2123.58,Packet
+1363,Major Clothing,Nike,2,3,2092.25,4080.31,Packet
+1364,Future Sports,Nivia,5,5,3547.03,5122.68,Litre
+1365,Avoid Electronics,Samsung,1,4,663.12,2533.38,Piece
+1366,Home Sports,Nivia,5,9,186.94,6362.64,Box
+1367,Future Sports,Nivia,5,8,1656.56,974.12,Piece
+1368,Drug Clothing,Puma,2,1,343.29,3981.79,Litre
+1369,Summer Furniture,Nilkamal,4,4,4080.89,4077.2,Piece
+1370,You Clothing,Puma,2,4,4534.49,3892.78,Litre
+1371,International Electronics,Sony,1,9,414.39,3818.99,Kg
+1372,Next Sports,Nivia,5,5,271.01,3589.34,Kg
+1373,Not Groceries,Aashirvaad,3,4,1812.65,6610.98,Packet
+1374,Manage Electronics,HP,1,8,4708.85,1954.23,Litre
+1375,Safe Clothing,Nike,2,8,2588.06,969.08,Packet
+1376,Employee Groceries,India Gate,3,1,1112.53,6777.36,Box
+1377,Quality Sports,Cosco,5,3,1077.04,3799.16,Packet
+1378,Yet Groceries,Aashirvaad,3,8,2643.34,3410.59,Litre
+1379,Then Groceries,India Gate,3,10,1263.04,2513.41,Litre
+1380,Gun Clothing,Adidas,2,8,2789.62,5404.75,Box
+1381,Sound Groceries,Fortune,3,7,2605.01,5880.82,Box
+1382,Practice Electronics,Apple,1,9,4762.15,2569.63,Litre
+1383,Compare Clothing,Levis,2,5,771.38,6560.64,Litre
+1384,Art Electronics,Sony,1,9,3368.16,4034.71,Box
+1385,Local Groceries,Aashirvaad,3,9,2578.84,6473.61,Box
+1386,Indeed Furniture,Nilkamal,4,9,1099.84,1356.79,Litre
+1387,Hotel Sports,Nivia,5,2,4184.62,1278.59,Kg
+1388,Necessary Sports,Cosco,5,6,2438.42,3743.25,Packet
+1389,Computer Electronics,Sony,1,2,4963.35,2072.4,Packet
+1390,Discussion Furniture,Home Centre,4,5,3260.48,6165.97,Packet
+1391,Above Furniture,IKEA,4,2,2421.21,5963.18,Packet
+1392,Though Furniture,Home Centre,4,8,3520.18,4998.48,Packet
+1393,Central Clothing,Levis,2,3,1032.91,2512.65,Packet
+1394,Level Furniture,Nilkamal,4,8,2011.22,4562.91,Piece
+1395,Phone Clothing,Levis,2,3,407.52,6663.72,Packet
+1396,Stuff Clothing,Nike,2,6,1666.82,3098.47,Piece
+1397,Only Clothing,Nike,2,6,1790.29,1402.37,Piece
+1398,Land Clothing,Adidas,2,8,2247.88,4882.04,Box
+1399,Until Clothing,Adidas,2,2,739.25,718.81,Kg
+1400,Thought Electronics,Samsung,1,7,1587.04,3969.63,Litre
+1401,Have Electronics,HP,1,5,359.06,2778.63,Packet
+1402,Deep Groceries,India Gate,3,4,1176.26,4062.74,Piece
+1403,Stock Groceries,India Gate,3,9,3112.41,5893.42,Kg
+1404,Particular Electronics,Dell,1,5,3097.09,3473.24,Box
+1405,Magazine Electronics,Apple,1,5,3560.72,6267.58,Piece
+1406,Employee Groceries,Aashirvaad,3,5,782.27,5980.98,Litre
+1407,Store Electronics,Sony,1,7,172.15,6333.39,Box
+1408,Talk Clothing,Nike,2,7,3521.38,2685.85,Kg
+1409,Religious Clothing,Levis,2,4,4248.52,2214.25,Litre
+1410,Technology Groceries,India Gate,3,9,1606.32,2801.02,Litre
+1411,Man Electronics,Apple,1,1,2676.39,726.69,Box
+1412,Special Electronics,Dell,1,8,3517.42,1760.28,Piece
+1413,Doctor Clothing,Nike,2,6,3370.07,2148.95,Box
+1414,Upon Sports,Cosco,5,10,1161.04,1454.8,Kg
+1415,Never Groceries,Aashirvaad,3,10,3008.49,922.69,Packet
+1416,Health Electronics,Samsung,1,4,3709.55,4795.29,Packet
+1417,Return Sports,Yonex,5,6,1859.58,5073.43,Litre
+1418,Throw Groceries,Aashirvaad,3,8,3394.35,1571.23,Piece
+1419,Must Electronics,Sony,1,6,259.37,1446.58,Piece
+1420,Blood Clothing,Adidas,2,6,3854.73,4137.92,Litre
+1421,Baby Sports,Yonex,5,2,2320.15,2164.75,Packet
+1422,Simple Groceries,India Gate,3,7,845.31,1975.85,Kg
+1423,Star Groceries,Fortune,3,1,2529.7,5380.77,Kg
+1424,Physical Clothing,Nike,2,1,1130.82,631.31,Piece
+1425,Cause Sports,Cosco,5,5,4105.81,2231.41,Box
+1426,Meeting Clothing,Puma,2,4,1654.2,4366.02,Kg
+1427,Adult Groceries,India Gate,3,10,3882.61,1802.88,Litre
+1428,Heavy Electronics,Dell,1,5,4674.69,4792.07,Piece
+1429,Toward Sports,Yonex,5,9,1119.19,653.23,Packet
+1430,Everyone Clothing,Puma,2,3,124.41,6659.78,Litre
+1431,Democratic Electronics,Dell,1,6,1390.59,6943.53,Packet
+1432,Laugh Electronics,Apple,1,10,3229.86,3155.47,Litre
+1433,Civil Sports,Cosco,5,6,196.81,5840.62,Packet
+1434,Lose Furniture,Nilkamal,4,4,4754.25,903.73,Litre
+1435,Culture Groceries,Fortune,3,10,2628.28,6953.89,Piece
+1436,Civil Sports,Cosco,5,10,3001.26,1036.56,Piece
+1437,Truth Clothing,Adidas,2,6,3576.77,1653.64,Box
+1438,Cut Electronics,Samsung,1,3,294.05,4692.39,Box
+1439,Policy Furniture,IKEA,4,3,3162.2,3228.82,Kg
+1440,Oil Furniture,Home Centre,4,7,709.74,516.38,Kg
+1441,Television Groceries,Fortune,3,9,3239.55,6713.92,Box
+1442,Civil Clothing,Puma,2,3,3040.86,3150.8,Litre
+1443,Building Sports,Yonex,5,3,2292.99,6228.08,Box
+1444,Wide Furniture,IKEA,4,2,4089.83,5854.59,Packet
+1445,Red Electronics,Sony,1,8,947.46,3756.7,Kg
+1446,Morning Groceries,Fortune,3,8,3516.59,6841.84,Packet
+1447,Those Clothing,Adidas,2,6,165.44,973.65,Litre
+1448,Start Furniture,IKEA,4,7,460.01,6762.6,Piece
+1449,Week Sports,Cosco,5,2,2587.43,2715.19,Box
+1450,Into Groceries,Fortune,3,4,4952.52,2523.26,Kg
+1451,Democrat Groceries,India Gate,3,3,429.71,1790.73,Litre
+1452,Court Sports,Yonex,5,4,4771.7,6052.36,Piece
+1453,Question Groceries,India Gate,3,2,1729.28,4087.94,Litre
+1454,Nature Furniture,Home Centre,4,8,1751.52,1715.46,Litre
+1455,Interesting Sports,Nivia,5,9,1601.35,3740.95,Packet
+1456,Foreign Electronics,Dell,1,6,369.79,3242.0,Kg
+1457,Manage Electronics,Sony,1,5,4099.18,1261.93,Kg
+1458,Not Clothing,Puma,2,10,3931.29,4261.03,Piece
+1459,Know Groceries,Aashirvaad,3,4,4189.64,1400.68,Box
+1460,Several Sports,Nivia,5,2,2416.76,2829.14,Piece
+1461,Boy Furniture,Home Centre,4,1,4331.88,739.59,Litre
+1462,Relate Sports,Nivia,5,1,1119.62,6074.5,Box
+1463,Goal Electronics,Sony,1,10,3475.91,4969.55,Litre
+1464,Economic Groceries,Aashirvaad,3,8,272.47,2764.05,Packet
+1465,Buy Clothing,Puma,2,9,2030.35,4005.66,Box
+1466,Lay Groceries,India Gate,3,6,4842.56,2682.74,Box
+1467,Why Sports,Yonex,5,3,3175.58,6406.35,Packet
+1468,The Clothing,Adidas,2,8,978.46,1519.79,Packet
+1469,Subject Electronics,Sony,1,10,3063.27,3786.5,Packet
+1470,Make Electronics,HP,1,10,3424.05,4314.26,Kg
+1471,Forget Furniture,Home Centre,4,1,4951.31,4431.49,Piece
+1472,Decide Clothing,Nike,2,10,1152.09,3330.95,Packet
+1473,Send Furniture,IKEA,4,9,1592.73,6847.64,Packet
+1474,Tend Clothing,Adidas,2,4,4989.06,2406.57,Piece
+1475,He Sports,Cosco,5,2,3356.48,6892.35,Packet
+1476,Finish Electronics,Apple,1,2,4143.17,6011.43,Box
+1477,Company Clothing,Levis,2,7,4618.22,1567.84,Packet
+1478,Down Groceries,Aashirvaad,3,7,1698.65,4288.27,Piece
+1479,Rich Furniture,Nilkamal,4,10,3435.3,6997.31,Box
+1480,Your Sports,Cosco,5,4,652.31,6951.62,Piece
+1481,Now Electronics,HP,1,8,2226.07,3088.13,Packet
+1482,Film Sports,Nivia,5,3,2716.77,2219.97,Litre
+1483,Water Electronics,HP,1,1,3859.23,3538.74,Box
+1484,Bad Groceries,Aashirvaad,3,3,470.93,6812.25,Piece
+1485,Lawyer Electronics,HP,1,1,4516.73,2239.17,Packet
+1486,Sure Furniture,Home Centre,4,8,2583.01,1238.23,Kg
+1487,Direction Electronics,Sony,1,10,1735.76,4998.9,Kg
+1488,Table Clothing,Adidas,2,10,2780.23,4931.83,Packet
+1489,Training Furniture,IKEA,4,2,4814.51,4894.95,Litre
+1490,Car Sports,Nivia,5,8,3801.35,841.75,Kg
+1491,Share Furniture,Nilkamal,4,5,2687.53,4582.51,Litre
+1492,Financial Groceries,India Gate,3,4,3563.43,6927.27,Kg
+1493,Music Clothing,Puma,2,3,3649.07,1416.99,Kg
+1494,Very Electronics,Apple,1,8,4134.99,5996.45,Packet
+1495,Around Furniture,Home Centre,4,6,2503.29,1912.6,Packet
+1496,Must Sports,Cosco,5,9,3301.97,1220.28,Kg
+1497,Enough Groceries,Aashirvaad,3,5,3042.59,2045.05,Kg
+1498,Cup Furniture,Home Centre,4,5,468.11,3487.57,Kg
+1499,Field Furniture,Home Centre,4,7,2368.72,4183.97,Box
+1500,Serious Electronics,Dell,1,8,1300.58,2559.79,Piece
+1501,Director Clothing,Puma,2,9,3613.93,4045.73,Kg
+1502,Six Clothing,Adidas,2,4,3767.99,4867.79,Box
+1503,Culture Sports,Nivia,5,7,2038.18,2022.08,Packet
+1504,Free Sports,Cosco,5,6,2964.95,2106.47,Kg
+1505,Policy Groceries,Aashirvaad,3,10,3250.23,5565.0,Box
+1506,Bad Clothing,Adidas,2,3,2362.08,2099.56,Kg
+1507,Cut Groceries,Aashirvaad,3,8,1468.73,4383.91,Piece
+1508,Husband Clothing,Adidas,2,7,1106.01,6022.21,Box
+1509,Always Electronics,Sony,1,10,1886.8,6308.36,Packet
+1510,Smile Sports,Yonex,5,5,3271.48,6742.73,Kg
+1511,Talk Clothing,Adidas,2,5,1306.32,2951.1,Litre
+1512,Method Furniture,IKEA,4,7,944.79,1637.24,Piece
+1513,The Groceries,Aashirvaad,3,8,3476.17,3169.96,Box
+1514,Candidate Clothing,Puma,2,2,4598.82,5268.72,Packet
+1515,Arm Clothing,Nike,2,4,3987.36,4456.09,Piece
+1516,Simple Sports,Cosco,5,10,2055.42,1121.42,Packet
+1517,Next Sports,Nivia,5,4,2609.96,532.66,Litre
+1518,Next Furniture,Nilkamal,4,7,2119.45,6631.73,Kg
+1519,Image Groceries,Aashirvaad,3,2,1349.58,3972.82,Box
+1520,Word Sports,Nivia,5,5,2904.08,4631.18,Piece
+1521,Since Furniture,IKEA,4,8,4795.16,4702.39,Box
+1522,Far Sports,Yonex,5,3,4608.15,6522.9,Kg
+1523,Tax Furniture,Nilkamal,4,10,1388.77,5121.79,Box
+1524,Interesting Groceries,Aashirvaad,3,1,1847.39,4932.3,Box
+1525,Itself Furniture,Home Centre,4,10,1842.97,2173.58,Piece
+1526,Nice Clothing,Nike,2,3,1530.05,6812.82,Litre
+1527,Great Furniture,Nilkamal,4,10,2958.9,6412.19,Box
+1528,Girl Sports,Cosco,5,7,940.91,4028.49,Packet
+1529,Tell Sports,Nivia,5,8,2454.5,2875.08,Packet
+1530,Theory Sports,Cosco,5,8,4690.72,2394.1,Box
+1531,Plant Sports,Nivia,5,9,3023.5,4636.75,Box
+1532,Those Groceries,India Gate,3,8,3882.46,3975.65,Box
+1533,Letter Sports,Yonex,5,7,4289.12,4025.82,Packet
+1534,Machine Furniture,Nilkamal,4,6,4256.76,5698.25,Box
+1535,Best Clothing,Adidas,2,3,3194.56,2688.77,Piece
+1536,Once Groceries,Aashirvaad,3,10,2442.88,1935.48,Piece
+1537,Language Groceries,Aashirvaad,3,7,2382.72,2111.6,Piece
+1538,Large Electronics,Sony,1,9,3139.61,6766.38,Litre
+1539,Draw Groceries,Aashirvaad,3,5,2116.14,2355.97,Box
+1540,Reason Clothing,Adidas,2,1,1291.21,4098.9,Box
+1541,Hour Electronics,Apple,1,1,3147.77,2471.66,Piece
+1542,Whom Electronics,HP,1,6,307.37,3350.56,Kg
+1543,Miss Sports,Nivia,5,1,1071.66,1528.54,Litre
+1544,Seem Sports,Nivia,5,9,1793.92,4303.8,Litre
+1545,Serious Electronics,Apple,1,4,2461.73,4710.05,Kg
+1546,Most Sports,Cosco,5,1,4833.85,929.3,Kg
+1547,List Sports,Nivia,5,8,4734.5,3774.29,Piece
+1548,Reveal Sports,Cosco,5,3,738.62,2328.94,Packet
+1549,Cup Furniture,Nilkamal,4,3,920.35,6326.01,Box
+1550,Get Clothing,Puma,2,6,3736.16,6236.44,Kg
+1551,Pull Furniture,Nilkamal,4,9,4476.6,3327.67,Litre
+1552,World Furniture,Home Centre,4,8,935.44,5736.04,Kg
+1553,Thousand Electronics,Dell,1,7,917.69,5304.28,Litre
+1554,Right Sports,Nivia,5,7,2407.34,2009.67,Kg
+1555,Woman Furniture,Home Centre,4,8,2449.23,4409.88,Piece
+1556,Source Groceries,Fortune,3,7,4990.28,4639.04,Piece
+1557,Page Groceries,India Gate,3,8,4159.06,4578.02,Litre
+1558,Society Groceries,India Gate,3,8,1299.7,4765.23,Box
+1559,Item Sports,Yonex,5,4,2622.91,1072.58,Box
+1560,Down Groceries,Fortune,3,6,1813.33,1027.03,Kg
+1561,Issue Furniture,Home Centre,4,1,579.07,2583.55,Piece
+1562,Peace Groceries,Aashirvaad,3,3,2293.44,4673.06,Box
+1563,Magazine Furniture,Home Centre,4,4,1076.35,3471.74,Litre
+1564,Situation Sports,Cosco,5,1,2000.82,2000.87,Piece
+1565,Cup Groceries,Aashirvaad,3,9,1568.42,739.21,Piece
+1566,Event Clothing,Puma,2,9,4112.33,3295.59,Box
+1567,Again Electronics,HP,1,6,686.44,4837.52,Piece
+1568,Happy Electronics,Dell,1,3,338.49,1405.64,Kg
+1569,Camera Sports,Cosco,5,7,300.98,1854.01,Litre
+1570,Usually Clothing,Levis,2,10,3187.49,5115.44,Box
+1571,Girl Electronics,Apple,1,5,1385.77,1991.76,Kg
+1572,Scene Sports,Cosco,5,8,4207.84,2502.83,Litre
+1573,Physical Electronics,Samsung,1,2,1653.09,5070.72,Box
+1574,Cost Furniture,IKEA,4,2,874.06,2902.21,Packet
+1575,Strategy Electronics,Apple,1,3,3123.92,1678.5,Box
+1576,But Clothing,Levis,2,1,475.36,2546.41,Box
+1577,Reach Groceries,Aashirvaad,3,5,4216.87,3503.85,Box
+1578,Particular Electronics,Sony,1,3,4616.05,6708.5,Litre
+1579,It Electronics,Samsung,1,1,1659.36,6684.65,Box
+1580,House Sports,Nivia,5,2,1212.7,3886.35,Packet
+1581,Material Electronics,Sony,1,7,4850.65,6641.21,Packet
+1582,Avoid Furniture,Home Centre,4,9,761.3,5645.77,Kg
+1583,Think Furniture,Nilkamal,4,1,1910.44,2380.87,Packet
+1584,Nation Groceries,Fortune,3,7,2259.5,637.28,Litre
+1585,Budget Groceries,Fortune,3,10,1077.83,3523.01,Packet
+1586,Former Clothing,Levis,2,9,3101.0,2330.39,Packet
+1587,Story Sports,Cosco,5,9,2999.88,3281.29,Kg
+1588,Can Clothing,Levis,2,2,1795.65,4906.04,Packet
+1589,Religious Furniture,IKEA,4,2,234.01,5151.02,Piece
+1590,Tonight Clothing,Nike,2,1,463.85,790.96,Box
+1591,Let Groceries,India Gate,3,5,2316.66,1259.31,Kg
+1592,New Furniture,IKEA,4,3,4417.0,5317.02,Packet
+1593,Course Electronics,Sony,1,9,1559.23,1002.0,Piece
+1594,Need Furniture,Nilkamal,4,3,2531.66,4853.33,Packet
+1595,Right Groceries,Fortune,3,6,4908.95,4093.81,Packet
+1596,None Groceries,India Gate,3,10,3218.89,2898.26,Box
+1597,All Furniture,IKEA,4,3,2994.88,5164.34,Packet
+1598,Various Groceries,Fortune,3,1,3712.07,6422.66,Box
+1599,Fact Sports,Cosco,5,3,4338.31,578.28,Litre
+1600,Could Electronics,Sony,1,4,1543.91,707.3,Box
+1601,Share Groceries,Aashirvaad,3,4,497.33,3301.59,Kg
+1602,Debate Groceries,Fortune,3,7,4561.6,4361.11,Litre
+1603,Investment Groceries,Fortune,3,6,156.69,2849.61,Kg
+1604,Green Groceries,Fortune,3,5,3267.05,749.03,Packet
+1605,Consumer Clothing,Puma,2,9,262.03,2176.66,Litre
+1606,They Clothing,Adidas,2,10,1164.09,2913.68,Packet
+1607,Your Electronics,Samsung,1,5,3424.8,4857.32,Piece
+1608,Anyone Electronics,HP,1,9,4903.45,3792.1,Kg
+1609,Since Furniture,Nilkamal,4,9,1734.43,4845.37,Litre
+1610,Price Electronics,HP,1,1,4562.65,3663.63,Piece
+1611,Participant Groceries,India Gate,3,1,3551.21,6429.41,Litre
+1612,Short Clothing,Nike,2,6,1263.21,1076.57,Litre
+1613,Itself Clothing,Nike,2,4,2263.37,6794.47,Piece
+1614,Including Groceries,Fortune,3,3,1850.16,5799.83,Piece
+1615,Organization Groceries,Aashirvaad,3,8,4288.58,6332.61,Kg
+1616,Chance Groceries,India Gate,3,4,1757.56,6353.88,Kg
+1617,Difficult Clothing,Puma,2,10,1724.18,2669.06,Kg
+1618,Everybody Groceries,India Gate,3,4,896.28,3188.94,Piece
+1619,Energy Groceries,Fortune,3,9,460.54,5942.37,Packet
+1620,Through Furniture,Home Centre,4,4,137.23,6056.31,Piece
+1621,Budget Furniture,Nilkamal,4,2,1296.55,4831.91,Packet
+1622,Include Sports,Nivia,5,4,2202.52,1796.73,Packet
+1623,Table Clothing,Nike,2,7,562.95,5081.29,Kg
+1624,Sometimes Sports,Nivia,5,4,236.15,2423.82,Kg
+1625,Itself Clothing,Adidas,2,7,3098.55,6006.61,Piece
+1626,Town Sports,Cosco,5,9,2167.83,5517.84,Packet
+1627,Safe Clothing,Levis,2,5,4647.64,4962.59,Box
+1628,Along Sports,Nivia,5,2,4848.99,3148.19,Piece
+1629,Write Groceries,Aashirvaad,3,10,3056.91,2977.55,Piece
+1630,Economic Furniture,Nilkamal,4,3,160.34,6594.95,Packet
+1631,Hand Electronics,HP,1,6,3752.01,4335.52,Piece
+1632,Method Sports,Nivia,5,6,4276.75,5064.25,Box
+1633,Half Clothing,Adidas,2,8,4041.51,3929.66,Piece
+1634,Short Clothing,Levis,2,7,4245.55,6914.65,Packet
+1635,Campaign Groceries,Fortune,3,2,2598.69,5845.22,Litre
+1636,Rock Sports,Yonex,5,5,4759.6,2975.73,Piece
+1637,City Sports,Nivia,5,9,1890.29,3176.85,Litre
+1638,Other Furniture,IKEA,4,10,3376.31,6486.12,Box
+1639,Dream Furniture,Nilkamal,4,8,4838.48,1263.73,Box
+1640,Understand Clothing,Adidas,2,3,2992.35,2930.67,Box
+1641,We Furniture,Home Centre,4,6,1580.84,2911.36,Packet
+1642,Yourself Clothing,Levis,2,6,1373.79,3962.62,Kg
+1643,My Groceries,India Gate,3,9,4287.51,5037.04,Box
+1644,His Groceries,Aashirvaad,3,9,397.97,4011.11,Box
+1645,Song Furniture,Home Centre,4,4,2058.1,1090.35,Piece
+1646,Between Groceries,Aashirvaad,3,6,3813.0,1546.47,Box
+1647,Positive Furniture,Home Centre,4,5,2211.19,3766.24,Piece
+1648,Morning Sports,Yonex,5,1,3903.31,2297.63,Litre
+1649,Affect Furniture,Home Centre,4,1,2347.78,5301.58,Piece
+1650,Attorney Groceries,Fortune,3,10,1428.25,3189.91,Box
+1651,Office Groceries,India Gate,3,6,4365.58,5009.8,Box
+1652,Lay Furniture,Nilkamal,4,3,2583.97,2325.59,Box
+1653,Necessary Sports,Yonex,5,1,1620.76,4246.86,Piece
+1654,Individual Electronics,HP,1,4,2424.97,5105.84,Litre
+1655,Street Sports,Cosco,5,7,4160.74,6518.24,Packet
+1656,Least Groceries,India Gate,3,6,757.38,1366.02,Box
+1657,Owner Groceries,India Gate,3,1,659.57,5707.53,Piece
+1658,Southern Clothing,Puma,2,6,4993.4,2321.41,Piece
+1659,Then Furniture,Home Centre,4,9,4557.39,4443.19,Litre
+1660,Us Furniture,Nilkamal,4,6,3259.47,1322.06,Box
+1661,Hope Furniture,IKEA,4,6,3037.31,4546.13,Litre
+1662,Thus Groceries,Aashirvaad,3,10,2639.66,503.24,Box
+1663,Project Clothing,Nike,2,9,4074.12,2042.02,Box
+1664,Measure Groceries,India Gate,3,2,1358.46,2301.59,Kg
+1665,Company Sports,Cosco,5,10,1070.27,3108.47,Piece
+1666,Feel Clothing,Nike,2,9,2804.7,5888.78,Kg
+1667,Government Sports,Cosco,5,8,228.3,1325.37,Packet
+1668,Memory Groceries,Aashirvaad,3,5,1174.7,2209.64,Litre
+1669,Term Groceries,Fortune,3,6,103.76,6951.72,Piece
+1670,Possible Sports,Yonex,5,9,2919.76,4973.03,Packet
+1671,Hard Furniture,Nilkamal,4,6,2814.46,5587.73,Packet
+1672,Nearly Groceries,Fortune,3,5,545.59,1772.4,Box
+1673,Quite Furniture,IKEA,4,6,963.86,6113.81,Litre
+1674,Sense Groceries,Aashirvaad,3,4,4608.62,4269.76,Box
+1675,Effort Sports,Cosco,5,2,4598.13,1127.02,Box
+1676,Adult Electronics,Sony,1,3,3261.1,4581.5,Packet
+1677,Mean Sports,Yonex,5,10,1923.43,2694.2,Kg
+1678,Sister Electronics,HP,1,9,1823.23,2289.85,Kg
+1679,He Sports,Cosco,5,8,3028.2,2385.28,Packet
+1680,To Groceries,Aashirvaad,3,10,1781.07,3274.36,Box
+1681,Want Electronics,Sony,1,5,3845.27,3194.05,Box
+1682,Become Groceries,India Gate,3,3,2781.88,1433.25,Box
+1683,Wife Clothing,Nike,2,8,1732.25,3346.78,Litre
+1684,Area Groceries,Fortune,3,1,796.5,989.75,Box
+1685,Eat Clothing,Puma,2,9,3960.85,6440.63,Piece
+1686,North Clothing,Adidas,2,9,4650.11,1942.15,Piece
+1687,Police Sports,Nivia,5,8,3132.1,2080.74,Packet
+1688,Public Electronics,Sony,1,3,981.2,3875.97,Kg
+1689,Her Sports,Nivia,5,2,1419.58,4728.88,Litre
+1690,Church Clothing,Adidas,2,5,814.71,3203.27,Kg
+1691,Production Groceries,India Gate,3,1,3417.21,2413.87,Packet
+1692,Road Groceries,Fortune,3,9,1779.29,4057.68,Litre
+1693,Company Clothing,Nike,2,7,2575.3,5040.1,Litre
+1694,Water Sports,Yonex,5,10,3317.49,4849.96,Packet
+1695,Building Clothing,Puma,2,6,559.29,5390.14,Piece
+1696,Laugh Groceries,India Gate,3,8,2542.13,5337.9,Kg
+1697,Lead Electronics,Apple,1,9,755.1,3879.1,Box
+1698,Break Groceries,Fortune,3,8,4779.57,1653.2,Packet
+1699,Ball Electronics,Apple,1,6,4445.68,4896.1,Packet
+1700,Seem Furniture,IKEA,4,9,4452.62,6123.09,Litre
+1701,However Groceries,India Gate,3,3,2936.89,5959.79,Litre
+1702,Dream Clothing,Levis,2,3,4245.65,2789.13,Piece
+1703,My Electronics,Apple,1,7,928.43,3116.81,Packet
+1704,Leg Sports,Nivia,5,2,419.17,4656.49,Box
+1705,Minute Furniture,Nilkamal,4,5,1754.58,2070.84,Kg
+1706,Teach Furniture,Nilkamal,4,1,320.52,6023.58,Kg
+1707,Summer Groceries,Aashirvaad,3,2,2950.75,3690.2,Kg
+1708,Interesting Electronics,Sony,1,1,2697.47,4409.54,Box
+1709,Admit Electronics,Samsung,1,5,2273.77,4871.67,Packet
+1710,Member Electronics,Apple,1,6,412.11,6815.54,Piece
+1711,Investment Sports,Yonex,5,4,4228.62,6200.29,Litre
+1712,Call Sports,Yonex,5,1,3109.07,1110.92,Litre
+1713,Item Electronics,Sony,1,2,4854.74,1925.52,Kg
+1714,Suggest Sports,Cosco,5,2,4409.07,1461.59,Litre
+1715,Business Furniture,IKEA,4,5,743.81,2233.07,Litre
+1716,Without Electronics,Dell,1,1,398.42,1714.9,Box
+1717,Effect Furniture,IKEA,4,9,185.57,6295.73,Litre
+1718,Ground Sports,Yonex,5,7,4351.68,1333.47,Kg
+1719,Almost Electronics,HP,1,7,1187.16,3884.16,Piece
+1720,Keep Furniture,IKEA,4,5,4627.76,6574.73,Packet
+1721,Service Groceries,Fortune,3,6,2021.45,4709.48,Litre
+1722,Manager Furniture,Home Centre,4,9,3179.81,3997.0,Box
+1723,Less Groceries,India Gate,3,4,403.18,1187.22,Piece
+1724,Section Clothing,Nike,2,8,2645.53,5324.57,Packet
+1725,Room Electronics,Sony,1,9,848.77,6033.67,Packet
+1726,Reveal Groceries,Fortune,3,5,1260.0,1152.28,Piece
+1727,Certain Electronics,Dell,1,2,4325.72,1346.11,Packet
+1728,Drop Furniture,IKEA,4,6,2384.29,2373.7,Box
+1729,Here Groceries,Aashirvaad,3,1,3283.08,2198.82,Kg
+1730,Commercial Sports,Yonex,5,2,1584.34,1567.98,Litre
+1731,Respond Groceries,Aashirvaad,3,8,1009.49,5345.83,Packet
+1732,Open Groceries,India Gate,3,2,1915.93,4563.64,Kg
+1733,Show Sports,Yonex,5,7,3927.56,1615.22,Litre
+1734,Sing Clothing,Puma,2,10,1022.15,3972.19,Piece
+1735,Score Electronics,Dell,1,8,2150.41,3823.93,Kg
+1736,Describe Groceries,Fortune,3,4,2479.25,6068.57,Box
+1737,Win Electronics,Samsung,1,2,4202.52,3357.93,Kg
+1738,Reveal Electronics,Sony,1,10,2999.12,6466.99,Box
+1739,Unit Clothing,Puma,2,3,3806.39,880.11,Piece
+1740,Talk Groceries,Aashirvaad,3,5,566.52,3852.37,Kg
+1741,Us Sports,Nivia,5,6,4588.83,3139.57,Kg
+1742,Source Electronics,HP,1,5,1047.45,3358.73,Litre
+1743,Guess Groceries,Fortune,3,1,1180.65,2050.41,Piece
+1744,Worker Groceries,Fortune,3,7,1691.54,1731.18,Kg
+1745,Lot Groceries,India Gate,3,9,2429.94,4121.41,Box
+1746,Usually Clothing,Levis,2,1,1983.72,702.77,Box
+1747,Serious Furniture,Nilkamal,4,1,4859.7,660.03,Piece
+1748,Partner Furniture,IKEA,4,7,2724.94,5410.94,Litre
+1749,Its Furniture,IKEA,4,10,1032.28,1049.96,Litre
+1750,Risk Sports,Yonex,5,1,454.23,4017.46,Packet
+1751,Avoid Electronics,Sony,1,3,4917.42,2398.99,Litre
+1752,Check Groceries,Fortune,3,5,845.12,3516.63,Litre
+1753,Condition Groceries,India Gate,3,7,1312.53,2906.85,Packet
+1754,Suggest Clothing,Levis,2,3,517.43,2733.96,Box
+1755,Picture Clothing,Adidas,2,7,238.95,5622.67,Piece
+1756,Size Furniture,Home Centre,4,1,2078.56,3205.86,Box
+1757,Study Electronics,HP,1,9,3175.83,3975.38,Kg
+1758,Nor Sports,Cosco,5,1,1200.17,4918.12,Piece
+1759,Add Groceries,India Gate,3,10,1553.65,2044.68,Piece
+1760,Others Clothing,Puma,2,8,2214.94,3430.16,Piece
+1761,Knowledge Electronics,Samsung,1,10,4787.44,4936.41,Kg
+1762,Scientist Furniture,Home Centre,4,1,556.26,4405.03,Box
+1763,Military Sports,Yonex,5,4,1433.48,2090.67,Kg
+1764,Something Clothing,Levis,2,1,4191.99,5478.91,Kg
+1765,Mother Furniture,IKEA,4,2,587.56,825.37,Packet
+1766,Receive Furniture,Home Centre,4,8,389.66,1164.82,Packet
+1767,Main Furniture,Nilkamal,4,1,503.1,633.6,Piece
+1768,Major Electronics,Apple,1,8,1591.62,1752.94,Litre
+1769,Entire Sports,Yonex,5,10,1730.76,2775.02,Litre
+1770,Product Electronics,Samsung,1,9,3468.94,3473.92,Kg
+1771,Voice Groceries,Fortune,3,4,4836.43,1044.7,Litre
+1772,Establish Sports,Cosco,5,9,1489.47,5401.73,Piece
+1773,Produce Electronics,Dell,1,2,3906.26,2743.42,Packet
+1774,Enough Furniture,Home Centre,4,7,217.04,3410.84,Litre
+1775,Building Furniture,IKEA,4,6,4479.02,3672.97,Piece
+1776,Political Groceries,Aashirvaad,3,8,4729.44,6444.66,Piece
+1777,After Clothing,Puma,2,1,4148.2,5539.59,Litre
+1778,American Furniture,IKEA,4,5,2319.71,3684.67,Packet
+1779,Force Groceries,Fortune,3,6,2513.14,2582.04,Litre
+1780,Agree Groceries,Fortune,3,1,2138.2,5850.95,Litre
+1781,Administration Clothing,Puma,2,3,2047.36,4862.13,Piece
+1782,Present Clothing,Nike,2,8,458.82,1873.14,Kg
+1783,Gun Furniture,Nilkamal,4,10,496.33,1121.87,Litre
+1784,Himself Electronics,Apple,1,2,146.17,5081.2,Litre
+1785,Side Clothing,Nike,2,3,3643.41,1215.52,Packet
+1786,Fish Electronics,Sony,1,5,2700.92,2013.48,Box
+1787,Still Electronics,Apple,1,3,3282.13,4916.32,Kg
+1788,How Sports,Nivia,5,1,1408.02,2796.52,Kg
+1789,Late Sports,Cosco,5,1,593.13,1087.87,Litre
+1790,Skill Furniture,IKEA,4,1,4540.43,1664.23,Kg
+1791,Any Sports,Nivia,5,7,260.11,3428.36,Litre
+1792,Manager Groceries,Fortune,3,2,3571.22,2666.43,Kg
+1793,Instead Clothing,Nike,2,10,3079.54,1995.33,Packet
+1794,Thousand Groceries,Fortune,3,3,209.85,4664.58,Box
+1795,Daughter Furniture,Home Centre,4,4,4040.97,4086.02,Litre
+1796,I Electronics,Samsung,1,4,618.77,1722.58,Litre
+1797,Detail Groceries,India Gate,3,1,1951.0,657.67,Kg
+1798,Follow Sports,Cosco,5,2,2683.68,3439.45,Litre
+1799,These Sports,Yonex,5,5,3019.74,1670.0,Box
+1800,Man Clothing,Levis,2,3,2968.46,6348.04,Box
+1801,Speech Furniture,IKEA,4,5,2706.64,1018.98,Kg
+1802,Listen Furniture,IKEA,4,5,2101.09,2942.02,Box
+1803,Note Groceries,Aashirvaad,3,7,3752.06,6691.0,Litre
+1804,Us Furniture,Nilkamal,4,10,1918.64,911.61,Piece
+1805,Operation Clothing,Adidas,2,2,196.62,3154.55,Box
+1806,Interest Electronics,Apple,1,4,2239.33,1557.6,Kg
+1807,Product Electronics,HP,1,6,4254.71,6018.91,Kg
+1808,Gas Sports,Nivia,5,1,2820.2,4322.97,Packet
+1809,Best Clothing,Adidas,2,5,2003.93,1330.07,Litre
+1810,No Clothing,Puma,2,7,2946.65,4096.36,Kg
+1811,Myself Groceries,Aashirvaad,3,8,2137.87,3044.09,Piece
+1812,Fear Groceries,Fortune,3,6,1505.65,6287.4,Piece
+1813,Way Furniture,IKEA,4,7,3477.53,5121.79,Kg
+1814,Reflect Electronics,Dell,1,2,3596.39,6225.88,Piece
+1815,Way Clothing,Adidas,2,3,2574.34,4209.11,Packet
+1816,Show Groceries,Aashirvaad,3,7,337.97,6400.02,Packet
+1817,Treatment Electronics,Samsung,1,8,3701.43,1695.26,Packet
+1818,Full Clothing,Nike,2,6,3553.08,4138.33,Litre
+1819,Put Electronics,HP,1,2,843.56,3748.11,Packet
+1820,Relationship Electronics,HP,1,3,2219.56,5483.55,Litre
+1821,Tend Furniture,Home Centre,4,6,488.05,534.61,Kg
+1822,Argue Groceries,Fortune,3,7,3537.84,2275.77,Litre
+1823,Front Groceries,Aashirvaad,3,8,841.67,4561.56,Box
+1824,Truth Clothing,Puma,2,5,475.25,4482.77,Box
+1825,Often Sports,Yonex,5,4,2937.68,5150.1,Box
+1826,Reach Sports,Cosco,5,9,3001.69,3202.53,Box
+1827,World Furniture,Nilkamal,4,8,281.72,863.74,Packet
+1828,Clear Sports,Yonex,5,8,1907.32,3003.34,Piece
+1829,Dark Furniture,Nilkamal,4,6,537.34,6967.02,Litre
+1830,Young Groceries,India Gate,3,2,1886.42,6625.96,Packet
+1831,Family Groceries,Aashirvaad,3,3,3065.66,5750.07,Kg
+1832,Radio Groceries,Aashirvaad,3,6,4211.26,6759.0,Box
+1833,Visit Clothing,Levis,2,3,1983.01,3619.9,Kg
+1834,Protect Groceries,Fortune,3,4,2315.44,6280.79,Box
+1835,Relate Sports,Yonex,5,6,4914.79,5000.26,Piece
+1836,Sing Sports,Yonex,5,7,2817.21,620.34,Packet
+1837,Well Electronics,Samsung,1,1,548.45,881.52,Kg
+1838,White Groceries,Fortune,3,4,2485.52,3163.92,Kg
+1839,Mrs Groceries,Fortune,3,8,2256.62,1707.48,Kg
+1840,Account Clothing,Adidas,2,8,1062.9,5665.51,Kg
+1841,Company Electronics,Apple,1,6,1907.76,1151.6,Piece
+1842,Purpose Sports,Yonex,5,10,2735.75,6879.01,Kg
+1843,Property Electronics,HP,1,1,3815.67,3630.11,Box
+1844,Care Electronics,Apple,1,10,1111.8,6592.56,Packet
+1845,Especially Clothing,Levis,2,7,3806.82,4234.93,Kg
+1846,How Electronics,Dell,1,2,1426.62,2922.09,Packet
+1847,Scientist Clothing,Levis,2,6,4737.26,1358.69,Litre
+1848,Raise Groceries,Fortune,3,10,913.53,5725.8,Litre
+1849,Develop Clothing,Levis,2,3,3499.89,6698.46,Piece
+1850,Particular Clothing,Nike,2,5,2212.96,3633.86,Kg
+1851,His Furniture,IKEA,4,6,1686.57,721.36,Litre
+1852,Full Electronics,Sony,1,2,4017.86,3693.35,Box
+1853,Pick Sports,Yonex,5,7,3531.93,896.5,Litre
+1854,Little Electronics,HP,1,8,2432.64,2170.33,Litre
+1855,Brother Furniture,Nilkamal,4,10,724.86,4271.23,Packet
+1856,Particular Electronics,Samsung,1,3,2365.78,1768.14,Litre
+1857,Indeed Furniture,IKEA,4,10,3648.75,895.98,Litre
+1858,Even Groceries,Aashirvaad,3,8,1942.62,4955.24,Litre
+1859,Artist Clothing,Puma,2,5,3267.83,5177.78,Litre
+1860,Eight Furniture,Home Centre,4,7,996.19,4469.75,Box
+1861,Return Groceries,India Gate,3,9,1011.17,4306.51,Litre
+1862,Land Groceries,Aashirvaad,3,10,4795.15,1803.82,Packet
+1863,Better Furniture,Nilkamal,4,10,1539.87,800.32,Piece
+1864,Country Furniture,Home Centre,4,1,2687.14,5629.31,Piece
+1865,Store Groceries,India Gate,3,2,208.82,4392.94,Packet
+1866,Stock Clothing,Puma,2,8,3234.14,4806.7,Piece
+1867,Response Electronics,Samsung,1,7,1391.73,6543.69,Kg
+1868,Population Groceries,Aashirvaad,3,1,2197.09,6949.29,Kg
+1869,Range Groceries,India Gate,3,7,3828.01,3307.62,Box
+1870,Child Furniture,IKEA,4,1,1613.18,3239.17,Litre
+1871,Top Groceries,Aashirvaad,3,4,1367.79,3901.17,Kg
+1872,Natural Electronics,Dell,1,9,917.71,3008.86,Kg
+1873,Either Groceries,India Gate,3,1,2114.92,1893.31,Box
+1874,Next Electronics,Sony,1,6,986.33,3836.57,Packet
+1875,Project Clothing,Puma,2,4,4380.4,1270.08,Piece
+1876,Same Groceries,Aashirvaad,3,8,885.49,5502.53,Packet
+1877,Participant Electronics,HP,1,9,1184.17,4451.91,Piece
+1878,Apply Sports,Cosco,5,9,1363.24,4106.74,Kg
+1879,Exactly Sports,Nivia,5,5,636.11,2951.45,Kg
+1880,Lawyer Electronics,Dell,1,7,598.82,5292.66,Box
+1881,While Sports,Cosco,5,7,239.99,1322.14,Packet
+1882,Generation Sports,Yonex,5,5,1736.15,6277.44,Litre
+1883,Stuff Clothing,Puma,2,1,3184.82,1247.84,Kg
+1884,Call Clothing,Adidas,2,2,4297.66,6149.73,Piece
+1885,Same Clothing,Levis,2,6,665.16,2283.79,Kg
+1886,Seek Furniture,IKEA,4,7,3653.8,3338.91,Box
+1887,Region Groceries,India Gate,3,4,4775.65,6431.56,Litre
+1888,Property Clothing,Levis,2,3,3188.4,2526.97,Box
+1889,Son Groceries,India Gate,3,9,3806.48,2292.92,Kg
+1890,Share Clothing,Adidas,2,9,782.57,1961.28,Litre
+1891,Four Sports,Cosco,5,10,2722.75,1396.4,Litre
+1892,Meet Electronics,HP,1,2,1339.27,4134.28,Piece
+1893,Capital Sports,Yonex,5,8,188.05,6220.09,Litre
+1894,Usually Clothing,Adidas,2,5,283.54,2980.51,Piece
+1895,Less Furniture,Nilkamal,4,10,238.27,3182.74,Packet
+1896,Save Furniture,IKEA,4,7,3231.54,3444.26,Piece
+1897,None Electronics,Samsung,1,10,2525.05,2495.29,Packet
+1898,Both Sports,Nivia,5,2,3188.82,4395.38,Box
+1899,Role Sports,Cosco,5,10,3666.04,6545.11,Packet
+1900,Artist Furniture,Nilkamal,4,6,1265.91,622.03,Piece
+1901,Police Clothing,Nike,2,9,3962.2,2862.91,Packet
+1902,Draw Sports,Cosco,5,8,1673.93,2784.94,Kg
+1903,Pay Clothing,Levis,2,10,2198.43,6174.81,Box
+1904,About Electronics,Samsung,1,10,3133.25,1365.73,Litre
+1905,Range Groceries,Fortune,3,4,3290.35,4459.19,Piece
+1906,Door Electronics,Apple,1,7,2922.89,2186.08,Kg
+1907,Focus Furniture,Nilkamal,4,8,781.46,4578.2,Litre
+1908,Themselves Electronics,Dell,1,4,2550.08,4778.9,Packet
+1909,American Sports,Cosco,5,3,1990.5,6409.3,Kg
+1910,I Clothing,Adidas,2,4,2182.41,3460.51,Box
+1911,Friend Furniture,Home Centre,4,7,4429.63,4010.05,Box
+1912,Least Electronics,Apple,1,10,4680.75,5494.38,Piece
+1913,Apply Clothing,Nike,2,2,3174.23,5370.11,Litre
+1914,Issue Sports,Cosco,5,2,1432.61,3414.91,Litre
+1915,Outside Groceries,India Gate,3,4,4574.37,4115.08,Piece
+1916,House Clothing,Nike,2,4,2400.79,3161.27,Litre
+1917,Note Furniture,Nilkamal,4,4,2092.08,4353.47,Packet
+1918,Knowledge Sports,Nivia,5,8,3094.59,5933.24,Kg
+1919,Ball Furniture,Home Centre,4,5,3067.88,5765.1,Piece
+1920,Decide Sports,Nivia,5,2,1219.62,3829.51,Piece
+1921,Power Sports,Cosco,5,7,4306.04,1416.32,Box
+1922,Course Furniture,Home Centre,4,5,3281.59,1401.25,Litre
+1923,Resource Groceries,India Gate,3,2,2828.58,939.39,Piece
+1924,Throughout Furniture,Nilkamal,4,8,563.33,4755.58,Litre
+1925,Water Clothing,Nike,2,9,1574.67,2815.53,Piece
+1926,Likely Electronics,HP,1,4,2371.4,4341.19,Kg
+1927,Try Clothing,Levis,2,3,2366.16,821.3,Kg
+1928,Wait Electronics,Sony,1,9,1931.05,4928.94,Litre
+1929,American Electronics,Dell,1,8,2604.84,3814.98,Litre
+1930,Answer Electronics,Sony,1,2,4102.4,4550.34,Litre
+1931,Arrive Furniture,Nilkamal,4,9,134.67,1633.44,Litre
+1932,Production Groceries,Aashirvaad,3,4,3159.25,1581.8,Kg
+1933,Meeting Furniture,Home Centre,4,7,3977.77,1371.47,Kg
+1934,Sometimes Sports,Cosco,5,9,347.09,4112.85,Litre
+1935,More Clothing,Levis,2,7,2808.54,5948.24,Box
+1936,Eye Clothing,Levis,2,7,1110.87,1995.34,Litre
+1937,Benefit Electronics,Samsung,1,3,3487.71,5313.44,Kg
+1938,Evidence Sports,Nivia,5,4,1182.06,2244.3,Box
+1939,Whom Groceries,Fortune,3,6,1997.38,4375.24,Piece
+1940,Quality Sports,Yonex,5,1,4678.64,4932.21,Box
+1941,Beautiful Clothing,Adidas,2,2,1453.31,3522.56,Box
+1942,Around Electronics,Samsung,1,5,4211.24,6395.05,Packet
+1943,Radio Electronics,Dell,1,10,3477.69,4970.04,Piece
+1944,Knowledge Sports,Cosco,5,7,4515.29,1450.79,Kg
+1945,Group Furniture,Nilkamal,4,10,1533.83,6693.65,Packet
+1946,Most Clothing,Levis,2,10,3784.86,4727.68,Piece
+1947,Dinner Groceries,India Gate,3,1,923.33,3060.65,Packet
+1948,Other Groceries,Aashirvaad,3,9,4843.55,1982.87,Box
+1949,Least Sports,Nivia,5,9,1694.88,3873.49,Litre
+1950,Interesting Sports,Cosco,5,9,855.51,4794.78,Litre
+1951,They Electronics,Samsung,1,1,735.61,3319.98,Packet
+1952,Yourself Electronics,Sony,1,4,3638.19,4269.28,Litre
+1953,Learn Furniture,IKEA,4,10,172.86,4883.35,Litre
+1954,Service Furniture,Home Centre,4,1,1111.77,6396.33,Packet
+1955,Interview Sports,Nivia,5,6,4965.17,3434.67,Packet
+1956,Best Electronics,Samsung,1,3,1394.02,3658.47,Kg
+1957,However Electronics,Dell,1,1,4662.19,1887.34,Box
+1958,Area Electronics,Apple,1,1,3049.97,3372.47,Packet
+1959,Million Groceries,Aashirvaad,3,5,4394.13,1682.59,Litre
+1960,Buy Electronics,Dell,1,2,367.01,4485.01,Kg
+1961,Several Clothing,Adidas,2,5,280.04,900.17,Box
+1962,Step Sports,Cosco,5,4,597.34,1495.84,Piece
+1963,Reduce Electronics,Dell,1,5,3914.52,1880.23,Packet
+1964,Claim Electronics,Samsung,1,9,3718.13,761.52,Litre
+1965,Evening Sports,Nivia,5,10,2540.17,4813.28,Kg
+1966,Current Sports,Nivia,5,1,4147.06,713.03,Litre
+1967,Return Clothing,Adidas,2,4,2701.21,6407.88,Piece
+1968,Son Clothing,Levis,2,5,673.66,6601.43,Piece
+1969,Laugh Clothing,Puma,2,1,585.08,6991.62,Box
+1970,Personal Electronics,Apple,1,1,602.49,1935.51,Box
+1971,Technology Groceries,Fortune,3,9,2851.25,6426.54,Litre
+1972,Remember Groceries,Fortune,3,5,3252.71,4805.72,Piece
+1973,Marriage Electronics,HP,1,1,327.72,6038.87,Piece
+1974,Especially Electronics,Apple,1,7,3754.58,641.31,Piece
+1975,Music Electronics,HP,1,1,4095.01,4939.43,Kg
+1976,Speech Clothing,Nike,2,9,4057.02,6750.92,Box
+1977,Language Groceries,India Gate,3,4,3819.97,730.15,Packet
+1978,Third Sports,Cosco,5,7,3729.94,2053.6,Piece
+1979,Power Clothing,Levis,2,3,3039.58,4189.85,Packet
+1980,Night Furniture,IKEA,4,2,3404.85,5992.46,Box
+1981,Two Electronics,Dell,1,8,2702.71,6359.59,Box
+1982,Tv Electronics,Apple,1,1,2800.17,6890.33,Kg
+1983,Candidate Furniture,Nilkamal,4,7,668.92,4320.79,Box
+1984,Also Sports,Cosco,5,10,1601.41,1136.58,Litre
+1985,Who Clothing,Levis,2,7,3032.81,1412.0,Litre
+1986,Thing Electronics,Apple,1,6,2280.49,1021.93,Kg
+1987,Politics Sports,Nivia,5,1,3030.4,4352.53,Piece
+1988,Usually Furniture,Home Centre,4,10,907.48,4226.95,Box
+1989,Any Clothing,Levis,2,6,2078.79,4846.02,Kg
+1990,Subject Clothing,Levis,2,6,3481.79,965.87,Piece
+1991,Necessary Sports,Cosco,5,5,3978.66,548.63,Litre
+1992,Here Sports,Nivia,5,8,116.74,2601.79,Kg
+1993,Study Furniture,Nilkamal,4,1,1538.26,6719.67,Piece
+1994,Know Furniture,Nilkamal,4,7,4222.16,3225.72,Piece
+1995,Front Furniture,Nilkamal,4,7,2860.9,3762.08,Piece
+1996,Successful Electronics,Apple,1,5,4027.69,4711.57,Box
+1997,Significant Clothing,Levis,2,1,3601.26,4613.61,Piece
+1998,Young Groceries,Fortune,3,10,4225.08,851.51,Litre
+1999,Born Groceries,Aashirvaad,3,8,4437.86,6565.02,Piece
+2000,Single Sports,Nivia,5,8,1256.16,1085.63,Kg
+2001,Short Clothing,Nike,2,5,3545.78,6931.71,Piece
+2002,Born Furniture,IKEA,4,10,1280.21,4718.79,Litre
+2003,Increase Sports,Nivia,5,1,2215.9,6673.91,Kg
+2004,Soon Clothing,Levis,2,6,4911.78,2472.74,Piece
+2005,Same Clothing,Nike,2,10,139.63,2071.4,Litre
+2006,Small Clothing,Puma,2,1,891.78,6295.99,Piece
+2007,Week Furniture,Nilkamal,4,5,2398.33,5196.66,Box
+2008,Address Groceries,Fortune,3,1,1256.08,4090.54,Kg
+2009,Campaign Sports,Nivia,5,9,2615.79,5381.05,Kg
+2010,Decade Groceries,India Gate,3,2,2470.71,3125.73,Piece
+2011,Few Groceries,India Gate,3,4,2828.53,5334.41,Litre
+2012,Tough Sports,Nivia,5,5,3515.09,6739.49,Packet
+2013,As Sports,Nivia,5,10,4086.34,2335.54,Litre
+2014,Individual Furniture,Home Centre,4,3,1141.66,2879.66,Piece
+2015,Cost Furniture,IKEA,4,10,252.02,5429.72,Kg
+2016,Rich Furniture,Home Centre,4,1,1880.2,5570.02,Packet
+2017,Author Furniture,IKEA,4,4,4490.37,3065.89,Box
+2018,Young Electronics,HP,1,8,4409.16,5190.23,Box
+2019,Will Sports,Cosco,5,1,2219.69,6576.51,Kg
+2020,Season Clothing,Levis,2,10,3228.82,4926.75,Litre
+2021,Network Furniture,IKEA,4,5,3896.9,1322.98,Packet
+2022,You Groceries,Fortune,3,5,770.07,3019.25,Piece
+2023,Issue Furniture,Nilkamal,4,6,450.57,3762.38,Piece
+2024,Worry Clothing,Puma,2,4,4893.74,1328.61,Piece
+2025,Church Electronics,HP,1,5,677.11,3155.06,Packet
+2026,Operation Clothing,Adidas,2,6,2892.73,4301.21,Kg
+2027,Defense Sports,Yonex,5,4,1660.66,6624.37,Packet
+2028,She Sports,Yonex,5,9,4466.78,3590.23,Litre
+2029,Fight Electronics,Sony,1,1,3816.55,4572.77,Piece
+2030,Not Furniture,Home Centre,4,9,3459.19,6511.54,Packet
+2031,She Clothing,Puma,2,3,3023.29,955.58,Piece
+2032,Before Electronics,Dell,1,9,660.74,2604.14,Piece
+2033,Ok Electronics,HP,1,9,4905.23,2352.24,Litre
+2034,Happy Clothing,Adidas,2,10,281.1,3281.87,Packet
+2035,Evidence Clothing,Levis,2,1,2763.69,2261.48,Packet
+2036,Training Furniture,IKEA,4,2,4891.33,2828.38,Packet
+2037,Market Groceries,India Gate,3,3,1260.72,1782.56,Kg
+2038,Certainly Furniture,Home Centre,4,6,2700.95,6984.19,Litre
+2039,Head Furniture,IKEA,4,9,1061.04,3443.76,Piece
+2040,Movie Clothing,Puma,2,10,3723.8,2408.54,Box
+2041,Sort Furniture,Nilkamal,4,5,4852.91,5055.15,Piece
+2042,Consumer Electronics,Samsung,1,7,4548.81,2938.33,Packet
+2043,Research Clothing,Levis,2,10,681.67,3509.5,Kg
+2044,Brother Electronics,Dell,1,2,1038.48,767.09,Piece
+2045,Buy Groceries,Fortune,3,7,617.94,4568.63,Kg
+2046,Foot Clothing,Nike,2,10,1903.87,2327.41,Piece
+2047,Modern Sports,Yonex,5,4,2588.24,3854.79,Packet
+2048,Not Sports,Yonex,5,8,2045.09,4052.59,Kg
+2049,Though Groceries,India Gate,3,10,2026.06,582.01,Box
+2050,Radio Groceries,India Gate,3,4,4562.08,6300.37,Packet
+2051,Front Clothing,Puma,2,7,2047.85,757.06,Kg
+2052,Best Clothing,Nike,2,2,4687.8,3659.04,Box
+2053,Leave Sports,Yonex,5,7,2836.21,828.72,Packet
+2054,Everyone Sports,Yonex,5,1,4016.67,5881.2,Kg
+2055,Nearly Groceries,Aashirvaad,3,2,1306.34,2912.54,Kg
+2056,Analysis Furniture,Nilkamal,4,9,991.85,6540.72,Box
+2057,Young Clothing,Levis,2,4,570.69,1972.31,Piece
+2058,Action Clothing,Nike,2,1,3598.47,575.6,Kg
+2059,Recently Electronics,Apple,1,2,148.82,6756.23,Litre
+2060,Blue Clothing,Puma,2,8,1132.77,2466.63,Packet
+2061,Hot Clothing,Nike,2,7,919.72,3336.06,Litre
+2062,Fill Clothing,Levis,2,8,3993.65,1422.28,Packet
+2063,Past Furniture,IKEA,4,8,4754.6,3103.65,Piece
+2064,Decade Furniture,Nilkamal,4,6,2597.91,4552.67,Kg
+2065,Theory Clothing,Levis,2,1,3869.53,681.93,Kg
+2066,Street Clothing,Adidas,2,7,816.35,799.95,Box
+2067,Away Groceries,India Gate,3,5,2625.29,6956.89,Piece
+2068,It Clothing,Adidas,2,3,872.72,526.6,Piece
+2069,Hot Groceries,Aashirvaad,3,8,4942.23,3612.56,Box
+2070,Beat Furniture,Nilkamal,4,7,1632.59,3270.99,Piece
+2071,Plan Clothing,Nike,2,9,4406.8,3125.34,Kg
+2072,Risk Electronics,Dell,1,7,2894.68,4314.11,Piece
+2073,Gas Groceries,Aashirvaad,3,4,3944.73,3402.23,Box
+2074,Live Clothing,Levis,2,3,4974.17,5086.89,Kg
+2075,Sell Groceries,India Gate,3,2,3811.76,882.83,Box
+2076,None Furniture,Home Centre,4,4,3511.7,5948.37,Box
+2077,Public Clothing,Nike,2,4,1469.01,2311.91,Kg
+2078,Note Clothing,Levis,2,1,2399.83,2133.91,Packet
+2079,Owner Sports,Cosco,5,5,2093.21,4634.44,Piece
+2080,Only Clothing,Adidas,2,3,3493.21,2241.52,Litre
+2081,Significant Clothing,Puma,2,9,3392.44,2355.26,Packet
+2082,Likely Furniture,Nilkamal,4,10,3647.01,4305.84,Packet
+2083,Challenge Sports,Nivia,5,4,269.33,4279.1,Box
+2084,May Furniture,IKEA,4,10,4476.76,3109.97,Packet
+2085,Improve Clothing,Adidas,2,1,3952.15,5147.96,Box
+2086,Threat Sports,Yonex,5,1,3669.28,4944.62,Kg
+2087,Before Sports,Yonex,5,10,1782.68,6052.65,Kg
+2088,News Clothing,Adidas,2,3,2223.39,5845.73,Kg
+2089,Worry Groceries,Fortune,3,7,2693.66,1308.55,Litre
+2090,Fund Sports,Nivia,5,2,4070.25,5130.93,Piece
+2091,Mr Electronics,Dell,1,6,4853.89,4354.82,Box
+2092,Guess Electronics,Sony,1,3,4496.55,1761.88,Litre
+2093,Crime Clothing,Levis,2,1,1843.89,6178.16,Piece
+2094,Collection Groceries,Aashirvaad,3,7,852.73,3749.46,Kg
+2095,Friend Electronics,Sony,1,4,3156.28,4768.31,Litre
+2096,And Clothing,Nike,2,5,4205.32,2390.24,Litre
+2097,Which Furniture,Nilkamal,4,5,1400.03,4830.66,Box
+2098,Seven Electronics,Dell,1,5,858.73,4012.45,Piece
+2099,Guy Furniture,Home Centre,4,1,229.15,5394.74,Box
+2100,Find Groceries,Fortune,3,5,3916.79,4970.09,Piece
+2101,I Sports,Cosco,5,3,4678.82,6330.04,Kg
+2102,Level Sports,Nivia,5,1,320.68,4512.67,Box
+2103,Father Groceries,Aashirvaad,3,3,4633.83,3152.2,Packet
+2104,Country Groceries,India Gate,3,8,2282.92,2610.85,Box
+2105,Term Furniture,IKEA,4,3,1390.41,6616.0,Kg
+2106,Against Electronics,HP,1,1,4978.84,6220.34,Packet
+2107,Because Electronics,Dell,1,9,1801.23,5347.33,Litre
+2108,Attention Electronics,Samsung,1,5,4971.95,4582.83,Piece
+2109,Its Sports,Cosco,5,6,2072.59,6489.69,Kg
+2110,Mean Clothing,Nike,2,6,717.45,5375.78,Kg
+2111,Always Furniture,IKEA,4,2,1518.01,2156.84,Piece
+2112,Without Electronics,Sony,1,6,684.19,2961.16,Packet
+2113,Office Furniture,Home Centre,4,1,139.18,1434.0,Box
+2114,Ask Electronics,HP,1,3,1695.05,5576.62,Piece
+2115,Management Clothing,Levis,2,7,4851.41,6356.96,Kg
+2116,Everybody Furniture,Nilkamal,4,8,2135.07,1353.99,Box
+2117,Write Furniture,IKEA,4,2,4742.39,619.8,Packet
+2118,Tree Electronics,Apple,1,4,4262.62,5551.84,Packet
+2119,Week Sports,Nivia,5,4,4106.78,1597.88,Piece
+2120,Physical Furniture,Nilkamal,4,3,4966.41,2234.92,Box
+2121,Everybody Groceries,India Gate,3,2,2954.47,3173.02,Kg
+2122,Ask Groceries,India Gate,3,4,1538.84,6161.02,Kg
+2123,Article Clothing,Levis,2,4,3084.58,1308.06,Kg
+2124,Become Groceries,India Gate,3,2,4800.73,6762.15,Packet
+2125,Defense Clothing,Levis,2,10,2696.33,4447.65,Packet
+2126,Up Clothing,Levis,2,8,157.4,4448.53,Kg
+2127,Play Furniture,Home Centre,4,6,1004.4,730.08,Piece
+2128,Control Sports,Cosco,5,6,1973.07,5100.83,Box
+2129,Put Electronics,Samsung,1,2,2911.18,2354.58,Kg
+2130,Significant Groceries,Aashirvaad,3,2,2800.31,1621.69,Litre
+2131,History Furniture,Home Centre,4,2,1058.45,6832.26,Box
+2132,Short Furniture,Nilkamal,4,1,694.94,2457.1,Kg
+2133,Job Groceries,Aashirvaad,3,1,1359.91,1438.19,Kg
+2134,Threat Sports,Yonex,5,7,1322.06,6339.1,Packet
+2135,Left Furniture,Nilkamal,4,9,1341.93,3805.41,Piece
+2136,Read Groceries,Aashirvaad,3,10,4411.83,2347.38,Packet
+2137,Section Electronics,Sony,1,8,1462.71,3463.49,Piece
+2138,That Sports,Cosco,5,4,1236.58,2856.75,Litre
+2139,Seat Groceries,Fortune,3,7,903.19,2152.49,Kg
+2140,Fill Electronics,Dell,1,6,3297.84,2256.24,Litre
+2141,Design Clothing,Levis,2,9,3773.26,6723.87,Kg
+2142,Without Sports,Cosco,5,10,1557.22,5696.21,Packet
+2143,Admit Electronics,Sony,1,10,3756.62,1051.11,Kg
+2144,Plan Sports,Yonex,5,3,609.65,2499.17,Packet
+2145,Computer Clothing,Levis,2,9,1253.3,2232.96,Kg
+2146,Across Electronics,Sony,1,1,2952.89,6423.34,Piece
+2147,Much Clothing,Adidas,2,6,464.29,5154.75,Packet
+2148,Especially Clothing,Nike,2,6,2736.76,1990.95,Piece
+2149,Suffer Groceries,India Gate,3,4,2617.6,3295.42,Kg
+2150,Single Furniture,Home Centre,4,8,1235.03,626.9,Piece
+2151,Middle Sports,Cosco,5,5,1311.66,2544.57,Litre
+2152,Interesting Electronics,Apple,1,4,1751.79,5614.84,Litre
+2153,Crime Groceries,India Gate,3,6,3633.48,1860.97,Litre
+2154,Individual Furniture,Home Centre,4,6,1182.89,6866.92,Kg
+2155,Suddenly Furniture,IKEA,4,7,129.11,4734.77,Packet
+2156,Cause Electronics,HP,1,7,2057.18,1776.16,Box
+2157,Cost Sports,Yonex,5,5,611.72,4004.27,Piece
+2158,Partner Groceries,Aashirvaad,3,8,4470.01,5481.32,Box
+2159,Several Sports,Yonex,5,10,4422.98,6974.31,Packet
+2160,Interest Groceries,Aashirvaad,3,8,1725.06,4857.67,Box
+2161,Statement Electronics,Sony,1,1,1792.58,5947.41,Box
+2162,Ground Groceries,Aashirvaad,3,1,2824.01,3313.87,Packet
+2163,Speak Furniture,Nilkamal,4,10,1912.39,1220.59,Kg
+2164,Employee Groceries,India Gate,3,2,4847.4,2587.02,Kg
+2165,Throw Sports,Nivia,5,8,3336.25,816.9,Litre
+2166,Have Electronics,Apple,1,2,1181.52,6329.66,Packet
+2167,Keep Groceries,Fortune,3,6,570.49,6436.86,Litre
+2168,Him Furniture,Home Centre,4,6,3390.99,1715.83,Piece
+2169,Wife Clothing,Adidas,2,2,2357.87,5396.61,Piece
+2170,Per Groceries,Fortune,3,9,3714.1,5970.64,Box
+2171,Major Groceries,Fortune,3,2,2465.72,2904.45,Packet
+2172,Nothing Groceries,Fortune,3,8,3402.48,2950.63,Kg
+2173,Record Sports,Cosco,5,7,4933.29,6844.28,Kg
+2174,Often Furniture,IKEA,4,10,2635.97,525.01,Piece
+2175,Put Groceries,India Gate,3,9,805.55,1655.25,Packet
+2176,Keep Furniture,Home Centre,4,10,3528.56,6882.98,Litre
+2177,Official Groceries,Aashirvaad,3,3,1209.12,6714.8,Box
+2178,Air Sports,Nivia,5,2,4126.21,3755.57,Kg
+2179,Take Clothing,Adidas,2,7,1077.36,4672.54,Kg
+2180,Strategy Groceries,Fortune,3,8,1591.38,4326.29,Litre
+2181,Doctor Clothing,Nike,2,4,2059.92,1852.41,Box
+2182,Notice Clothing,Levis,2,8,3381.48,5674.29,Piece
+2183,Compare Electronics,Apple,1,8,4706.94,797.42,Box
+2184,Minute Sports,Cosco,5,7,2865.19,4149.87,Litre
+2185,Nice Groceries,India Gate,3,1,4719.83,1959.22,Packet
+2186,Not Groceries,Aashirvaad,3,7,622.2,1441.8,Box
+2187,Investment Clothing,Puma,2,4,1093.25,3851.76,Piece
+2188,Later Sports,Yonex,5,6,1031.49,3697.35,Piece
+2189,Particular Groceries,Aashirvaad,3,1,3256.02,3743.15,Box
+2190,Company Electronics,Dell,1,3,4572.61,4144.4,Piece
+2191,Great Groceries,Fortune,3,3,3873.31,6803.85,Box
+2192,Candidate Sports,Cosco,5,1,677.87,5206.66,Kg
+2193,Church Clothing,Levis,2,3,3916.21,1309.09,Litre
+2194,Health Sports,Yonex,5,7,917.82,5326.22,Litre
+2195,Each Clothing,Adidas,2,7,4724.63,2439.34,Kg
+2196,Hit Groceries,Aashirvaad,3,10,2433.62,2592.43,Litre
+2197,Democrat Electronics,Samsung,1,9,3851.86,2545.42,Litre
+2198,Reduce Clothing,Nike,2,9,2889.54,2463.21,Packet
+2199,Heavy Clothing,Nike,2,9,1715.73,4154.88,Kg
+2200,Feeling Groceries,Fortune,3,4,4997.93,2242.48,Kg
+2201,To Groceries,Fortune,3,1,444.46,6022.03,Packet
+2202,Soldier Furniture,Nilkamal,4,6,4789.04,5697.11,Packet
+2203,This Electronics,Sony,1,6,1830.88,2625.86,Box
+2204,Effect Sports,Nivia,5,8,389.9,2842.18,Box
+2205,West Groceries,Fortune,3,5,278.28,1092.61,Kg
+2206,May Groceries,Aashirvaad,3,8,3025.08,4686.87,Litre
+2207,Leave Furniture,Home Centre,4,4,4780.07,1164.17,Packet
+2208,Past Clothing,Adidas,2,1,4772.43,4631.95,Piece
+2209,Simple Electronics,Samsung,1,1,4207.2,3757.62,Packet
+2210,Give Sports,Cosco,5,10,630.71,6003.53,Litre
+2211,Magazine Groceries,India Gate,3,7,1046.13,936.57,Piece
+2212,Eight Sports,Yonex,5,10,535.83,2504.05,Box
+2213,Wall Groceries,Aashirvaad,3,3,2678.28,4367.5,Piece
+2214,Face Sports,Nivia,5,8,2095.91,6094.27,Box
+2215,Friend Furniture,Home Centre,4,4,2012.58,1416.95,Box
+2216,End Clothing,Puma,2,3,3220.84,1175.96,Kg
+2217,Maybe Groceries,Fortune,3,10,2315.01,6785.04,Box
+2218,Mind Furniture,IKEA,4,10,607.85,3978.99,Piece
+2219,Be Electronics,Sony,1,8,4696.35,2443.62,Litre
+2220,Million Sports,Nivia,5,1,4208.14,4260.4,Packet
+2221,Air Sports,Yonex,5,10,4601.6,5125.27,Litre
+2222,Along Clothing,Adidas,2,6,370.5,4605.14,Piece
+2223,Billion Sports,Nivia,5,2,2148.1,5083.96,Box
+2224,Maybe Groceries,Aashirvaad,3,1,2732.77,1792.29,Litre
+2225,Congress Clothing,Nike,2,10,4524.25,612.93,Litre
+2226,Institution Groceries,India Gate,3,4,223.91,3895.12,Kg
+2227,Word Groceries,India Gate,3,5,2699.45,1057.44,Piece
+2228,Whom Sports,Nivia,5,7,805.7,6238.52,Packet
+2229,Save Electronics,HP,1,1,1503.1,3053.23,Box
+2230,Recently Furniture,Home Centre,4,8,2714.2,793.7,Piece
+2231,Theory Clothing,Nike,2,5,3403.44,5774.49,Piece
+2232,Name Clothing,Adidas,2,6,3986.33,4366.63,Box
+2233,Meeting Clothing,Adidas,2,3,4274.01,4424.27,Kg
+2234,Probably Electronics,Samsung,1,3,316.94,4939.56,Box
+2235,Another Groceries,India Gate,3,6,2879.39,1641.88,Packet
+2236,Enjoy Groceries,Aashirvaad,3,5,677.34,1310.46,Kg
+2237,Cost Groceries,Fortune,3,7,3201.05,6517.32,Piece
+2238,Last Furniture,Nilkamal,4,8,1114.39,6350.13,Packet
+2239,Important Electronics,Apple,1,5,2283.02,2006.72,Piece
+2240,Economy Electronics,HP,1,10,1772.0,6770.8,Litre
+2241,I Clothing,Puma,2,6,3375.12,2625.25,Packet
+2242,Everything Furniture,Home Centre,4,7,155.49,4735.22,Packet
+2243,Do Furniture,IKEA,4,2,271.15,2506.67,Packet
+2244,Official Clothing,Levis,2,9,2773.5,2197.2,Box
+2245,Morning Furniture,IKEA,4,1,3178.07,4631.89,Packet
+2246,Cold Electronics,Sony,1,5,1639.29,5913.84,Litre
+2247,Town Sports,Nivia,5,7,648.35,6711.47,Kg
+2248,Focus Sports,Cosco,5,3,3333.67,4895.73,Piece
+2249,Ahead Groceries,Aashirvaad,3,5,2062.88,6406.22,Kg
+2250,Just Electronics,Dell,1,4,3524.6,3283.81,Box
+2251,Religious Clothing,Puma,2,5,4630.99,6230.81,Piece
+2252,Increase Sports,Yonex,5,8,2883.02,948.03,Litre
+2253,Everybody Groceries,Fortune,3,10,2974.6,3613.9,Box
+2254,Church Furniture,Home Centre,4,8,1582.8,4119.52,Packet
+2255,Decide Electronics,HP,1,2,3697.69,636.52,Packet
+2256,Artist Sports,Cosco,5,10,831.87,6363.24,Kg
+2257,Certain Furniture,Nilkamal,4,6,3171.48,4953.07,Piece
+2258,Force Electronics,Samsung,1,3,1870.97,5959.77,Kg
+2259,Pass Clothing,Puma,2,10,3962.71,6614.43,Litre
+2260,Whatever Furniture,Nilkamal,4,3,759.27,4239.7,Packet
+2261,Modern Clothing,Puma,2,9,812.2,4136.24,Piece
+2262,Owner Furniture,Home Centre,4,7,4746.08,4308.38,Packet
+2263,Kitchen Sports,Cosco,5,9,2020.02,2642.85,Piece
+2264,Memory Clothing,Levis,2,6,311.48,2516.49,Box
+2265,First Sports,Cosco,5,10,3119.29,5864.19,Packet
+2266,Bar Groceries,India Gate,3,3,2610.95,5330.62,Piece
+2267,Accept Electronics,Apple,1,6,511.87,5782.27,Litre
+2268,Establish Electronics,Apple,1,7,4050.16,1347.72,Litre
+2269,Enough Sports,Yonex,5,5,2426.02,3829.91,Kg
+2270,Quite Furniture,Nilkamal,4,4,4999.26,3010.86,Box
+2271,Exactly Groceries,Aashirvaad,3,2,2205.43,6466.67,Piece
+2272,Guess Furniture,Home Centre,4,5,1841.13,1985.06,Litre
+2273,And Sports,Cosco,5,10,3170.0,987.7,Packet
+2274,Director Electronics,Apple,1,6,112.19,5264.06,Packet
+2275,Peace Groceries,Aashirvaad,3,5,4941.96,4681.51,Kg
+2276,House Electronics,Sony,1,2,3800.74,4925.06,Box
+2277,Site Sports,Cosco,5,5,308.71,1473.07,Kg
+2278,Live Furniture,IKEA,4,3,1452.77,4729.31,Box
+2279,Stand Furniture,IKEA,4,5,497.76,3684.03,Kg
+2280,Coach Clothing,Adidas,2,6,4601.53,6083.77,Kg
+2281,Strategy Sports,Nivia,5,2,3783.91,700.76,Litre
+2282,Nor Electronics,Apple,1,5,1688.75,6821.3,Packet
+2283,Tree Clothing,Levis,2,6,3460.95,6878.14,Packet
+2284,Significant Sports,Yonex,5,8,4092.6,5663.17,Packet
+2285,Since Furniture,Nilkamal,4,7,3759.03,5857.91,Litre
+2286,Much Electronics,HP,1,4,4185.92,6916.56,Box
+2287,Indicate Groceries,India Gate,3,1,4151.68,666.99,Piece
+2288,Energy Electronics,HP,1,3,3994.41,6538.04,Box
+2289,Individual Furniture,Home Centre,4,10,3090.12,1777.49,Packet
+2290,Environmental Clothing,Adidas,2,9,2006.01,2553.58,Kg
+2291,Teach Groceries,Fortune,3,1,2608.54,3063.09,Kg
+2292,Article Sports,Nivia,5,6,4084.6,3103.16,Litre
+2293,We Electronics,Samsung,1,4,3874.48,6010.56,Box
+2294,Performance Clothing,Levis,2,9,1120.36,1403.0,Kg
+2295,Section Clothing,Adidas,2,6,348.88,1906.74,Packet
+2296,Though Sports,Nivia,5,8,2237.08,3332.01,Box
+2297,Defense Sports,Cosco,5,6,1895.33,5586.87,Litre
+2298,Huge Groceries,Aashirvaad,3,7,4443.49,6136.6,Packet
+2299,Hold Electronics,Samsung,1,9,1688.56,5701.8,Piece
+2300,Face Sports,Nivia,5,5,2551.26,2915.53,Piece
+2301,Technology Sports,Cosco,5,10,4465.12,6112.54,Kg
+2302,Large Groceries,Fortune,3,6,707.19,5651.73,Packet
+2303,Along Sports,Nivia,5,6,4480.19,6186.25,Kg
+2304,Leave Sports,Yonex,5,7,4436.59,2573.13,Box
+2305,Cup Clothing,Levis,2,8,3715.26,2419.25,Kg
+2306,Nature Clothing,Adidas,2,9,1607.67,5216.22,Litre
+2307,Town Furniture,Nilkamal,4,6,2540.53,5777.28,Piece
+2308,Cut Sports,Yonex,5,6,3245.53,4924.74,Kg
+2309,Do Sports,Nivia,5,3,1976.79,2878.65,Litre
+2310,Four Electronics,Apple,1,2,3243.26,2085.17,Box
+2311,Until Furniture,Nilkamal,4,6,925.53,4607.97,Box
+2312,Industry Groceries,Aashirvaad,3,9,3757.3,2618.67,Box
+2313,Pretty Sports,Cosco,5,6,4355.91,2518.4,Box
+2314,Minute Electronics,Sony,1,7,384.94,3742.65,Piece
+2315,Almost Groceries,Aashirvaad,3,3,840.59,1936.15,Packet
+2316,Whatever Groceries,Aashirvaad,3,1,4554.03,3462.07,Kg
+2317,Character Groceries,India Gate,3,2,1767.71,2655.19,Kg
+2318,Idea Groceries,Fortune,3,6,129.84,6487.94,Piece
+2319,Second Groceries,Fortune,3,4,2231.04,4706.61,Litre
+2320,Today Furniture,IKEA,4,10,4150.28,6812.19,Packet
+2321,Their Electronics,Sony,1,9,475.1,2181.21,Piece
+2322,Campaign Electronics,Apple,1,7,4473.28,5225.55,Litre
+2323,Place Electronics,HP,1,5,2601.45,2557.64,Piece
+2324,Within Sports,Nivia,5,9,3792.6,5928.28,Box
+2325,Blood Sports,Nivia,5,1,3097.16,1724.26,Piece
+2326,Point Clothing,Adidas,2,8,3321.39,3228.5,Packet
+2327,A Clothing,Levis,2,7,4584.36,1261.29,Box
+2328,Value Sports,Yonex,5,2,318.44,887.79,Kg
+2329,Save Clothing,Levis,2,7,984.03,5132.89,Box
+2330,Pick Electronics,Apple,1,7,731.61,1606.11,Kg
+2331,Agreement Sports,Nivia,5,3,4597.35,5627.86,Kg
+2332,Some Clothing,Nike,2,10,1481.4,4404.83,Packet
+2333,Wonder Groceries,India Gate,3,4,3887.71,5769.07,Piece
+2334,Follow Clothing,Nike,2,6,3956.04,1728.09,Packet
+2335,Customer Furniture,Nilkamal,4,6,4441.52,3124.84,Litre
+2336,Cultural Clothing,Puma,2,9,2481.69,3551.92,Box
+2337,Area Furniture,Home Centre,4,8,2348.04,5073.75,Litre
+2338,Small Clothing,Nike,2,1,1590.9,2132.56,Piece
+2339,Health Groceries,India Gate,3,5,4740.76,6903.72,Piece
+2340,Green Sports,Yonex,5,7,2038.9,3322.4,Box
+2341,Us Clothing,Levis,2,4,1487.73,3038.34,Piece
+2342,Interview Electronics,Sony,1,3,391.84,3363.49,Box
+2343,Huge Electronics,Sony,1,6,3686.97,5608.18,Box
+2344,Build Furniture,IKEA,4,5,3653.93,3268.86,Litre
+2345,Fight Clothing,Adidas,2,9,395.12,4191.11,Packet
+2346,Receive Clothing,Puma,2,7,178.59,2876.61,Kg
+2347,Ask Electronics,Apple,1,5,2453.42,3152.57,Packet
+2348,Box Electronics,Samsung,1,9,3020.44,4259.2,Box
+2349,Analysis Electronics,HP,1,3,1285.06,4499.09,Litre
+2350,Leader Clothing,Nike,2,4,4012.03,3034.93,Piece
+2351,Again Electronics,Apple,1,8,3566.24,2872.7,Box
+2352,Tv Groceries,India Gate,3,6,2147.57,2512.58,Kg
+2353,No Sports,Yonex,5,2,1020.27,5939.44,Piece
+2354,Themselves Sports,Yonex,5,1,4638.52,6071.44,Packet
+2355,Purpose Groceries,India Gate,3,8,3845.32,6387.87,Litre
+2356,Use Furniture,Home Centre,4,1,1171.98,3528.59,Packet
+2357,Finally Sports,Cosco,5,6,2374.53,2198.7,Litre
+2358,Either Clothing,Levis,2,2,2409.13,1119.96,Kg
+2359,Name Furniture,Home Centre,4,3,606.79,4653.94,Litre
+2360,Dinner Furniture,Home Centre,4,5,1698.64,6052.67,Kg
+2361,Government Electronics,Sony,1,10,4827.15,4594.73,Kg
+2362,Guy Sports,Yonex,5,9,3265.96,2323.24,Box
+2363,Method Sports,Yonex,5,5,4217.53,3171.74,Piece
+2364,Score Clothing,Adidas,2,9,912.74,4492.78,Box
+2365,Ground Electronics,Samsung,1,2,376.97,3426.51,Kg
+2366,Miss Groceries,Aashirvaad,3,1,4753.62,6798.56,Box
+2367,Film Clothing,Nike,2,9,3483.05,3437.46,Piece
+2368,Course Furniture,Nilkamal,4,9,2648.51,6133.65,Litre
+2369,Ever Groceries,Fortune,3,7,2438.65,6600.39,Litre
+2370,Offer Electronics,Sony,1,10,4847.87,4713.03,Litre
+2371,Way Electronics,Dell,1,8,578.21,3062.01,Packet
+2372,Affect Clothing,Levis,2,3,3191.9,3964.18,Litre
+2373,Our Sports,Cosco,5,3,3790.76,4932.72,Packet
+2374,Forget Electronics,Apple,1,7,635.12,5548.76,Litre
+2375,Check Groceries,Aashirvaad,3,4,2837.54,773.28,Packet
+2376,Support Groceries,Fortune,3,10,719.65,2291.58,Packet
+2377,Fish Sports,Yonex,5,2,1533.6,3711.32,Litre
+2378,Yet Groceries,India Gate,3,7,2964.73,1886.21,Litre
+2379,Hand Clothing,Nike,2,7,4332.89,5850.91,Litre
+2380,Interesting Sports,Cosco,5,8,1874.24,5911.89,Packet
+2381,Black Furniture,IKEA,4,2,2291.07,2884.91,Packet
+2382,Change Clothing,Levis,2,5,4555.26,1842.13,Piece
+2383,Forget Furniture,IKEA,4,3,2102.75,2117.46,Piece
+2384,Interview Electronics,Samsung,1,10,979.68,6316.02,Piece
+2385,Project Groceries,India Gate,3,4,1329.41,6649.47,Piece
+2386,Fire Clothing,Adidas,2,2,3118.88,4663.48,Piece
+2387,Vote Sports,Nivia,5,8,1802.26,4219.44,Kg
+2388,Century Electronics,Dell,1,3,3983.45,6712.64,Box
+2389,Any Sports,Yonex,5,8,3830.13,2958.17,Piece
+2390,Source Groceries,Aashirvaad,3,3,391.29,2808.62,Box
+2391,War Furniture,IKEA,4,2,1906.95,1168.04,Kg
+2392,Sure Clothing,Adidas,2,6,239.69,3123.72,Packet
+2393,Side Clothing,Adidas,2,8,4591.42,1445.82,Packet
+2394,Return Sports,Nivia,5,8,3166.06,2649.28,Kg
+2395,Few Groceries,Fortune,3,3,851.89,4315.47,Box
+2396,Her Clothing,Puma,2,7,1627.98,5215.49,Litre
+2397,Expert Groceries,Aashirvaad,3,6,3180.32,5647.46,Litre
+2398,Billion Electronics,Apple,1,4,3399.71,4930.91,Packet
+2399,Set Groceries,Aashirvaad,3,5,189.69,5936.74,Box
+2400,Push Electronics,Samsung,1,6,4261.15,928.24,Litre
+2401,Tv Electronics,Samsung,1,7,1055.53,2204.63,Box
+2402,Save Groceries,India Gate,3,9,2439.5,2250.04,Litre
+2403,Shoulder Furniture,Home Centre,4,5,3693.9,4208.32,Box
+2404,Example Clothing,Levis,2,9,3963.31,6980.81,Piece
+2405,Road Sports,Cosco,5,5,2788.83,3619.91,Box
+2406,Everybody Sports,Nivia,5,8,1711.85,6423.52,Litre
+2407,Social Furniture,Home Centre,4,5,1808.52,2791.86,Litre
+2408,Relate Clothing,Adidas,2,3,2722.82,4338.32,Piece
+2409,East Clothing,Levis,2,7,3973.71,5513.56,Kg
+2410,Argue Furniture,IKEA,4,4,2588.75,6612.84,Packet
+2411,Like Electronics,Samsung,1,8,2650.12,5187.62,Piece
+2412,Degree Sports,Cosco,5,1,605.78,3281.04,Kg
+2413,Population Furniture,IKEA,4,4,1836.31,4578.1,Packet
+2414,Consider Furniture,Home Centre,4,3,335.31,611.4,Box
+2415,Would Sports,Cosco,5,9,964.74,4008.61,Piece
+2416,Respond Groceries,Fortune,3,5,4470.37,6824.03,Kg
+2417,Mrs Electronics,Dell,1,6,3823.37,6286.19,Piece
+2418,For Sports,Nivia,5,1,1074.82,3716.43,Piece
+2419,Down Clothing,Puma,2,3,265.4,5521.7,Piece
+2420,Exist Furniture,Home Centre,4,7,2020.13,4016.76,Box
+2421,Different Sports,Yonex,5,5,495.07,5480.8,Litre
+2422,Walk Sports,Nivia,5,4,3062.01,6481.64,Box
+2423,Lead Furniture,Nilkamal,4,6,4315.34,6160.44,Litre
+2424,Music Electronics,Apple,1,2,3861.6,1076.21,Kg
+2425,Six Furniture,Nilkamal,4,7,4622.15,4034.37,Kg
+2426,Operation Sports,Nivia,5,4,1032.21,5169.19,Litre
+2427,But Furniture,Home Centre,4,9,3156.76,1135.57,Piece
+2428,Each Sports,Nivia,5,8,4425.97,4034.59,Piece
+2429,Thought Clothing,Puma,2,2,3824.1,2232.09,Box
+2430,Make Groceries,India Gate,3,7,2697.33,4757.32,Box
+2431,Tonight Electronics,Sony,1,7,1544.39,3601.03,Kg
+2432,Sea Furniture,IKEA,4,7,922.31,3310.27,Kg
+2433,Tonight Furniture,IKEA,4,7,3228.93,3092.52,Box
+2434,Program Sports,Nivia,5,5,4362.94,6767.78,Packet
+2435,Within Furniture,IKEA,4,4,2815.37,6423.39,Packet
+2436,Floor Electronics,Apple,1,2,595.54,537.49,Litre
+2437,Town Electronics,Samsung,1,8,3636.34,1572.01,Piece
+2438,Here Electronics,Dell,1,10,341.84,3550.07,Piece
+2439,Still Electronics,Apple,1,10,2588.74,2152.45,Litre
+2440,Letter Electronics,HP,1,9,2560.55,6848.98,Piece
+2441,Culture Clothing,Levis,2,6,1221.63,4487.0,Piece
+2442,Under Electronics,Dell,1,3,2328.6,4320.48,Litre
+2443,Care Furniture,IKEA,4,1,2930.66,1565.79,Box
+2444,Father Electronics,Apple,1,3,2223.58,2733.02,Litre
+2445,Garden Furniture,Home Centre,4,3,1471.34,2905.1,Packet
+2446,Be Clothing,Nike,2,5,3822.55,3658.05,Kg
+2447,Go Sports,Nivia,5,8,492.46,5292.68,Piece
+2448,Physical Clothing,Adidas,2,8,3603.83,1744.93,Piece
+2449,Who Sports,Yonex,5,2,1163.39,4497.86,Box
+2450,Table Sports,Nivia,5,6,839.57,5049.25,Kg
+2451,May Groceries,Fortune,3,5,3459.75,1107.69,Piece
+2452,Be Furniture,Home Centre,4,3,3384.26,6425.8,Box
+2453,Inside Furniture,IKEA,4,3,3285.94,4713.76,Piece
+2454,View Electronics,Dell,1,1,1440.43,3494.88,Kg
+2455,Health Furniture,Nilkamal,4,5,1507.67,3271.12,Kg
+2456,Fall Groceries,India Gate,3,3,2146.24,6401.32,Litre
+2457,Page Electronics,HP,1,10,1288.03,1787.24,Litre
+2458,Movement Electronics,Sony,1,3,2068.32,737.81,Piece
+2459,About Furniture,IKEA,4,2,3435.19,6901.95,Piece
+2460,True Electronics,Apple,1,3,321.71,3347.09,Kg
+2461,Deep Sports,Nivia,5,6,4161.8,1251.95,Piece
+2462,Particular Sports,Yonex,5,3,509.23,1176.09,Packet
+2463,Politics Furniture,IKEA,4,6,1955.98,1048.93,Litre
+2464,Hand Electronics,Samsung,1,8,1740.3,5790.67,Box
+2465,Chance Electronics,Dell,1,1,3201.97,5300.62,Box
+2466,Child Furniture,IKEA,4,7,1341.39,1199.68,Box
+2467,Manage Electronics,Samsung,1,8,4542.59,2494.34,Kg
+2468,Do Sports,Nivia,5,6,2161.14,6886.13,Packet
+2469,Tax Clothing,Puma,2,2,4054.7,6171.97,Litre
+2470,Something Furniture,Home Centre,4,10,707.77,6825.53,Kg
+2471,Think Sports,Yonex,5,5,4493.45,1671.54,Piece
+2472,Voice Sports,Yonex,5,8,1516.91,1012.36,Packet
+2473,Continue Electronics,Apple,1,8,4886.79,1493.69,Litre
+2474,Success Electronics,Sony,1,6,1478.97,5361.7,Box
+2475,World Groceries,Aashirvaad,3,6,3480.31,911.96,Box
+2476,Hotel Electronics,Sony,1,6,2442.45,6174.22,Packet
+2477,Image Clothing,Nike,2,9,1365.0,2500.19,Packet
+2478,Especially Groceries,India Gate,3,3,1430.72,4179.81,Litre
+2479,Sound Electronics,Dell,1,6,3160.63,1542.41,Box
+2480,Then Electronics,Samsung,1,8,3424.42,1436.13,Packet
+2481,Become Groceries,Aashirvaad,3,5,4794.89,2824.8,Kg
+2482,Fear Groceries,India Gate,3,9,3825.57,6975.72,Box
+2483,Six Sports,Yonex,5,5,311.8,2137.51,Packet
+2484,Against Electronics,Sony,1,3,2768.22,4916.21,Packet
+2485,Hundred Groceries,Aashirvaad,3,1,567.03,3336.11,Piece
+2486,Consider Electronics,Sony,1,2,1870.3,936.39,Piece
+2487,Issue Groceries,India Gate,3,4,2778.62,2990.94,Kg
+2488,Toward Electronics,Dell,1,5,3898.82,4769.6,Packet
+2489,Maybe Groceries,Fortune,3,4,1703.66,5472.09,Kg
+2490,Change Sports,Yonex,5,8,3634.32,3947.17,Packet
+2491,Shake Furniture,Home Centre,4,9,2893.24,1805.43,Box
+2492,Forget Electronics,Apple,1,2,3470.55,921.82,Litre
+2493,Finally Furniture,IKEA,4,10,1963.96,4297.65,Box
+2494,Audience Electronics,Apple,1,6,2154.22,5406.47,Packet
+2495,Less Clothing,Puma,2,9,4041.08,5356.63,Kg
+2496,Forget Electronics,Dell,1,6,4070.4,3756.32,Box
+2497,Far Electronics,Dell,1,2,3466.97,6675.39,Packet
+2498,Would Groceries,Aashirvaad,3,3,3857.06,6552.85,Litre
+2499,Bed Furniture,Nilkamal,4,4,956.57,2783.52,Litre
+2500,Size Groceries,Aashirvaad,3,7,970.18,4163.63,Piece

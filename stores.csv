@@ -1,0 +1,51 @@
+store_id,store_name,city,state,opening_year
+1,Retail Hub Chennai Branch 1,Chennai,Tamil Nadu,2016
+2,Retail Hub Bangalore Branch 1,Bangalore,Karnataka,2017
+3,Retail Hub Hyderabad Branch 1,Hyderabad,Telangana,2018
+4,Retail Hub Mumbai Branch 1,Mumbai,Maharashtra,2019
+5,Retail Hub Delhi Branch 1,Delhi,Delhi,2020
+6,Retail Hub Pune Branch 1,Pune,Maharashtra,2021
+7,Retail Hub Kolkata Branch 1,Kolkata,West Bengal,2022
+8,Retail Hub Ahmedabad Branch 1,Ahmedabad,Gujarat,2023
+9,Retail Hub Jaipur Branch 1,Jaipur,Rajasthan,2024
+10,Retail Hub Lucknow Branch 1,Lucknow,Uttar Pradesh,2015
+11,Retail Hub Chennai Branch 2,Chennai,Tamil Nadu,2016
+12,Retail Hub Bangalore Branch 2,Bangalore,Karnataka,2017
+13,Retail Hub Hyderabad Branch 2,Hyderabad,Telangana,2018
+14,Retail Hub Mumbai Branch 2,Mumbai,Maharashtra,2019
+15,Retail Hub Delhi Branch 2,Delhi,Delhi,2020
+16,Retail Hub Pune Branch 2,Pune,Maharashtra,2021
+17,Retail Hub Kolkata Branch 2,Kolkata,West Bengal,2022
+18,Retail Hub Ahmedabad Branch 2,Ahmedabad,Gujarat,2023
+19,Retail Hub Jaipur Branch 2,Jaipur,Rajasthan,2024
+20,Retail Hub Lucknow Branch 2,Lucknow,Uttar Pradesh,2015
+21,Retail Hub Chennai Branch 3,Chennai,Tamil Nadu,2016
+22,Retail Hub Bangalore Branch 3,Bangalore,Karnataka,2017
+23,Retail Hub Hyderabad Branch 3,Hyderabad,Telangana,2018
+24,Retail Hub Mumbai Branch 3,Mumbai,Maharashtra,2019
+25,Retail Hub Delhi Branch 3,Delhi,Delhi,2020
+26,Retail Hub Pune Branch 3,Pune,Maharashtra,2021
+27,Retail Hub Kolkata Branch 3,Kolkata,West Bengal,2022
+28,Retail Hub Ahmedabad Branch 3,Ahmedabad,Gujarat,2023
+29,Retail Hub Jaipur Branch 3,Jaipur,Rajasthan,2024
+30,Retail Hub Lucknow Branch 3,Lucknow,Uttar Pradesh,2015
+31,Retail Hub Chennai Branch 4,Chennai,Tamil Nadu,2016
+32,Retail Hub Bangalore Branch 4,Bangalore,Karnataka,2017
+33,Retail Hub Hyderabad Branch 4,Hyderabad,Telangana,2018
+34,Retail Hub Mumbai Branch 4,Mumbai,Maharashtra,2019
+35,Retail Hub Delhi Branch 4,Delhi,Delhi,2020
+36,Retail Hub Pune Branch 4,Pune,Maharashtra,2021
+37,Retail Hub Kolkata Branch 4,Kolkata,West Bengal,2022
+38,Retail Hub Ahmedabad Branch 4,Ahmedabad,Gujarat,2023
+39,Retail Hub Jaipur Branch 4,Jaipur,Rajasthan,2024
+40,Retail Hub Lucknow Branch 4,Lucknow,Uttar Pradesh,2015
+41,Retail Hub Chennai Branch 5,Chennai,Tamil Nadu,2016
+42,Retail Hub Bangalore Branch 5,Bangalore,Karnataka,2017
+43,Retail Hub Hyderabad Branch 5,Hyderabad,Telangana,2018
+44,Retail Hub Mumbai Branch 5,Mumbai,Maharashtra,2019
+45,Retail Hub Delhi Branch 5,Delhi,Delhi,2020
+46,Retail Hub Pune Branch 5,Pune,Maharashtra,2021
+47,Retail Hub Kolkata Branch 5,Kolkata,West Bengal,2022
+48,Retail Hub Ahmedabad Branch 5,Ahmedabad,Gujarat,2023
+49,Retail Hub Jaipur Branch 5,Jaipur,Rajasthan,2024
+50,Retail Hub Lucknow Branch 5,Lucknow,Uttar Pradesh,2015
